@@ -1,0 +1,45 @@
+* Anchored Note, page 1
+<R>Basic solution
+
+-PRh(Appendix)
+
+* Anchored Note, page 1
+<R>Bath solution for K+ current recordings
+
+-PRh(Appendix)
+
+* Anchored Note, page 1
+<R>Enzyme solution 1
+
+-PRh(Appendix)
+
+* Anchored Note, page 1
+<R>Enzyme solution 2
+
+-PRh(Appendix)
+
+* Anchored Note, page 1
+<R>MS medium (0.5X)
+
+-PRh(Appendix)
+
+* Anchored Note, page 1
+<R>Pipette solution for K+ current recordings
+
+-PRh(Appendix)
+
+* Anchored Note, page 6
+This method of patch clamping Arabidopsis guard cell protoplasts was adapted from one used for iso- lation and patch clamping of Vicia faba guard cell protoplasts (Schroeder et al. 1984; Assmann et al. 1985; Kruse et al. 1989);
+
+-PXh(Schroeder et al 1984, Assmann et al 1985; Kruse et al 1989)
+
+* Anchored Note, page 6
+Pei et al. (1997) describe an alternative method to isolate Arabidopsis guard cell protoplasts suitable for patch clamping.
+
+-PCh(Pei et al 1997)
+
+* Anchored Note, page 6
+Another two-step pro- tocol for large-scale isolation of Arabidopsis guard cell protoplasts has also been described (Leonhardt et al. 2004).
+
+-PCh(Leonhardt et al 2004)
+

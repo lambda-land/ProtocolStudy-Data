@@ -1,0 +1,65 @@
+* Anchored Note, page 1
+This protocol was adapted from methods originally developed in the work of Messer (1977), Gallo et al. (1982), Thangnipon et al. (1983), D’Mello et al. (1993) and Dudek et al. (1997).
+
+-PXh(Messer (1977), Gallo et al. (1982), Thangnipon et al. (1983), D’Mello et al. (1993) and Dudek et al. (1997).)
+
+* Anchored Note, page 1
+<R><!>AraC (Cytosine-1-β-D-arabinofuranoside) solution
+
+-PAh(Appendix)
+
+* Anchored Note, page 1
+<R><!>AraC (Cytosine-1-β-D-arabinofuranoside) solution
+
+-PRh(Appendix)
+
+* Anchored Note, page 1
+<R>Culture medium for granule neurons
+
+-PRh(Appendix)
+
+* Anchored Note, page 1
+<R>DNase (2 mg/mL) (0.5-mL aliquot for trituration; see Step 10)
+
+-PRh(Appendix)
+
+* Anchored Note, page 1
+<R>HHGN dissection solution
+
+-PRh(Appendix)
+
+* Anchored Note, page 1
+<R>Poly-L-ornithine-coated plates (of desired size, depending on experiments to be performed; see Step 15)
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<!>Trypan blue
+
+-PAh(Appendix)
+
+* Anchored Note, page 2
+<R><!>Trypsin-DNase solution
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<R><!>Trypsin-DNase solution
+
+-PAh(Appendix)
+
+* Anchored Note, page 2
+<!>CO2 chamber
+
+-PAh(Appendix)
+
+* Anchored Note, page 6
+Although recent improvements in culture techniques may increase the survival and differentiation of Purkinje neurons in mixed cerebellar cultures (Furuya et al. 1998; Ito-Ishida et al. 2008),
+
+-PCh(Furuya et al 1998; Ito-Ishida et al 2008)
+
+* Anchored Note, page 6
+Purifying Purkinje neurons can require Percoll sedimenta- tion and immunopanning technologies (Baptista et al. 1994),
+
+-PCh(Baptista et al 1994)
+

@@ -1,0 +1,170 @@
+* Anchored Note, page 2
+The procedure must be performed under Biosafety Level 2 conditions.
+
+:X1x
+
+* Anchored Note, page 2
+1. Anesthetize the animal by injecting intraperitoneally with 16 μL ketamine/xylazine per gram of body weight.
+
+:AP1a
+
+* Anchored Note, page 2
+Wait until the animal is anesthetized by checking paw-pinch withdrawal and corneal reflexes before continuing.
+
+a
+
+* Anchored Note, page 2
+2. Lay the animal on its back on a piece of cardboard. Immobilize the limbs with tape. Stretch back the nose by securing a rubber band across the mouth.
+
+:AP1; W3
+
+* Anchored Note, page 2
+Monitor the animal during the entire surgical procedure and test the depth of anesthesia regularly (e.g., by controlling respiratory rate and paw-pinch withdrawal reflex).
+
+W3
+
+* Anchored Note, page 3
+3. Using an alcohol swab, wet the neck area from the base of the chin to just above the ribcage.
+
+:AP1
+
+* Anchored Note, page 3
+4. Use a razor blade to shave away the hair, exposing the skin.
+
+:AP1
+
+* Anchored Note, page 3
+5. Use cotton-tipped applicators to apply disinfectant solution/surgical scrub to the shaved area. Finish by swabbing with 70% ethanol.
+
+:AP1
+
+* Anchored Note, page 3
+6. Grasp the skin with forceps. Use a sterile scalpel to make a shallow incision ~1.5-cm long from the ribcage to the chin.
+
+:AP1
+
+* Anchored Note, page 3
+7. Gently detach the glands from the skin using tissue separator scissors.
+
+:AP1i
+
+* Anchored Note, page 3
+The salivary glands are located immediately below the skin, and adhere to it via layers of connective tissue.
+
+i
+
+* Anchored Note, page 3
+8. Rinse the Hamilton syringe with DPBS before drawing up PRV inoculum.
+
+:AP1
+
+* Anchored Note, page 3
+9. Using the Hamilton syringe, inject 5 μL of the PRV369 into each side of the salivary glands:
+
+:AP1
+
+* Anchored Note, page 3
+i. Inject PRV into one side of the salivary gland by making two to three separate injections in the center.
+
+:AP1
+
+* Anchored Note, page 3
+ii. Keep the syringe in place for ~10 sec at each injection site.
+
+:AP1
+
+* Anchored Note, page 3
+iii. Repeat with the other side.
+
+:CL(9.i-ii)1i
+
+* Anchored Note, page 3
+Injecting in both the left and right glands doubles the chance of finding infected cells and reduces the number of animals used.
+
+i
+
+* Anchored Note, page 3
+10. Close the incision with silk sutures. Apply disinfectant solution to the sutured area.
+
+:AP1
+
+* Anchored Note, page 3
+11. For post-operative analgesia, inject 5 μL of the diluted buprenorphine per gram of body weight intraperitoneally.
+
+:AP1
+
+* Anchored Note, page 3
+12. Keep the mouse on a heating blanket at 37°C until it recovers. Put the animal in a new cage by itself.
+
+:AP1
+
+* Anchored Note, page 3
+13. At the desired time post-inoculation, anesthetize the animal for ~10 min in an isoflurane chamber using 2% isoflurane.
+
+:AP1
+
+* Anchored Note, page 3
+14. Place the animal on its back on the imaging stage. Position the animal’s nose in the isoflurane cone. Tape down all limbs.
+
+:AP1
+
+* Anchored Note, page 3
+15. Insert the rectal temperature probe. Turn on the heating blanket to keep the animal’s temperature at 37°C.
+
+:AP1
+
+* Anchored Note, page 3
+16. Under a dissection microscope, use stitch scissors to remove the sutures.
+
+:AP1
+
+* Anchored Note, page 3
+17. Use tissue-separator scissors to separate the glands from the skin. With the aid of retractors, pull open the skin to better expose the glands.
+
+:AP1i
+
+* Anchored Note, page 3
+Healthy glands have lobules and appear pinkish gray. It is rare to detect any damage in the glands from the first surgery. Even if some inflammation occurs in the glands, it does not affect imaging in the submandibular neurons.
+
+i
+
+* Anchored Note, page 3
+18. Using fine forceps to cut connective tissue, locate the SMG anterior to one of the salivary glands.
+
+:AP1i
+
+* Anchored Note, page 3
+The SMGs are located along the salivary duct and surrounded by connective tissue. They appear as small translucent beads. Healthy ganglia should have detectable capillaries with blood flow.
+
+i
+
+* Anchored Note, page 4
+19. Lift the ganglion onto a small metal platform that is controlled by a micromanipulator.
+
+:AP1a
+
+* Anchored Note, page 4
+Apply some tension so that the ganglion stays in place.
+
+a
+
+* Anchored Note, page 4
+20. Move the stage from the dissection microscope to an upright imaging microscope. Perfuse the area with warm mammalian Ringer’s solution.
+
+:AP1
+
+* Anchored Note, page 4
+21. Image calcium transients with a one-photon wavelength of 480 nm (or two-photon excitation at 920 nm) and with a 500- to 550-nm bandpass emission filter.
+
+:AV1ir(t)
+
+* Anchored Note, page 4
+Labeled cells will have dim background fluorescence that fills the soma compared with nonlabeled cells. Transients are bright and can be seen in the raw movies.
+
+i
+
+* Anchored Note, page 4
+See Troubleshooting.
+
+r(t)
+

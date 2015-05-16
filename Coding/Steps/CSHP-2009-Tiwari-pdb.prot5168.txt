@@ -1,0 +1,486 @@
+* Anchored Note, page 4
+1. Grow 2 × 107 cells of the cell type of interest in an appropriate medium and under suitable con- ditions until they are 70%-80% confluent.
+
+:S2e
+
+* Anchored Note, page 4
+2. Add 0.86 mL of 37% formaldehyde (to a final concentration of 2%) directly to a cell culture dish containing 15 mL of medium. Swirl gently to mix. Incubate for 10 min at room temperature.
+
+:AP1
+
+* Anchored Note, page 4
+3. Add 1.057 mL of 2 M glycine (to a final concentration of 0.125 M) to the dishes. Swirl gently to mix. Incubate for 5 min at room temperature.
+
+:AP1
+
+* Anchored Note, page 4
+4. Aspirate the medium. Wash the cells with 5 mL of ice-cold PBS containing protease inhibitor cocktail.
+
+:AP1
+
+* Anchored Note, page 4
+5. Prepare 0.2X trypsin diluted in PBS, and add 5 mL of it to the cells. Incubate in 5% CO2 for 5 min at 37°C.
+
+:AP1
+
+* Anchored Note, page 4
+6. Neutralize the trypsin with 10 mL of 10% fetal bovine serum.
+
+:AP1
+
+* Anchored Note, page 4
+7. Scrape the cells from the plate. Transfer them to 50-mL tubes.
+
+:AP1
+
+* Anchored Note, page 4
+Optionally, scrape a second time with PBS containing protease inhibitor cocktail.
+
+:AP1o
+
+* Anchored Note, page 4
+8. Collect the cells by centrifuging at 1300 rpm for 8 min at 4°C.
+
+:AP1
+
+* Anchored Note, page 4
+9. Wash twice with 10 mL of PBS containing protease inhibitor cocktail. Working on ice, pipette gen- tly to make a single-cell suspension.
+
+:AP1
+
+* Anchored Note, page 4
+After resuspending the second time, count the cells before centrifugation.
+
+:AQ1
+
+* Anchored Note, page 4
+10. Add 10 mL of cellular lysis solution containing protease inhibitor cocktail to the cells. Mix gently by pipetting. Incubate for 10 min on ice.
+
+:AP1
+
+* Anchored Note, page 5
+Monitor lysis by observing an aliquot under a microscope. These conditions should be sufficient for most cell types. However, certain cell types might need different incubation times and/or different strengths of the buffer for complete lysis.
+
+:W1a
+
+* Anchored Note, page 5
+11. Centrifuge at 1800 rpm for 5 min at 4°C. Discard the supernatant.
+
+:AP1
+
+* Anchored Note, page 5
+At this point, the cell pellet can be snap-frozen in liquid nitrogen and stored at -80°C until use.
+
+:AP1o
+
+* Anchored Note, page 5
+12. Resuspend the pellet in 500 μL of 1.14X restriction enzyme buffer (appropriate for the restriction enzyme to be used in Step 16).
+
+:AP1
+
+* Anchored Note, page 5
+13. Pellet the cells by centrifugation. Resuspend in 500 μL of 1.14X restriction enzyme buffer. Transfer to 1.5-mL tubes.
+
+:AP1
+
+* Anchored Note, page 5
+14. Add 7.5 μL of 20% SDS (to a final concentration of 0.3% SDS). Mix by gentle pipetting. Shake gently for 1 h at 37°C.
+
+:AP1
+
+* Anchored Note, page 5
+15. Add 50 μL of 20% Triton X-100 (to a final concentration of 1.8%). Shake gently for 1 h at 37°C.
+
+:AP1
+
+* Anchored Note, page 5
+16. Add 1200 units of restriction enzyme (i.e., 12 μL of 100 units/μL). Incubate with gentle shaking overnight at 37°C.
+
+:AP1
+
+* Anchored Note, page 5
+17. Add 40 μL of 20% SDS (to a final concentration of 1.6%). Incubate with shaking for 30 min at 65°C.
+
+:AP1
+
+* Anchored Note, page 5
+18. Transfer the sample to a 15-mL tube containing 7 mL of 1.15X ligation buffer.
+
+:AP1
+
+* Anchored Note, page 5
+19. Add 400 μL of 20% Triton X-100 (to a final concentration of 1%). Incubate with occasional gen- tle shaking for 1 h at 37°C.
+
+:AP1
+
+* Anchored Note, page 5
+20. Add 50 μL of T4 DNA ligase. Incubate for 4 h at 16°C.
+
+:AP1
+
+* Anchored Note, page 5
+21. Incubate for 30 min at room temperature.
+
+:AP1
+
+* Anchored Note, page 5
+22. Remove 10 μL from the sample (from Step 21). Store at -20°C.
+
+:AP1ir(21, 37)
+
+* Anchored Note, page 5
+from Step 21
+
+r(21)
+
+* Anchored Note, page 5
+This sample will serve as the “input” sample for subsequent analysis
+
+i
+
+* Anchored Note, page 5
+(see Step 37)
+
+r(37)
+
+* Anchored Note, page 5
+23. Remove an 800-μL aliquot from the sample (from Step 21). Add it to 7.2 mL of ChIP diluent (i.e., a 10-fold dilution).
+
+:AP1ir(21)
+
+* Anchored Note, page 5
+from Step 21
+
+r(21)
+
+* Anchored Note, page 5
+Multiple ChIP reactions can be performed from one 3C ligation reaction. The same ligation reaction can be split and used for ChIP analyses with different antibodies.
+
+i
+
+* Anchored Note, page 5
+24. Add 4-10 μg of the antibody of choice per immunoprecipitation. Rotate end-over-end overnight at 4°C.
+
+:AP1
+
+* Anchored Note, page 5
+i. Mix Protein G-conjugated beads:Protein A-conjugated beads (1:3) in a 1.5-mL tube.
+
+:AP1i
+
+* Anchored Note, page 5
+Each immunoprecipitation experiment will need 100 μL of this bead mix. The choice of beads will strictly depend on the type of antibody being used.
+
+i
+
+* Anchored Note, page 5
+ii. Add 1 mL of 0.5% BSA in PBS and mix.
+
+:AP1
+
+* Anchored Note, page 5
+iii. Place the tube in a magnetic stand for 1 min.
+
+:AP1
+
+* Anchored Note, page 5
+iv. Remove the solution by vacuum suction.
+
+:AP1x
+
+* Anchored Note, page 5
+Be careful not to aspirate the beads.
+
+x
+
+* Anchored Note, page 5
+v. Remove the tube from the stand. Add 1 mL of 0.5% BSA in PBS. Invert the tube to resus- pend beads.
+
+:AP1
+
+* Anchored Note, page 6
+vi. Repeat Steps 25.iii-25.iv.
+
+:CL(25.iii-25.iv)
+contains an implicit "end" here -- i.e. a computer would never leave this loop
+
+* Anchored Note, page 6
+vii. Resuspend the beads in 1 mL of 0.5% BSA in PBS. Rotate end-over-end overnight at 4°C.
+
+:AP1
+
+* Anchored Note, page 6
+26. Add 100 μL of the blocked magnetic bead solution to each immunoprecipitate sample (from Step 24). Incubate with rotation for 3 h at 4°C.
+
+:AP1r(24)
+
+* Anchored Note, page 6
+from Step 24
+
+r(24)
+
+* Anchored Note, page 6
+27. Prechill one 1.5-mL tube for each immunoprecipitate.
+
+:AP1
+
+* Anchored Note, page 6
+28. Transfer ~1.5 mL of each immunoprecipitate to a separate prechilled tube. Place the tubes in the magnetic stand to collect the beads. Remove the supernatant. Add another aliquot of the remain- ing immunoprecipitate. Repeat until all the beads have been collected.
+
+:AP1mw
+
+* Anchored Note, page 6
+Repeat until all the beads have been collected.
+
+m
+
+* Anchored Note, page 6
+Alternatively, pellet the magnetic beads in a centrifuge at 2000 rpm for 5 min. Aspirate some of the super- natant, leaving ~1 mL in the tube. Resuspend the pellet with the remaining supernatant and transfer to a chilled tube. Let the tube sit in the magnetic stand for 1 min to collect the beads. Aspirate the remaining supernatant.
+
+w
+
+* Anchored Note, page 6
+29. Remove the tubes from the magnetic stand. Place on ice.
+
+:AP1
+
+* Anchored Note, page 6
+30. Wash the beads four times with 500 μL of low-salt immune complex wash buffer containing pro- tease inhibitor cocktail. Agitate gently to resuspend the beads. Place the tubes in the magnetic stand to collect the beads. Remove the supernatant.
+
+:AP1amx
+
+* Anchored Note, page 6
+Wash the beads four times
+
+m
+
+* Anchored Note, page 6
+Use fresh buffer for each wash.
+
+x
+
+* Anchored Note, page 6
+If the beads are stuck on the bottom of the tube, place on the magnetic stand momentarily to move the beads to the side and continue to invert.
+
+a
+
+* Anchored Note, page 6
+31. Wash the beads once with 500 μL of high-salt immune complex wash buffer containing protease inhibitor cocktail. Agitate gently to resuspend the beads. Place the tubes in the magnetic stand to collect the beads. Remove the supernatant.
+
+:AP1
+
+* Anchored Note, page 6
+32. Wash the beads once with 1 mL of TE buffer containing protease inhibitor cocktail. Collect on the magnetic stand. Remove the supernatant.
+
+:AP1a
+
+* Anchored Note, page 6
+The bead pellet is relatively loose in the TE buffer. Remove the supernatant by pipetting manually instead of vacuum aspiration.
+
+a
+
+* Anchored Note, page 6
+33. Centrifuge at 960g for 3 min at 4°C. Remove any residual TE buffer.
+
+:AP1
+
+* Anchored Note, page 6
+34. Add 210 μL of bead eluting buffer. Incubate for 15 min at 65°C. Vortex briefly every 2 min.
+
+:AP1w
+
+* Anchored Note, page 6
+Alternatively, shake gently for 15 min in a shaking incubator pre-set to 65°C.
+
+w
+
+* Anchored Note, page 6
+35. Centrifuge at 16,000g for 1 min at room temperature.
+
+:AP1
+
+* Anchored Note, page 6
+36. Transfer 200 μL of the supernatant to a new 1.5-mL tube.
+
+:AP1
+
+* Anchored Note, page 6
+37. Thaw the inputs (from Step 22). Add 190 μL of bead eluting buffer.
+
+:AP1r(22)
+
+* Anchored Note, page 6
+from Step 22
+
+r(22)
+
+* Anchored Note, page 6
+38. Reverse-cross-link samples (from Step 36) and inputs (from Step 37) overnight at 65°C.
+
+:AP1ar(36, 37)
+
+* Anchored Note, page 6
+from Step 36
+
+r(36)
+
+* Anchored Note, page 6
+from Step 37
+
+r(37)
+
+* Anchored Note, page 6
+Cover the tubes in the heat block with aluminum foil to reduce evaporation.
+
+a
+
+* Anchored Note, page 6
+39. Dilute the SDS by adding 200 μL of TE buffer. Add 8 μL of 10 mg/mL RNase A. Incubate for 2 h at 37°C.
+
+:AP1
+
+* Anchored Note, page 6
+40. Add 8 μL of 10 mg/mL proteinase K. Incubate for 2 h at 50°C.
+
+:AP1
+
+* Anchored Note, page 6
+41. Add an equal volume of phenol:chloroform:isoamyl alcohol to the samples. Shake well. Centrifuge at 10,000 rpm for 15 min. Transfer the upper phase to a fresh tube. Repeat this step with the upper phase.
+
+:AP1x, CL(41)
+
+* Anchored Note, page 6
+equal volume of phenol:chloroform:isoamyl alcohol
+
+x
+
+* Anchored Note, page 6
+Repeat this step with the upper phase.
+
+CL(41)
+
+* Anchored Note, page 6
+42. Precipitate the DNA by adding 0.1 volume of 3 M sodium acetate, 1 μL glycogen, and 2 volumes of 100% ethanol.
+
+:AP1
+
+* Anchored Note, page 6
+43. Wash with 0.4 volume of 70% ethanol. Vortex gently after adding the ethanol.
+
+:AP1
+
+* Anchored Note, page 6
+44. Dissolve the pellet in 15 μL of nuclease-free H2O.
+
+:AP1
+
+* Anchored Note, page 6
+45. Test the success of the ChIP reaction using 1 μL of undiluted immunoprecipitate by PCR with primers specific for a chromatin region known to be occupied by the protein of interest in the cell type under investigation.
+
+:AQ3
+
+* Anchored Note, page 7
+46. Using standard cloning protocols, clone the 3C-ChIP products (from Step 44) into a vector that has enzyme overhangs similar to those generated in the 3C assay.
+
+:AP1ir(44)
+
+* Anchored Note, page 7
+from Step 44
+
+r(44)
+
+* Anchored Note, page 7
+This step typically involves cloning an “IgG/no antibody 3C-ChIP product” and “Plus antibody 3C-ChIP prod- uct,” in addition to regular cloning controls.
+
+i
+
+* Anchored Note, page 7
+47. Use the ligated vector to transform high-efficiency competent bacterial cells.
+
+:AP1
+
+* Anchored Note, page 7
+48. For experimental samples, spread the surface of LB-agar plates containing the antibiotic of choice (i.e., LB-ampicillin or LB-kanamycin agar plates), with 45 μL of X-gal and 9 μL of IPTG per 100-mm dish before plating the transformed cells.
+
+:AP1o
+
+* Anchored Note, page 7
+49. The next day, count the number of blue and white colonies in the bacterial plates from samples immunoprecipitated with the specific antibody as well as the controls (i.e., no antibody or IgG).
+
+:AQ1ix
+
+* Anchored Note, page 7
+White colonies represent bacteria-harboring plasmids with inserts, whereas blue colonies represent bacteria with plasmids without the insert.
+
+i
+
+* Anchored Note, page 7
+In an ideal 6C experiment, the number of white colonies should be several- fold higher in samples immunoprecipitated with the specific antibody than in controls.
+
+x
+
+* Anchored Note, page 7
+This indicates that the pull-down with a specific antibody enriched specific protein-occupied genomic regions.
+
+i
+
+* Anchored Note, page 7
+50. Pick several white colonies (i.e., containing the insert) from the bacterial plates.
+
+:AP1
+
+* Anchored Note, page 7
+51. Use each such colony to inoculate LB liquid medium containing the appropriate antibiotic. Incubate in a shaking incubator at 220 rpm overnight at 37°C.
+
+:AP1
+
+* Anchored Note, page 7
+52. Purify the plasmids using the PureLink HQ 96 Mini Plasmid DNA Purification Kit according to the manufacturer’s instructions.
+
+:AP1r(x)w
+
+* Anchored Note, page 7
+Alternatively, standard plasmid preparation protocols or kits can also be used.
+
+w
+
+* Anchored Note, page 7
+53. Screen the purified plasmids (from Step 52) by digestion with the same restriction enzyme used for Step 16, using standard restriction digestion protocols.
+
+:AP1r(52, 16)
+
+* Anchored Note, page 7
+from Step 52
+
+r(52)
+
+* Anchored Note, page 7
+for Step 16
+
+r(16)
+
+* Anchored Note, page 7
+54. Separate the resulting DNA fragments by electrophoresis in a 1% agarose gel containing SYBR Safe. Use an appropriately sized DNA ladder for reference. Visualize using UV light.
+
+:AP1; AV1cr(Troubleshooting)
+
+* Anchored Note, page 7
+See Troubleshooting.
+
+cr(Troubleshooting)
+
+* Anchored Note, page 7
+55. Sequence the plasmids showing more than one insert.
+
+:AP1x
+
+* Anchored Note, page 7
+Ideally, multiple inserts mean interacting partners.
+
+x
+
+* Anchored Note, page 7
+56. Sequence the inserts using primers from two different ends of the vector (e.g., T3 and T7 promoter-specific primers for pBluescript II RI Predigested Vector).
+
+:AP1
+

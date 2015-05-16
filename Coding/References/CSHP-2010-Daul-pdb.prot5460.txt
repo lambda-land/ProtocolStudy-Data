@@ -1,0 +1,25 @@
+* Anchored Note, page 1
+When examining mutants that affect the development of Drosophila larval brains, it may be useful to employ other labeling methods, such as those described in EdU (5-Ethynyl-2-Deoxyuridine) Labeling of Drosophila Mitotic Neuroblasts (Daul et al. 2010a) and Multicolor Fluorescence RNA In Situ Hybridization of Drosophila Brain Tissue (Daul et al. 2010b)
+
+-PCh(Daul et al 2010a, 2010b)
+
+* Anchored Note, page 1
+<R>Block solution (D)
+
+-PRh(Appendix)
+
+* Anchored Note, page 1
+<R>Fix solution
+
+-PRh(Appendix)
+
+* Anchored Note, page 1
+<R>PBSBTX
+
+-PRh(Appendix)
+
+* Anchored Note, page 1
+<R>PBSTX
+
+-PRh(Appendix)
+

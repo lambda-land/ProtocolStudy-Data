@@ -1,0 +1,65 @@
+* Anchored Note, page 1
+It is essential that you consult the appropriate Material Safety Data Sheets and your institution’s Environmental Health and Safety Office for proper handling of equipment and hazardous materials used in this protocol.
+
+-EA
+
+* Anchored Note, page 2
+Bead binding buffer <R>
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+Cell lysis buffer for ChIP-Seq <R>
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+ChIP-Seq dilution buffer <R>
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+ChIP-Seq elution buffer <R>
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+ChIP-Seq nuclear lysis buffer (see Step 24) <R>
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+ChIP-Seq wash buffer <R>
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+TAE <R>
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+TE buffer for ChIP-Seq <R>
+
+-PRh(Appendix)
+
+* Anchored Note, page 5
+Prepare a 1× Pico- Green stock and follow the manufacturer’s instructions for setting up a standard curve on the NanoDrop instrument.
+
+-MBh(NanoDrop 3300 Fluorospectrometer Mfr. Instr)
+
+* Anchored Note, page 6
+FollowtheQIAquickPCRPurificationKitinstructions
+
+-MBh(QIAquick PCR Purification Kit Mfr. Instr)
+
+* Anchored Note, page 6
+A good reference for performing qPCR is Bustin et al. (2009).
+
+-PAh(Bustin et al. 2009)
+
+* Anchored Note, page 7
+Follow the manufacturer’s instructions for preparing libraries with a kit.
+
+-EB
+

@@ -1,0 +1,55 @@
+* Anchored Note, page 1
+This protocol was adapted from “Detection and Analysis of Mouse Genome Alterations and Specific Sequences,” Chapter 12,
+
+-PXh(“Detection and Analysis of Mouse Genome Alterations and Specific Sequences,” Chapter 12)
+
+* Anchored Note, page 1
+Several methods for disaggregation of cells are described by Cronmiller and Mintz (1978)
+
+-PRh(cronmiller and mintz 1978)
+
+* Anchored Note, page 1
+Additional variations on the methods for karyotyping and banding embryonal carcinomal cells are found in McBurney and Rogers (1982) and Robertson et al. (1983).
+
+-PCh(McBurney and Rogers (1982) and Robertson et al. (1983). )
+
+* Anchored Note, page 1
+For guidance in trypsinization, see Trypsinization of Cells Grown in Monolayer (Darlington 2006).
+
+-PIh(Darlington 2006)
+
+* Anchored Note, page 1
+<R>Carnoy’s fixative (freshly prepared and kept at room temperature)
+
+-PRh(Appendix)
+
+* Anchored Note, page 1
+<!>Ethanol, absolute:HCl, concentrated solution (1:1)
+
+-PAh(Appendix)
+
+* Anchored Note, page 1
+<!>Ethanol, absolute:diethyl ether solution (1:1)
+
+-PAh(Appendix)
+
+* Anchored Note, page 1
+<!>Giemsa stain (dilute 1:20 with H2O) (Sigma)
+
+-PAh(Appendix)
+
+* Anchored Note, page 1
+<R>SSC (20X)
+
+-PRh(Appendix)
+
+* Anchored Note, page 1
+<!>Trypsin (0.025% [w/v]) in 0.85% (w/v) NaCl
+
+-PAh(Appendix)
+
+* Anchored Note, page 2
+For guidance in trypsinization, see Trypsinization of Cells Grown in Monolayer (Darlington 2006).
+
+-PIh(Darlington 2006)
+

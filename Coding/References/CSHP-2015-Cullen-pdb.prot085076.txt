@@ -1,0 +1,20 @@
+* Anchored Note, page 1
+It is essential that you consult the appropriate Material Safety Data Sheets and your institution’s Environmental Health and Safety Office for proper handling of equipment and hazardous materials used in this protocol.
+
+-EA
+
+* Anchored Note, page 1
+YEPD agar plates with varying agar concentrations (e.g., 0.3%, 2%, and 4%) <R> Do not invert 0.3% agar plates.
+
+-PRmh(Appendix)
+
+* Anchored Note, page 2
+It also allows assessment of invasive growth by the plate- washing assay (see The Plate-Washing Assay: A Simple Test for Filamentous Growth in Budding Yeast [Cullen 2015])
+
+-PSh(Cullen 2015)
+
+* Anchored Note, page 2
+Measure the mat areas by photographing the plates and analyzing the photos with ImageJ software (http://imagej.nih.gov; Schneider et al. 2012).
+
+-PBh(Schneider et al 2012)
+

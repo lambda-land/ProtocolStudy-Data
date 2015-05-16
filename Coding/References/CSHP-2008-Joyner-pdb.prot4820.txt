@@ -1,0 +1,91 @@
+* Anchored Note, page 1
+This protocol was adapted from “Techniques for Visualizing Gene Products, Cells, Tissues, and Organ Systems,” Chapter 16,
+
+-PXh(Nagy et al 2003)
+
+* Anchored Note, page 1
+This protocol was adapted from Dent et al. (1989) and LeMotte et al. (1989)
+
+-PXh(Dent et al 1989, LeMotte et al 1989)
+
+* Anchored Note, page 1
+The following related protocols are also available in CSH Protocols:
+
+-PIh(many other related protocols)
+
+* Anchored Note, page 1
+<R><!>BABB
+
+-PRh(Appendix)
+
+* Anchored Note, page 1
+<R><!>BABB
+
+-PAh(Appendix)
+
+* Anchored Note, page 1
+<R><!>DAB-NiCl2
+
+-PRh(Appendix)
+
+* Anchored Note, page 1
+<R><!>DAB-NiCl2
+
+-PAh(Appendix)
+
+* Anchored Note, page 1
+<!>DMSO
+
+-PAh(Appendix)
+
+* Anchored Note, page 1
+<!>30% hydrogen peroxide (H2O2)
+
+-PAh(Appendix)
+
+* Anchored Note, page 2
+<!>Methanol
+
+-PAh(Appendix)
+
+* Anchored Note, page 2
+<!>4% paraformaldehyde, prepared in PBS
+
+-PAh(Appendix)
+
+* Anchored Note, page 2
+see CSH Protocols article Fixation of Mouse Embryos and Tissues)
+
+-PIh(Fixation of Mouse Embroys and Tissues)
+
+* Anchored Note, page 2
+<R>PBS (phosphate buffered saline)
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<R>PBTX, prepared fresh before use
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<R>PBSMT The brand of skim milk used in the PBSMT is important. Carnation gives consistently good results, whereas other brands (e.g., Kroger) do not.
+
+-PRmh(Appendix)
+
+
+* Anchored Note, page 2
+See CSH Protocols article Handling Mouse Blastocysts for Fixation.
+
+-PIh(Handling Mouse Blastocysts for Fixation)
+
+* Anchored Note, page 4
+Embed, section, and mount the embryos (for details, see CSH Protocols articles Embedding Mouse Embryos and Tissues in Wax and Sectioning Mouse Embryos).
+
+-PBh(Embedding Mouse Embryos and Tissues in Wax)
+
+* Anchored Note, page 4
+Embed, section, and mount the embryos (for details, see CSH Protocols articles Embedding Mouse Embryos and Tissues in Wax and Sectioning Mouse Embryos).
+
+-PBh(Sectioning Mouse Embryos)
+

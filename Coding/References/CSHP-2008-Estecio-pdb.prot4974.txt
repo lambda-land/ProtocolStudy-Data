@@ -1,0 +1,60 @@
+* Anchored Note, page 1
+<!>DMSO (see note at Step 10)
+
+-PAh(Appendix)
+
+* Anchored Note, page 2
+<R>LowC dNTP mix (10X)
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<R>MCA reaction buffer (10X)
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<R>MCAM wash solution 1
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<R>SSC (20X)
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<!>Phenol:chloroform (1.5:1 [v/v]; pH 9.0)
+
+-PAh(Appendix)
+
+* Anchored Note, page 2
+<R>Prehybridization solution for MCAM
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<R>React2 buffer (10X)
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<R>TE buffer (pH 8.0)
+
+-PRh(Appendix)
+
+* Anchored Note, page 3
+This method was adapted from an original protocol by Toyota et al. (1999).
+
+-PXh(Toyota et al 1999)
+
+* Anchored Note, page 4
+Combine PCR products of replicate samples and purify them using the QIAquick PCR Purification kit according to the manufacturer’s recommendation
+
+-MBh(QIAquick PCR Purification kit Mfr. recomm)
+
+* Anchored Note, page 6
+The use of methylation-sensitive enzymes with frequent cutting sites, for example, HpaII/MspI (Hatada et al. 2006), results in a high genome fraction for amplification.
+
+-PCh(Hatada et al. 2006)
+

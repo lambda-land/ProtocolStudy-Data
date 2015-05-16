@@ -1,0 +1,655 @@
+* Anchored Note, page 2
+The RQPS probe is linear DNA consisting of two physically linked DNA sequences, one of which corresponds to part of the query gene and the other to the reference gene, each with a SNV to differentiate the probe from the correspon- ding part of the genome (see Fig. 2).
+
+:X1i
+
+* Anchored Note, page 3
+1. Select a gene/genomic locus with a known CN in the genome as the reference gene.
+
+:DS3a
+
+* Anchored Note, page 3
+Although any gene/genomic locus can be used as a reference, it is best to use genes unlikely to have CNV or SNPs among individuals, such as the exons of the genes that will give phenotypes in case of amplification or loss of heterozygosity. We routinely use mouse and human Notch2 as reference genes in our studies. SRY is another (haploid) possibility in males.
+
+a
+
+* Anchored Note, page 3
+i. To avoid the interference of naturally occurring SNPs and DNA variations, select coding DNA sequence and avoid the third codon position.
+
+:X1x
+
+* Anchored Note, page 3
+avoid the third codon position.
+
+x
+
+* Anchored Note, page 3
+ii. Consult a SNP database to confirm the sequence if such a database is available.
+
+:AV1i
+
+* Anchored Note, page 3
+The SNP information among different mouse strains can be found in the mouse Phenome database at Jax (http://phenome.jax.org). Links to various other SNP databases can be found at the website for the Center for Human and Clinical Genetics, Leiden University Medical Center (http://www.humgen.nl/ SNP_databases.html).
+
+i
+
+* Anchored Note, page 3
+iii. Perform a BLAST search with the Basic Local Alignment Search Tool (BLAST) (http:// blast.ncbi.nlm.nih.gov/Blast.cgi) to help ensure that the selected sequences are unique in the genome under study.
+
+:AV1
+
+* Anchored Note, page 3
+i. Design three primers: two PCR amplification primers (F1 and R1) and one sequencing primer (S1).
+
+:AV2
+
+* Anchored Note, page 3
+ii. Choose primers with a high score (>85) in the Assay Design Software.
+
+:DS2
+
+* Anchored Note, page 3
+iii. Addacommontail(5-AGCGCTGCTCCGGTTCATAGATT-3)tothe5endofthePCRampli- fication primer that is in the opposite direction of the sequencing primer (F1 in Fig. 2).
+
+:AV1r(32-40)x
+
+* Anchored Note, page 4
+Do not add this tail to the primer that goes the same direction as the sequencing primer.
+
+x
+
+* Anchored Note, page 4
+see Steps 32-40
+
+r(32-40)
+
+* Anchored Note, page 4
+4. Repeat Steps 2 and 3 for the query gene (to prepare F2, R2, S2).
+
+:CL(2-3)3i
+
+* Anchored Note, page 4
+The SNP and primer design for the reference and query genes are independent from each other, because the pyrosequencing reactions will be performed in different wells.
+
+i
+
+* Anchored Note, page 4
+5. Selectastufferfragmentthatis~200-500bpinlengthanddesigntwoDNAprimers(Rf-1andQr-1):
+
+:AP1iw
+
+* Anchored Note, page 4
+~200-500bpinlength
+
+w
+
+* Anchored Note, page 5
+i. The stuffer DNA fragment can be any DNA that has no significant homology to either the query or reference sequence.
+
+i
+
+* Anchored Note, page 5
+ii. Each primer should be ~70 bp long, with 20 bp on the 3 end complementary to the stuffer DNA sequence and 50 bp on the 5 end matching the reference (for Rf-1) and query (for Qr-1) DNA fragments (see Fig. 2A).
+
+i
+
+* Anchored Note, page 5
+iii. Incorporate the SNVs chosen in Step 2 into these primers.
+
+:AP1r(2)
+
+* Anchored Note, page 5
+chosen in Step 2
+
+r(2)
+
+* Anchored Note, page 5
+6. Use the primers designed in Step 5 to prepare the following amplification mix:
+
+:AP1r(5)
+
+* Anchored Note, page 5
+designed in Step 5
+
+r(5)
+
+* Anchored Note, page 5
+7. Perform the following PCR cycling program:
+
+:AP1a
+
+* Anchored Note, page 5
+To conserve energy, the samples can also be held at 10oC overnight (instead of 4oC).
+
+a
+
+* Anchored Note, page 5
+8. AnalyzeanaliquotofthecompletedreactionbyDNAgelelectrophoresistoconfirmthatthePCR worked.
+
+:AP1
+
+* Anchored Note, page 5
+9. (Optional) If the designed reference and query fragments are >50 bp, design another pair of primers (Rf-2 and Qr-2 in Fig. 2) with 3 ends that overlap Rf-1 and Qr-1, respectively. Repeat the PCR, using 1 μL of product from the reaction in Step 7 as template.
+
+:AV1o; CL(7)ir(7)
+
+* Anchored Note, page 5
+(Optional)
+
+o
+
+* Anchored Note, page 5
+Repeat the PCR
+
+CL(7)
+
+* Anchored Note, page 5
+from the reaction in Step 7 as template
+
+r(7)
+
+* Anchored Note, page 5
+The RQPS probe can be prepared with other DNA cloning methods or direct DNA synthesis, but the strategy described here (sequential PCR) is simple and economical.
+
+i
+
+* Anchored Note, page 5
+10. (Optional) Analyze an aliquot of the completed reaction by DNA gel electrophoresis to confirm that the PCR worked.
+
+:AP1o
+
+* Anchored Note, page 5
+(Optional)
+
+o
+
+* Anchored Note, page 5
+accord- ing to the manufacturer’s instructions.
+
+r(x)
+
+* Anchored Note, page 5
+11. PurifythefinalPCRproductwithaPCRpurificationkit(e.g.,QIAquickPCRPurificationKit)accord- ing to the manufacturer’s instructions.
+
+:AP1ar(x)
+
+* Anchored Note, page 5
+If nonspecific bands appear in the gel, then the desired band should be cut from the gel and purified with a gel extraction kit.
+
+a
+
+* Anchored Note, page 5
+(Optional)
+
+o
+
+* Anchored Note, page 5
+i. Mix the following components:
+
+:AP1o
+
+* Anchored Note, page 5
+ii. Incubate the mixture for 15-30 min at 70°C. 7 μL 1 μL 1 μL 1 μL
+
+:AP1iow
+
+* Anchored Note, page 5
+for 15-30 min
+
+w
+
+* Anchored Note, page 5
+High-fidelity Taq DNA polymerase will not produce a 3 overhang A in the PCR product.
+
+i
+
+* Anchored Note, page 5
+13. Clone the purified PCR product into a TA vector according to the manufacturer’s instructions.
+
+:AP1r(x)
+
+* Anchored Note, page 5
+according to the manufacturer’s instructions
+
+r(x)
+
+* Anchored Note, page 5
+14. Screen for positive clones.
+
+:AP1
+
+* Anchored Note, page 5
+15. Purify and sequence the plasmid to confirm that the sequence is correct.
+
+:AP1
+
+* Anchored Note, page 5
+16. Linearize ~5 μg of plasmid with a restriction enzyme that will not cut inside either the query or reference DNA fragment.
+
+:AP1
+
+* Anchored Note, page 6
+17. Gel-purify the linearized plasmid with a gel extraction kit.
+
+:AP1ai
+
+* Anchored Note, page 6
+This purified, linearized plasmid will be used as the RQPS probe.
+
+i
+
+* Anchored Note, page 6
+Purified RQPS probes can be stored at −20°C until use.
+
+a
+
+* Anchored Note, page 6
+We routinely use the following method described by Laird et al. (1991).
+
+r(x)
+
+* Anchored Note, page 6
+Various protocols or commercial kits can be used to purify genomic DNA from tissues and cells. We routinely use the following method described by Laird et al. (1991).
+
+:X1r(x)
+
+* Anchored Note, page 6
+18. Digestthetissuesorcellsin500μLoftissuelysisbufferfor2horovernightwithagitationat55°C.
+
+:AP1ac
+
+* Anchored Note, page 6
+500 μL of tissue lysis buffer should be sufficient to fully digest a 2- to 3-cm-long mouse tail. Bigger tissues may need more tissue lysis buffer; adjust the volume accordingly.
+
+a
+
+* Anchored Note, page 6
+If digestion is incomplete after an overnight incubation, add more proteinase K and agitate for ~2 h until the tissue is fully digested.
+
+c
+
+* Anchored Note, page 6
+19. Centrifugethedigeststopelletthetissuedebris.Transferthesupernatanttoanewmicrocentrifuge tube.
+
+:AP1
+
+* Anchored Note, page 6
+20. Add an equal volume of 100% isopropanol and mix well to precipitate genomic DNA.
+
+:AP1
+
+* Anchored Note, page 6
+21. Centrifuge the tubes at 13,000g for 2 min in a microcentrifuge to pellet the genomic DNA
+
+:AP1
+
+* Anchored Note, page 6
+22. Discard the supernatant and add 750 μL of 70% ethanol.
+
+:AP1
+
+* Anchored Note, page 6
+23. Centrifuge the tubes at 13,000g for 1 min and discard the supernatant.
+
+:AP1
+
+* Anchored Note, page 6
+24. Centrifuge the tubes briefly to collect the remaining 70% ethanol to the bottom of the tube. Carefully remove the ethanol with a pipette.
+
+:AP1
+
+* Anchored Note, page 6
+25. Air-dry the pellet for ~2 min.
+
+:AP1x
+
+* Anchored Note, page 6
+Do not over-dry the genomic DNA, or it will be extremely difficult to resuspend.
+
+x
+
+* Anchored Note, page 6
+i. Add 200-500 μL of TE buffer for RQPS to the DNA pellet.
+
+:AP1w
+
+* Anchored Note, page 6
+200-500 μL of TE buffer
+
+w
+
+* Anchored Note, page 6
+ii. Vortex.
+
+:AP1
+
+* Anchored Note, page 6
+iii. Incubate the DNA/TE mixture for ~2 h at 55oC.
+
+:AP1a
+
+* Anchored Note, page 6
+The amount of TE to use depends on the amount of genomic DNA. Because the reference and query fragments that will be amplified for pyrosequencing are very short, shearing of genomic DNA by vortexing is not a concern and is probably beneficial. Purified genomic DNA can be stored short-term at 4°C and long-term at −20°C.
+
+a
+
+* Anchored Note, page 6
+27. Measure the concentration of genomic DNA and RQPS probe with a spectrophotometer.
+
+:AP1ir(28)
+
+* Anchored Note, page 6
+It is NOT necessary to know the exact concentration of either the genomic DNA or RQPS probe
+
+i
+
+* Anchored Note, page 6
+see Step 28
+
+r(28)
+
+* Anchored Note, page 6
+i. For Mixture I, prepare a 1:1 molar ratio of RQPS probe to genomic DNA.
+
+:AP1a
+
+* Anchored Note, page 6
+For a RQPS probe that is 3-4 kb long, 0.3-0.4 pg of probe gives a 1:1 ratio when mixed with 0.3 μg of mouse or human genomic DNA.
+
+a
+
+* Anchored Note, page 6
+ii. For Mixture II, prepare a 2:1 molar ratio of RQPS probe to genomic DNA.
+
+:AP1
+
+* Anchored Note, page 6
+iii. Bring the final volume of each mixture to 10 μL with H2O.
+
+:AP2a
+
+* Anchored Note, page 6
+Theoretically, one mixture should be enough to derive the copy number of the query sequence. However, to assess the quality of data with an R2 value (see Step 52), it is highly recommended to use at least two different mixtures. It is NOT necessary to achieve an exact 1:1 or 2:1 ratio in the mixture, because this ratio will be measured by the pyrosequencing reactions in the following steps.
+
+a
+
+* Anchored Note, page 6
+29. Thoroughly mix the RQPS probe/genomic DNA by vortexing, and centrifuge briefly to bring all samples to the bottom of the tubes.
+
+:AP1aix
+
+* Anchored Note, page 6
+it is extremely important to mix the RQPS probe and genomic DNA thoroughly!
+
+x
+
+* Anchored Note, page 6
+Pyrosequencing measures relative ratios
+
+i
+
+* Anchored Note, page 6
+The mixtures of RQPS probe and genomic DNA can be stored short-term at 4°C or indefinitely at −20°C.
+
+a
+
+* Anchored Note, page 7
+This can be achieved easily by labeling one strand of PCR product with biotin
+
+a
+
+* Anchored Note, page 7
+A pyrosequencing reaction needs to be done on single-stranded DNA template. This can be achieved easily by labeling one strand of PCR product with biotin (Steps 30 and 31), followed by streptavidin-mediated, single-strand purifica- tion (Steps 32-40). To reduce the cost, a three-primer PCR system is employed, in which one primer is tailed with a common motif that can be bound by a UBP. (Fig. 2; Fakhrai-Rad et al. 2002).
+
+:X1ar(30-31)r(32-40)r(x)x
+
+* Anchored Note, page 7
+needs to be done on single-stranded DNA template.
+
+x
+
+* Anchored Note, page 7
+Steps 30 and 31
+
+r(30-31)
+
+* Anchored Note, page 7
+Steps 32-40
+
+r(32-40)
+
+* Anchored Note, page 7
+Fakhrai-Rad et al. 2002
+
+r(x)
+
+* Anchored Note, page 7
+For each mixture in Step 29
+
+r(29)
+
+* Anchored Note, page 7
+i. Combine the following components for Reaction I (amplifying the fragment containing the reference SNV):
+
+:AP1r(29)
+
+* Anchored Note, page 7
+ii. Combine the following components for Reaction II (amplifying the fragment containing the query SNV):
+
+:AP1r(29)x
+
+* Anchored Note, page 7
+If two mixtures are made for each sample, four PCRs will be required (two for each mixture). If multiple samples need to be processed, prepare a master mix for each reaction and perform the amplification in a 96-well plate.
+
+x
+
+* Anchored Note, page 7
+31. Perform the following PCR cycling program:
+
+:AP1a
+
+* Anchored Note, page 7
+To conserve energy, the samples can be held at 10oC overnight (instead of 4oC).
+
+a
+
+* Anchored Note, page 7
+We have successfully used the same PCR cycle parameters for many different SNVs. Therefore, the optimization of PCR conditions may not be necessary for most SNVs. The PCR product can be stored short-term at 4°C or indefinitely at −20°C.
+
+a
+
+* Anchored Note, page 7
+Purify the Single-Stranded PCR Product with Streptavidin-Coated Sepharose Beads (~15 min for a 96-well plate)
+
+a
+
+* Anchored Note, page 7
+The simplest method to purify the single-strand PCR product from a large number of reactions (in a 96-well plate form) is to use the PyroMark Q96 Vacuum Prep Workstation.
+
+a
+
+* Anchored Note, page 7
+32. Fill three troughs of the Vacuum Prep Worktable with 70% ethanol, denaturation solution, and washing buffer, respectively.
+
+:AP1
+
+* Anchored Note, page 7
+PCR product from Step 31
+
+r(31)
+
+* Anchored Note, page 7
+i. Add the following components to each well with PCR product:
+
+:AP1r(31)
+
+* Anchored Note, page 7
+ii. Mix well.
+
+:AP1
+
+* Anchored Note, page 7
+iii. Incubate with constant shaking for 10 min at room temperature.
+
+:AP1
+
+* Anchored Note, page 8
+34. During the incubation in Step 33, add the following to each well of a PyroMark Q96 Plate: 10 μL of 5 μM sequencing primer (S1 or S2 in Fig. 2) and 40 μL of RQPS annealing buffer.
+
+:AP1ir(33), CB(33)
+
+* Anchored Note, page 8
+During the incubation in Step 33
+
+CB(33)
+
+* Anchored Note, page 8
+This is not the 96-well plate
+
+i
+
+* Anchored Note, page 8
+from Step 33.
+
+r(33)
+
+* Anchored Note, page 8
+35. Continuing from Step 33, turn on the vacuum and use the hand-held Vacuum Prep Tool (VPT) to pick up the Sepharose beads.
+
+:AP1r(33)
+
+* Anchored Note, page 8
+Continuing from Step 33
+
+r(33)
+
+* Anchored Note, page 8
+36. Move the VPT to the trough with 70% ethanol and wash the beads for 5 sec.
+
+:AP1
+
+* Anchored Note, page 8
+37. Move the VPT to the trough with denaturation solution for 5 sec.
+
+:AP1i
+
+* Anchored Note, page 8
+The PCR product is denatured and the nonbiotinylated strand is removed in this step.
+
+i
+
+* Anchored Note, page 8
+38. Move the VPT to the trough with washing buffer for 5 sec.
+
+:AP1i
+
+* Anchored Note, page 8
+This step neutralizes the sample.
+
+i
+
+* Anchored Note, page 8
+39. MovetheVPTtothePyroMarkQ96PlatepreparedinStep34andshutoffthevacuumjustbefore the filter tips touch the surface of the liquid.
+
+:AP1r(34)x
+
+* Anchored Note, page 8
+It is important to shut off the vacuum JUST before the tips touch the surface of the liquid in the PyroMark Q96 Plate. If it is shut off too early, the beads may be lost or fall to other wells; if it is not shut off when it touches the liquid, some or all of the liquid will be aspirated.
+
+x
+
+* Anchored Note, page 8
+40. Gently shake the VPT in the buffer to release the beads.
+
+:AP1
+
+* Anchored Note, page 8
+41. Denature the biotinylated, single-stranded DNA by heating the plate in a thermocycler for 2 min at 80°C-90°C.
+
+:AP1i
+
+* Anchored Note, page 8
+This step disrupts possible secondary structure in the DNA.
+
+i
+
+* Anchored Note, page 8
+42. Cool the samples to room temperature to allow the annealing of sequencing primers to the single-stranded DNA.
+
+:AP1
+
+* Anchored Note, page 8
+43. Set up the plate layout in the Assay Design Software by typing in sample and SNV information.
+
+:AV1
+
+* Anchored Note, page 8
+44. FillthePSQ96MAcassettewiththeamountofPyroMarkGoldQ96Reagentrecommendedbythe Assay Design Software.
+
+:AP1
+
+* Anchored Note, page 8
+45. PlacethePyroMarkQ96Plateintothepyrosequencingmachineinthecorrectorientationandstart the pyrosequencing reactions.
+
+:AP1
+
+* Anchored Note, page 8
+46. Collectreadoutsfromthepyrogramsforthefollowingparametersforeachsample,andenterthe values into an Excel file: m1 (the ratio of the probe reference SNV in Mixture I), m2 (the ratio of the probe reference SNV in Mixture II), n1 (the ratio of the probe query SNV in Mixture I), and n2 (the ratio of the probe query SNV in Mixture II).
+
+:AV1ir(t)
+
+* Anchored Note, page 8
+Examples of pyrograms and readouts are shown in Figure 2D.
+
+i
+
+* Anchored Note, page 8
+See Troubleshooting.
+
+r(t)
+
+* Anchored Note, page 8
+47. Calculate the following parameters (i.e., the ratios of genomic DNA SNVs) for each sample: (1−m1), (1−m2), (1−n1), (1−n2).
+
+:AV1
+
+* Anchored Note, page 8
+48. Calculate the following parameters for each sample: m1/(1−m1), m2/(1−m2), n1/(1−n1), n2/(1−n2).
+
+:AV1
+
+* Anchored Note, page 8
+49. MakeanXYscatterplotinExcelwithonedatapointat(n1/[1−n1],m1/[1−m1])andtheseconddata point at (n2/[1−n2], m2/[1−m2]).
+
+:AV1
+
+* Anchored Note, page 8
+50. Add the trend line (linear, y = kx; k is the slope of the line) and set the intercept to zero. Display the linear equation and the R2 value.
+
+:AV1
+
+* Anchored Note, page 8
+51. To calculate the CN of the query gene, multiply k by the CN of the reference gene.
+
+:AV1a
+
+* Anchored Note, page 8
+For example, if the copy number of the reference gene is two, double the value of k to get the copy number of the query gene.
+
+a
+
+* Anchored Note, page 9
+52. Check the value of R2 to assess the quality of the data.
+
+:AQ2ir(t)
+
+* Anchored Note, page 9
+The closer R2 is to 1, the better the data.
+
+i
+
+* Anchored Note, page 9
+See Troubleshooting.
+
+r(t)
+

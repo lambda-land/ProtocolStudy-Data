@@ -1,0 +1,175 @@
+* Anchored Note, page 1
+chromosome conformation capture (3C) (Dekker et al. 2002)
+
+-PXh(Dekker et al 2002)
+
+* Anchored Note, page 2
+<!>5-Bromo-4-chloro-3-indoyl-β-D-galactopyranoside (X-gal; 25 mg/mL in DMF [dimethylformamide])
+
+-PAh(Appendix)
+
+* Anchored Note, page 2
+<R>Bead eluting buffer
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<R>Cellular lysis solution
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<R>ChIP diluent
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<!>DNA gel stain (SYBR Safe, 10,000X concentrate in DMSO [dimethylsulfoxide]; Invitrogen)
+
+-PAh(Appendix)
+
+* Anchored Note, page 2
+<!>Formaldehyde solution (≥36.5%; Sigma-Aldrich 33220)
+
+-PAh(Appendix)
+
+* Anchored Note, page 2
+<R>Immune complex wash buffers (high-salt and low-salt) Prepare the high-salt and low-salt versions of this buffer separately
+
+-PRmh(Appendix)
+
+* Anchored Note, page 2
+<!>Isopropyl-β-D-thiogalactopyranoside (IPTG; 200 mg/mL)
+
+-PAh(Appendix)
+
+* Anchored Note, page 2
+<R>LB agar
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<R>LB-ampicillin agar plates
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<R>Alternatively, LB-kanamycin agar plates can be used (see Step 48).
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<R>LB (Luria-Bertani) liquid medium
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<R>Ligation buffer (10X)
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<!>Phenol:chloroform:isoamyl alcohol, UltraPure (25:24:1 v/v/v; Invitrogen)
+
+-PAh(Appendix)
+
+* Anchored Note, page 2
+<!>Proteinase K (10 mg/mL in TE buffer, pH 8.0; Invitrogen)
+
+-PAh(Appendix)
+
+* Anchored Note, page 3
+<!>RNase A, DNase-free (10 mg/mL; Sigma R6513)
+
+-PAh(Appendix)
+
+* Anchored Note, page 3
+<R><!>SDS (Sodium dodecyl sulfate; 20% w/v; Fisher BP166)
+
+-PAh(Appendix)
+
+* Anchored Note, page 3
+<R><!>SDS (Sodium dodecyl sulfate; 20% w/v; Fisher BP166)
+
+-PRh(Appendix)
+
+* Anchored Note, page 3
+<R>Sodium acetate (3 M, pH 5.2; Fisher BP333)
+
+-PRh(Appendix)
+
+* Anchored Note, page 3
+<R>TE buffer (pH 8.0)
+
+-PRh(Appendix)
+
+* Anchored Note, page 3
+<!>Triton X-100 (20% v/v; VWR)
+
+-PAh(Appendix)
+
+* Anchored Note, page 3
+<!>Trypsin (1X; Invitrogen 25300)
+
+-PAh(Appendix)
+
+* Anchored Note, page 3
+<!>Liquid nitrogen (optional; see Step 11)
+
+-PAh(Appendix)
+
+* Anchored Note, page 3
+<!>UV light
+
+-PAh(Appendix)
+
+* Anchored Note, page 7
+Using standard cloning protocols, clone the 3C-ChIP products (from Step 44) into a vector that has enzyme overhangs similar to those generated in the 3C assay. This step typically involves cloning an “IgG/no antibody 3C-ChIP product” and “Plus antibody 3C-ChIP prod- uct,” in addition to regular cloning controls.
+
+-LBm
+
+* Anchored Note, page 7
+Purify the plasmids using the PureLink HQ 96 Mini Plasmid DNA Purification Kit according to the manufacturer’s instructions.
+
+-MBh(PureLink HQ 96 Mini Plasmid DNA Purification Kit Mfr. Instr)
+
+* Anchored Note, page 7
+. Screen the purified plasmids (from Step 52) by digestion with the same restriction enzyme used for Step 16, using standard restriction digestion protocols.
+
+-LB
+
+* Anchored Note, page 7
+hould be validated by performing independent 3C assays (Tolhuis et al. 2002)
+
+-PSh(Tolhuis et al 2002)
+
+* Anchored Note, page 7
+The primers for this purpose are designed exactly as described by Splinter et al. (2004)
+
+-PXh(Splinter et al 2004)
+
+* Anchored Note, page 7
+perform ChIP assays (Tiwari et al. 2008)
+
+-PSh(Tiwari et al 2008)
+
+* Anchored Note, page 8
+Following immunopre- cipitation with the antibody of interest, the samples can be subjected to 4C analysis (Zhao et al. 2006)
+
+-PSh(Zhao et al 2006)
+
+* Anchored Note, page 8
+reverse-cross-linked, purified, digested with a four-cutter enzyme of choice, and processed further for either 3C-chip (Simonis et al. 2006)
+
+-PSh(Simonis et al 2006)
+
+* Anchored Note, page 8
+or the ACT assay (Ling et al. 2006).
+
+-PSh(2006)
+
+* Anchored Note, page 8
+following the amplification criteria used in the original 3C assay, subsequent to the reversal of cross-linking and purification (Dekker et al. 2002).
+
+-PSh(Dekker et al 2002)
+

@@ -1,0 +1,673 @@
+* Anchored Note, page 3
+1. Centrifuge 50 million human or other mammalian cells in single-cell suspension at 900 rpm for 5 min in 50-mL tubes. Use vacuum aspiration or a pipette to carefully remove the supernatant (do not pour off liquid). Flick to resuspend the cell pellet in residual liquid.
+
+:AP1r(Troubleshooting)x
+
+* Anchored Note, page 3
+Because the pellet is loose, leave a 1 mm-thick supernatant layer over the pellet during washes to reduce cell loss.
+
+x
+
+* Anchored Note, page 3
+See Troubleshooting.
+
+r(Troubleshooting)
+
+* Anchored Note, page 3
+2. Wash the cells twice with cold 1X PBS (50 mL of PBS for each wash). If starting with two or more tubes of cell culture, combine cells into one tube for the first wash.
+
+:AP1
+
+* Anchored Note, page 3
+3. Resuspend the final cell pellet in 500 μL of cold RSB buffer by gentle flicking and transfer to a 15-mL conical tube (keep on ice). Rinse the 50-mL tube with 500 μL of cold RSB buffer to collect any remaining cells, and combine the rinse with the first 500 μL of cell suspension.
+
+:AP1
+
+* Anchored Note, page 3
+4. Slowly pour 14 mL of lysis buffer (cold RSB buffer + 0.1% IGEPAL CA-630) into the 15-mL tube containing the cell suspension. Invert five to 10 times. Make sure there is no detectable precipitation at this step.
+
+:AP1iwx
+
+* Anchored Note, page 3
+(cold RSB buffer + 0.1% IGEPAL CA-630)
+
+i
+
+* Anchored Note, page 3
+Make sure there is no detectable precipitation at this step.
+
+x
+
+* Anchored Note, page 3
+Invert five to 10 times.
+
+w
+
+* Anchored Note, page 3
+5. Check cells after lysis by staining with Trypan blue and examining under a microscope.
+
+:AP1ir(Troubleshooting)
+
+* Anchored Note, page 3
+If lysis has been effective, at least 99% of the cells should be stained.
+
+i
+
+* Anchored Note, page 3
+See Troubleshooting.
+
+r(Troubleshooting)
+
+* Anchored Note, page 4
+6. Centrifuge immediately at 500g for 10 min at 4°C to pellet nuclei, and remove supernatant completely. Do not leave any supernatant on the pellet.
+
+:AP1x, CB(7)
+
+* Anchored Note, page 4
+Do not leave any supernatant on the pellet.
+
+x
+
+* Anchored Note, page 4
+Proceed with Step 7 during centrifugation.
+
+CB(7)
+
+* Anchored Note, page 4
+In the following steps, be sure to follow the instructions for mixing (e.g., if the directions specify “flick” or “invert,” do not vortex or pipette the material).
+
+:X1x
+
+* Anchored Note, page 4
+i. Use 1X DNase incubation buffer to make five concentrations (0.01, 0.03, 0.1, 0.3, and 1 U/μL) of recombinant DNase I in five microcentrifuge tubes (1.5-mL); keep tubes on ice.
+
+:AP1x
+
+* Anchored Note, page 4
+When diluting DNase, make sure dilutions are extensively mixed.
+
+x
+
+* Anchored Note, page 4
+ii. Label seven empty microcentrifuge tubes #1-#7 and place on ice.
+
+:AP1
+
+* Anchored Note, page 4
+iii. Pipette 12 μL of the indicated concentration of DNase into each of tubes #3-#7. Do not add DNase to tubes #1 and #2.
+
+:AP1x
+
+* Anchored Note, page 4
+Do not add DNase to tubes #1 and #2.
+
+x
+
+* Anchored Note, page 5
+8. Suspend nuclei (lysed cells) in 840 μL of cold 1X DNase incubation buffer and mix by flicking. The pellet should appear white and fluffy and should be suspended completely.
+
+:AP1
+
+* Anchored Note, page 5
+9. Slowly pipette 120 μL of nuclei suspension into tubes #1-#7 by using wide-bore pipette tips. Gently swirl to resuspend nuclei before each transfer.
+
+:AP1m
+
+* Anchored Note, page 5
+10. Keep tube #1 on ice, and incubate tubes #2-#7 for 15 min in a 37°C water bath.
+
+:AP1
+
+* Anchored Note, page 5
+11. Melt several tubes of InCert low-melt agarose at 75°C. Once they are completely melted, transfer to 55°C.
+
+:AP1r(13)
+
+* Anchored Note, page 5
+Agarose will be used in Step 13.
+
+r(13)
+
+* Anchored Note, page 5
+12. Slowly pipette 330 μL of 50 mM EDTA into each of tubes #1-#7 to stop the reactions, and invert tubes five times to mix. Keep tubes at room temperature until all have been mixed, then equilibrate for 1 min at 55°C.
+
+:AP1m
+
+* Anchored Note, page 5
+into each of tubes #1-#7
+
+m
+
+* Anchored Note, page 5
+13. Slowly pipette 450 μL of InCert low-melt agarose (from Step 11) into each tube. Invert four times to mix.
+
+:AP1mr(11)
+
+* Anchored Note, page 5
+from Step 11
+
+r(11)
+
+* Anchored Note, page 5
+into each tube
+
+m
+
+* Anchored Note, page 5
+14. Pipette mixtures into CHEF disposable plug molds using wide-bore pipette tips. Let sit for ~5 min at 4°C to solidify. The volume of each plug is ~80 μL.
+
+:AP1i
+
+* Anchored Note, page 5
+Low-melt gel agarose plugs are used to stabilize high-molecular-weight DNA and protect against random shearing.
+
+i
+
+* Anchored Note, page 5
+15. Carefully release plugs into 50 mL of LIDS buffer in a 50-mL conical tube, place a green screened plug cap (for washing plugs) between each tube and cap, and shake horizontally at 50-60 rpm for 1-2 h at room temperature. Keep plugs with different DNase1 concentrations in separate conical tubes.
+
+:AP1w
+
+* Anchored Note, page 5
+50-60 rpm for 1-2 h
+
+w
+
+* Anchored Note, page 5
+16. Replace with fresh LIDS buffer and incubate tubes overnight at 37°C, horizontal without shaking.
+
+:AP1a
+
+* Anchored Note, page 5
+horizontal without shaking.
+
+a
+
+* Anchored Note, page 5
+17. Wash plugs five times with 50 mL of 50 mM EDTA per tube, 1 h each wash, shaking at 60 rpm at room temperature. Prior to the fourth and fifth EDTA washes, wash the filters and lids with water to remove residual detergent from the filter and lid threads. Make sure that no detergent bubbles are left in the tubes after the fifth washing.
+
+:AP1x
+
+* Anchored Note, page 5
+Make sure that no detergent bubbles are left in the tubes after the fifth washing.
+
+x
+
+* Anchored Note, page 5
+18. Store the plugs at 4°C in 50 mM EDTA.
+
+:AP1i
+
+* Anchored Note, page 5
+Plugs can be stored indefinitely under these conditions.
+
+i
+
+* Anchored Note, page 5
+i. Prepare a 1% UltraPure Agarose gel in 0.5X TBE.
+
+:AP1
+
+* Anchored Note, page 5
+ii. Load one-third of a plug from each DNase concentration into the gel by sliding each plug piece into a separate well using two metal spatulas.
+
+:AP1a
+
+* Anchored Note, page 5
+using two metal spatulas.
+
+a
+
+* Anchored Note, page 5
+iii. Use yeast chromosome PFG marker to size smearing patterns.
+
+:AP1
+
+* Anchored Note, page 5
+iv. Set PFG unit to keep 0.5X TBE running buffer chilled at 16°C.
+
+:AP1
+
+* Anchored Note, page 5
+v. Set running parameters as follows: 20-60 sec switch time; 18 h running time; 6 V/cm (180 V total).
+
+:AP1w
+
+* Anchored Note, page 5
+20-60 sec switch time
+
+w
+
+* Anchored Note, page 5
+20. Compare gel pattern to Figure 2. Optimal amounts for DNase-seq are 0.4 U, 1.2 U, and 4.0 U.
+
+:AP1aei, AP4r(Troubleshooting)
+
+* Anchored Note, page 5
+Optimal amounts for DNase-seq are 0.4 U, 1.2 U, and 4.0 U.
+
+e
+
+* Anchored Note, page 5
+The smearing patterns (50-100 kb to 1 Mb in size) seen in the lanes for the 0.4 U, 1.2 U, and 4.0 U DNase amounts are usually ideal for making DNase-seq libraries from mammalian cells. Because DNase HS sites are
+
+i
+
+* Anchored Note, page 6
+We have found that using more heavily digested DNA results in lower signal to noise.
+
+a
+
+* Anchored Note, page 6
+DNase concentrations to achieve optimal smearing sizes may differ for each cell line and therefore must be determined empirically for each cell type. Use of this protocol on smaller eukaryotic genomes (such as yeast) may require different optimal smearing patterns.
+
+AP4r(Troubleshooting)
+
+* Anchored Note, page 6
+See Troubleshooting.
+
+r(Troubleshooting)
+
+* Anchored Note, page 6
+need to be blunt-ended by T4 DNA polymerase before ligating
+
+x
+
+* Anchored Note, page 6
+Because DNase I nicks DNA and leaves single-strand overhangs, these overhangs need to be blunt-ended by T4 DNA polymerase before ligating to blunt-ended linker 1.
+
+:AP1x
+
+* Anchored Note, page 6
+1. Wash the EDTA-soaked plugs twice with 50 mL of 1X NEB buffer 2 per tube, 1 h for each wash, shaking at 60 rpm at room temperature.
+
+:AP1i
+
+* Anchored Note, page 6
+This step removes EDTA from the plugs.
+
+i
+
+* Anchored Note, page 6
+22. Remove all traces of liquid from the 50-mL conical tubes and push plugs to the bottom of the tubes.
+
+:AP1
+
+* Anchored Note, page 6
+i. Mix the plugs in the 50-mL conical tubes with T4 DNA polymerase and other reagents as indicated.
+
+:AP1
+
+* Anchored Note, page 6
+ii. Incubate for 4 h at room temperature. Do not mix plugs from different optimal DNase concentrations (they will be combined in Step 29).
+
+:AP1r(29)
+
+* Anchored Note, page 6
+they will be combined in Step 29)
+
+r(29)
+
+* Anchored Note, page 6
+iii. Shake the reactions occasionally.
+
+:AP1
+
+* Anchored Note, page 6
+24. Rinse the plugs quickly with 1X TE buffer to remove residual enzyme.
+
+:AP1
+
+* Anchored Note, page 7
+i. Transfer plugs to 1.5-mL microcentrifuge tubes. Add 500 μL of 1X TE buffer and heat for 15 min at 65°C to melt. Flick every 5 min to make sure agarose is dissolving.
+
+:AP1
+
+* Anchored Note, page 7
+ii. Extract each tube using equal volumes of a series of phenol, phenol:chloroform:isoamyl alcohol, and chloroform.
+
+:AP1
+
+* Anchored Note, page 7
+iii. Precipitate the DNA with 1 μL of 20 mg/mL glycogen, 50 μL of 3 M NaOAc, and 1.0 mL of ethanol.
+
+:AP1
+
+* Anchored Note, page 7
+26. Pellet the DNA by centrifuging at 16,000g for 10-15 min at 4°C, wash the pellet with two volumes of 70% ethanol, centrifuge again, and remove all residual liquid. Let dry for <4 min.
+
+:AP1a
+
+* Anchored Note, page 7
+Longer drying times may cause difficulty in dissolving the DNA pellet.
+
+a
+
+* Anchored Note, page 7
+27. Resuspend the DNA pellet in 40 μL of 10 mM Tris-Cl (pH 8.0).
+
+:AP1
+
+* Anchored Note, page 7
+Stock linkers are at a concentration of 25 pmol/μL.
+
+i
+
+* Anchored Note, page 7
+i. Anneal oligo 1a and 1b (to make linker 1) and oligo 2a and 2b (to make linker 2) in 1X NEB buffer 2.
+
+:AP1
+
+* Anchored Note, page 7
+ii. Heat for 5 min at 95°C.
+
+:AP1
+
+* Anchored Note, page 7
+iii. Slowly cool to room temperature. Make fresh or store aliquots at −20°C.
+
+:AP1
+
+* Anchored Note, page 7
+i. Combine reagents as indicated.
+
+:AP1
+
+* Anchored Note, page 7
+ii. Incubate tubes overnight in a thermal cycler at 20°C.
+
+:AP1
+
+* Anchored Note, page 7
+i. Prepare a 0.8% UltraPure LMP Agarose gel using 10 mM EDTA and 1X TBE.
+
+:AP1
+
+* Anchored Note, page 7
+ii. Run the reactions from Step 29 for 30-50 min at 80 V in 10 mM EDTA and 1X TBE running buffer.
+
+:AP1r(29)w
+
+* Anchored Note, page 7
+from Step 29
+
+r(29)
+
+* Anchored Note, page 7
+for 30-50 min
+
+w
+
+* Anchored Note, page 7
+i. Cut out the high-molecular-weight smear (leave the linker-only band behind).
+
+:AP1x
+
+* Anchored Note, page 7
+leave the linker-only band behind
+
+x
+
+* Anchored Note, page 7
+ii. Put the gel into 500 μL of 1X TE and heat for 15 min at 65°C to melt. Gently flick every few minutes to make sure agarose is dissolving.
+
+:AP1
+
+* Anchored Note, page 7
+iii. Extract with equal volumes of a series of phenol, phenol:chloroform:isoamyl alcohol, and chloroform.
+
+:AP1
+
+* Anchored Note, page 7
+iv. Precipitate the DNA with 1 μL of 20 mg/mL glycogen, 50 μL of 3 M NaOAc, and 1 mL of ethanol.
+
+:AP1
+
+* Anchored Note, page 7
+v. Wash the DNA pellet with two volumes of 70% ethanol.
+
+:AP1
+
+* Anchored Note, page 7
+vi. Dry the pellet and resuspend the DNA in 75 μL of water.
+
+:AP1
+
+* Anchored Note, page 8
+i. Prepare the following mixture.
+
+:AP1
+
+* Anchored Note, page 8
+ii. Incubate the reaction for 1.5 h at 37°C.
+
+:AP1
+
+* Anchored Note, page 8
+iii. Add3μLofSAP(topreventligationofMmeIendstoeachother).Incubatefor1hat37°C.
+
+* Anchored Note, page 8
+i. Extract the digestion with equal volumes of phenol:chloroform:isoamyl alcohol and chloroform.
+
+:AP1
+
+* Anchored Note, page 8
+ii. Precipitate the DNA by adding 1 μL of 20 mg/mL glycogen, 10 μL of 3 M NaOAc, and 325 μL of ethanol.
+
+:AP1
+
+* Anchored Note, page 8
+iii. Wash the pellet with 70% ethanol.
+
+:AP1
+
+* Anchored Note, page 8
+iv. Dry the pellet and resuspend it in 50 μL of water.
+
+:AP1
+
+* Anchored Note, page 8
+Use magnetic stand and vacuum aspiration for all wash steps.
+
+x
+
+* Anchored Note, page 8
+i. Wash the beads twice with 1 mL of 1X TE.
+
+:AP1x
+
+* Anchored Note, page 8
+ii. Wash the beads once with 1 mL of 1X B&W buffer. Remove wash buffer before beginning the next step.
+
+:AP1x
+
+* Anchored Note, page 8
+Remove wash buffer before beginning the next step.
+
+x
+
+* Anchored Note, page 8
+i. Suspend the beads in a mixture of 50 μL of MmeI-digested DNA and 50 μL of 2X B&W buffer.
+
+:AP1
+
+* Anchored Note, page 8
+ii. Incubate for 30 min at 30°C, flicking the tubes every 5 min to resuspend the beads.
+
+:AP1
+
+* Anchored Note, page 8
+iii. Remove the supernatant and wash the beads five times with 1 mL of 1X TE.
+
+:AP1
+
+* Anchored Note, page 8
+iv. Wash the beads once with 100 μL of 1X ligation buffer. Remove the wash buffer before the next step.
+
+:AP1x
+
+* Anchored Note, page 8
+Remove the wash buffer before the next step.
+
+x
+
+* Anchored Note, page 8
+i. Add the following reagents to the Dynal beads (~10 μL).
+
+:AP1
+
+* Anchored Note, page 8
+ii. Rotate the tube for 4 h at room temperature.
+
+:AP1
+
+* Anchored Note, page 8
+i. Wash the beads once with 1 mL of 1X TE.
+
+:AP1
+
+* Anchored Note, page 8
+ii. Add 500 μL of 0.15 M NaOH directly to the beads.
+
+:AP1i
+
+* Anchored Note, page 8
+This step denatures double-stranded DNA template on the beads and removes the nonbiotinylated strand to eliminate false-positive sequencing signals from mismatched base pairs at the end of linker 2.
+
+i
+
+* Anchored Note, page 8
+iii. Rotate the tube for 5 min at room temperature.
+
+:AP1
+
+* Anchored Note, page 9
+iv. Wash the beads five times with 1 mL of 1X TE.
+
+:AP1
+
+* Anchored Note, page 9
+v. Resuspend the beads in 25 μL of 10 mM Tris-Cl (pH 8.0).
+
+:AP1
+
+* Anchored Note, page 9
+i. Prepare the following mixture.
+
+:AP1
+
+* Anchored Note, page 9
+ii. Denature for 30 sec at 98°C, followed by 12 amplification cycles (10 sec, 98°C; 30 sec, 60°C; 15 sec, 72°C), followed by extension for 7 min at 72°C.
+
+:AP1
+
+* Anchored Note, page 9
+i. Load 1 μL of the 25-bp DNA ladder into one well and 50 μL of PCR products from Step 38 into two adjoining wells of a 4%-20% TBE PAGE gel.
+
+:AP1r(38)
+
+* Anchored Note, page 9
+from Step 38
+
+r(38)
+
+* Anchored Note, page 9
+ii. Electrophorese for 2 h at 120 V.
+
+:AP1
+
+* Anchored Note, page 9
+iii. Pry apart the cassette and stain the gel in 1X TE + 0.5 μg/mL ethidium bromide in a clean container for 2-3 min.
+
+:AP1r(Troubleshooting)vw
+
+* Anchored Note, page 9
+for 2-3 min
+
+w
+
+* Anchored Note, page 9
+A representative example of amplification is shown in Figure 3.
+
+v
+
+* Anchored Note, page 9
+See Troubleshooting.
+
+r(Troubleshooting)
+
+* Anchored Note, page 9
+i. Cut out the 86-bp band (containing linkers + insert) with a clean razor blade.
+
+:AP1x
+
+* Anchored Note, page 9
+with a clean razor blade.
+
+x
+
+* Anchored Note, page 9
+ii. Place the gel slice into a 0.5-mL microcentrifuge tube whose bottom has been punctured by a 21-gauge needle.
+
+:AP1x
+
+* Anchored Note, page 9
+by a 21-gauge needle
+
+x
+
+* Anchored Note, page 9
+iii. Set this tube into a 1.5-mL round-bottom microcentrifuge tube.
+
+:AP1
+
+* Anchored Note, page 9
+iv. Centrifuge the gel slice through the hole into the 1.5-mL tube, in a microcentrifuge at full speed for 2 min.
+
+:AP1
+
+* Anchored Note, page 9
+i. Add 100 μL of 1X NEB buffer 2 to the gel.
+
+:AP1
+
+* Anchored Note, page 9
+ii. Elute the DNA by rotating the tube gently for 2 h at room temperature.
+
+:AP1
+
+* Anchored Note, page 9
+iii. Transfer the eluate and the gel debris onto the top of a Spin-X filter. Centrifuge the filter in a microcentrifuge at full speed for 2 min to remove traces of gel.
+
+:AP1
+
+* Anchored Note, page 10
+i. Add 1 μL of 20 mg/mL glycogen, 10 μL of 3 M NaOAc, and 325 μL of ethanol. Precipitate the DNA for 30 min at −20°C.
+
+:AP1
+
+* Anchored Note, page 10
+ii. Dry the DNA pellet in the air for 5 min.
+
+:AP1
+
+* Anchored Note, page 10
+iii. Resuspend the pellet in 10 μL of 1X TE.
+
+:AP1
+
+* Anchored Note, page 10
+i. Run 1 μL of recovered DNA on a 4%-20% TBE gel.
+
+:AP1
+
+* Anchored Note, page 10
+ii. Stain the gel with ethidium bromide.
+
+:AP1
+
+* Anchored Note, page 10
+44. Sequence libraries on a Solexa/Illumina DNA sequencer using the custom sequencing primer.
+
+:AP1
+

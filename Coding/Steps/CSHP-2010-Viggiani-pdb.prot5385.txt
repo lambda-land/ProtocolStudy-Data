@@ -1,0 +1,750 @@
+* Anchored Note, page 3
+Because experimental designs may vary substantially (see Szyjka et. al. [2008]; Knott et al. [2009a]), we describe only the addition of BrdU to the growth medium and cell harvesting. For the reference DNA sample (to be fluorescently labeled and cohybridized onto the microarray with the IP DNA), we typically use genomic DNA prepared from G1-arrested cells (not labeled with BrdU). However, BrdU-labeled DNA may be used, and DNA from different cell cycle stages or time points may be used. For the former, genomic DNA from 10-20 mL of G1-arrested cells (OD600~ 0.5-1.0) should be prepared (Steps 3-22) in parallel with BrdU-incorporated genomic DNA. For the latter, 1 ug of BrdU-incorporated genomic DNA obtained at Step 20 is used. In both cases, reference DNA should be amplified to account for potential differences in amplification efficiencies of different sequences.
+
+:X1air(20)r(x)
+
+* Anchored Note, page 3
+see Szyjka et. al. [2008]; Knott et al. [2009a]
+
+r(x)
+
+* Anchored Note, page 3
+reference DNA should be amplified to account for potential differences in amplification efficiencies of different sequences.
+
+a
+
+* Anchored Note, page 3
+obtained at Step 20
+
+r(20)
+
+* Anchored Note, page 3
+1. Grow 10-20 mL of S. cerevisiae cells to an OD600 ~ 0.5-1.0 in YEPD (or other) medium.
+
+:AP1
+
+* Anchored Note, page 4
+incubate for the desired period. For very short incubations with BrdU (e.g., 10-15 min), doubling the concentration of BrdU may be helpful.
+
+AP1a
+
+* Anchored Note, page 4
+For very short incubations with BrdU (e.g., 10-15 min), doubling the concentration of BrdU may be helpful.
+
+a
+
+* Anchored Note, page 4
+2. Add BrdU to a final concentration of 400 μg/mL and incubate for the desired period. For very short incubations with BrdU (e.g., 10-15 min), doubling the concentration of BrdU may be helpful.
+
+:AP2; AP1a
+
+* Anchored Note, page 4
+transfer the culture to a 15- or 50-mL conical screw-cap tube.
+
+AP1
+
+* Anchored Note, page 4
+3. To harvest, add sodium azide to 0.1% final concentration and transfer the culture to a 15- or 50-mL conical screw-cap tube.
+
+:AP2; AP1
+
+* Anchored Note, page 4
+4. Pellet the cells by centrifugation in a swinging-bucket rotor at 1500g for 5 min at 4°C. Discard the supernatant.
+
+:AP1
+
+* Anchored Note, page 4
+5. Resuspend the cell pellet by pipetting up and down in 20 mL of ice-cold TBS for yeast. Pellet the cells by centrifugation at 1500g for 5 min at 4°C.
+
+:AP1
+
+* Anchored Note, page 4
+6. Resuspend the cell pellet in 1 mL of ice-cold TBS for yeast with a micropipettor and transfer to a chilled, 2-mL microcentrifuge tube with a gasket-sealed screw-cap.
+
+:AP1
+
+* Anchored Note, page 4
+Remove the supernatant without disturbing the cell pellet.
+
+x
+
+* Anchored Note, page 4
+7. Pellet the cells in a microcentrifuge at full speed (~16,000g) for a few seconds. Remove the supernatant without disturbing the cell pellet.
+
+:APax
+
+* Anchored Note, page 4
+At this point, the cell pellet may be frozen rapidly using a dry ice-ethanol or liquid nitrogen bath and stored at −20°C.
+
+a
+
+* Anchored Note, page 4
+resuspend the cells in 500 μL of lysis buffer for genomic DNA.
+
+AP1
+
+* Anchored Note, page 4
+8. Thaw the cell pellet (if necessary) and resuspend the cells in 500 μL of lysis buffer for genomic DNA.
+
+:AP1o; AP1
+
+* Anchored Note, page 4
+if necessary
+
+o
+
+* Anchored Note, page 4
+9. Add an equal volume (~0.6 mL) of glass beads to the cell suspension.
+
+:AP1
+
+* Anchored Note, page 4
+10. Tightly cap the tube and place it into a FastPrep instrument. Run the FastPrep at power setting 5.5 for 45 sec.
+
+:AP1a
+
+* Anchored Note, page 4
+Other vortexers may be used, but specific settings to achieve maximal cell breakage will vary.
+
+a
+
+* Anchored Note, page 4
+11. Remove the tube from the FastPrep and centrifuge at full speed for a few seconds to collapse any foam. Add 25 μL of 5 M NaCl to each sample.
+
+:AP1
+
+* Anchored Note, page 4
+12. Repeat Step 10.
+
+:CL(10)
+
+* Anchored Note, page 4
+i. Invert the tube and flick to knock the beads and solution away from the bottom of the tube.
+
+:AP1
+
+* Anchored Note, page 4
+attached to a small syringe to hold the needle safely
+
+a
+
+* Anchored Note, page 4
+ii. Puncture the bottom of the tube twice with a red-hot 26-gauge needle (attached to a small syringe to hold the needle safely).
+
+:AP1ax
+
+* Anchored Note, page 4
+with a red-hot 26-gauge needle
+
+x
+
+* Anchored Note, page 4
+iii. Immediatelyinsertthetubeintoa5-mLpolypropylenesnap-captubewithitscapremoved (it may only fit partially).
+
+:AP1
+
+* Anchored Note, page 4
+iv. Centrifuge in a swinging-bucket rotor at 350g for 2 min to collect the lysate.
+
+:AP1
+
+* Anchored Note, page 4
+v. Remove the tube combination from the centrifuge.
+
+:AP1
+
+* Anchored Note, page 4
+vi. Remove the FastPrep tube, which should contain only the beads, from the 5-mL tube, which contains the cell lysate.
+
+:AP1i
+
+* Anchored Note, page 4
+The lysate is partially pelleted at this point.
+
+i
+
+* Anchored Note, page 4
+14. Decant the soluble lysate to a fresh microcentrifuge tube and leave behind the pellet, which is mainly cell debris (some carryover is acceptable).
+
+:AP1w
+
+* Anchored Note, page 4
+some carryover is acceptable
+
+w
+
+* Anchored Note, page 4
+i. Insert the microtip horn of a sonicator about halfway down the depth of the lysate in the microcentrifuge tube.
+
+:AP1
+
+* Anchored Note, page 4
+ii. Sonicate for 20 sec with constant output on low power. With the Branson 250 sonicator (with microtip attachment), use power setting 2.0 and 100% duty cycle.
+
+:AP1ar(Troubleshooting)
+
+* Anchored Note, page 4
+iii. Chill the sample on ice between rounds of sonication.
+
+:AP1
+
+* Anchored Note, page 4
+Specific settings must be determined if a different sonicator is used.
+
+a
+
+* Anchored Note, page 5
+See Troubleshooting.
+
+r(t)
+
+* Anchored Note, page 5
+16. Repeat Step 15 (multiple times if smaller DNA shear size is desired).
+
+:CL(15), AI2
+
+* Anchored Note, page 5
+i. Add 500 μL of PCI to each sample and vortex vigorously.
+
+:AP1m
+
+* Anchored Note, page 5
+to each sample
+
+m
+
+* Anchored Note, page 5
+ii. Separate the phases by centrifugation at full speed (~16,000g) for 5 min.
+
+:AP1
+
+* Anchored Note, page 5
+iii. Transfer the aqueous phase (~450 μL) to a new microcentrifuge tube.
+
+:AP1
+
+* Anchored Note, page 5
+18. Repeat Step 17.
+
+:CL(17)
+
+* Anchored Note, page 5
+19. Add 1 mL of ethanol to each sample, mix, and centrifuge at full speed (~16,000g) for 15 min. Decant the supernatant and allow residual liquid to evaporate.
+
+:AP1
+
+* Anchored Note, page 5
+20. Resuspend the pellet in 100 μL of TE (pH 7.6) + 1 μL of RNaseA and incubate for 30 min at 37°C.
+
+:AP1
+
+* Anchored Note, page 5
+21. Purify the samples using a QIAquick PCR Purification Kit according to the manufacturer’s instructions. Elute with 50 μL of TE (pH 7.6).
+
+:AP1r(x)
+
+* Anchored Note, page 5
+according to the manufacturer’s instructions
+
+r(x)
+
+* Anchored Note, page 5
+22. Measure the DNA concentration using a NanoDrop spectrophotometer or similar device.
+
+:AP1ax
+
+* Anchored Note, page 5
+At least 2.5 μg (as measured with NanoDrop) of genomic DNA should be recovered from a 20-mL cell culture with OD ~ 1.
+
+x
+
+* Anchored Note, page 5
+Samples may be stored overnight at 4°C or for a few weeks at -20°C.
+
+a
+
+* Anchored Note, page 5
+In these steps, BrdU-labeled genomic DNA that has been isolated and sheared is denatured and immunoprecipitated using an antibody specific to BrdU. Reference DNA is not subjected to this procedure and is set aside until the amplification in Steps 35-38. If immunoprecipitated DNA is to be analyzed with high-throughput sequencing, we do not recommend a blocking step (see below), because it uses nonhomologous DNA that may remain in the immuno- precipitated sample and complicate sequencing analysis. Instead, we suggest the use of Dynabeads Protein G, which does not require blocking.
+
+:X1ar(35-38)
+
+* Anchored Note, page 5
+we do not recommend a blocking step (see below), because it uses nonhomologous DNA that may remain in the immuno- precipitated sample and complicate sequencing analysis. Instead, we suggest the use of Dynabeads Protein G, which does not require blocking.
+
+a
+
+* Anchored Note, page 5
+in Steps 35-38.
+
+r(35-38)
+
+* Anchored Note, page 5
+23. Combine in a microcentrifuge tube:
+
+:AP1a
+
+* Anchored Note, page 5
+If different amounts of DNA are used, alter the amounts and volumes appropriately, maintaining all concentrations.
+
+a
+
+* Anchored Note, page 5
+i. Heat the sample on a heat block for 10 min at 95°C to denature the DNA.
+
+:AP1
+
+* Anchored Note, page 5
+ii. Snap-cool the sample in an ice-water bath for a few minutes.
+
+:AP1
+
+* Anchored Note, page 5
+iii. Briefly centrifuge the tube in a microcentrifuge to collect the solution in the bottom of the tube.
+
+:AP1
+
+* Anchored Note, page 5
+i. Dilute the appropriate amount (e.g., 1:1000) of anti-BrdU antibody in ice-cold IP buffer for genomic DNA.
+
+:AP1
+
+* Anchored Note, page 5
+ii. Add 200 μL of diluted antibody to the denatured DNA sample.
+
+:AP1
+
+* Anchored Note, page 5
+iii. Incubate with gentle agitation (e.g., using a tube rotator) for 1 h (up to overnight) at 4°C.
+
+:AP1
+
+* Anchored Note, page 5
+26. Briefly centrifuge to collect the sample in the bottom of the tube. Using a wide-bore pipette tip, add 30 μL of a 50% suspension of Protein G-Sepharose beads in PBS for genomic DNA and incubate on a tube rotator for 1 h at 4°C.
+
+:AP1
+
+* Anchored Note, page 6
+27. Gently pellet the beads using a microcentrifuge at ~800g for 1 min at room temperature. Carefully remove the supernatant, avoiding the beads.
+
+:AP1
+
+* Anchored Note, page 6
+28. Add 1 mL of ice-cold IP buffer for genomic DNA and place the sample on a tube rotator for ~3-5 min at room temperature. Repeat Step 27.
+
+:AP1w; CL(27)
+
+* Anchored Note, page 6
+for ~3-5 min
+
+w
+
+* Anchored Note, page 6
+Repeat Step 27.
+
+CL(27)
+
+* Anchored Note, page 6
+29. Repeat Step 28 two additional times.
+
+:CL(28); CL(28)
+
+* Anchored Note, page 6
+Repeat Step 27.
+
+CL(27)
+
+* Anchored Note, page 6
+30. Add 1 mL of TE (pH 7.6) and place on a tube rotator for ~3-5 min at room temperature. Repeat Step 27.
+
+:AP1w; CL(27)
+
+* Anchored Note, page 6
+on a tube rotator for ~3-5 min
+
+w
+
+* Anchored Note, page 6
+31. Add 100 μL of elution buffer for genomic DNA to the beads and incubate in a heat block for 15 min at 65°C.
+
+:AP1
+
+* Anchored Note, page 6
+32. Pellet the beads as in Step 27. Transfer the eluate to a fresh microcentrifuge tube.
+
+:AP1r(27)
+
+* Anchored Note, page 6
+as in Step 27
+
+r(27)
+
+* Anchored Note, page 6
+33. Purify the eluate using a MinElute PCR Purification Kit according to the manufacturer’s protocol with the following modifications:
+
+:AP1r(x)
+
+* Anchored Note, page 6
+according to the manufacturer’s protocol
+
+r(x)
+
+* Anchored Note, page 6
+i. Perform two washes with PE Buffer.
+
+:AP1
+
+* Anchored Note, page 6
+ii. Elute with 11 μL of 0.2X EB prewarmed to ~50°C.
+
+:AP1
+
+* Anchored Note, page 6
+or for a few weeks at -20°C. For longer-term storage, dry the DNA samples and place at -20°C or -80°C.
+
+a
+
+* Anchored Note, page 6
+34. Store samples overnight at 4°C, or for a few weeks at -20°C. For longer-term storage, dry the DNA samples and place at -20°C or -80°C.
+
+:AP1ar(t)
+
+* Anchored Note, page 6
+At this point, you may proceed to the DNA amplification. However, before investing time and resources into these steps, it is advisable to confirm the expected level of enrichment (if possible) by direct PCR analysis.
+
+a
+
+* Anchored Note, page 6
+See Troubleshooting.
+
+r(t)
+
+* Anchored Note, page 6
+To generate sufficient DNA for analysis, the IP and reference DNA samples must be amplified before labeling the DNA with a fluorophore. Commercially available kits are available for efficiently amplifying sheared DNA fragments.
+
+:AP2
+
+* Anchored Note, page 6
+35. Determine the DNA concentration of the IP and reference samples using a NanoDrop or similar instrument. Approximately 50 ng (as measured by NanoDrop) of IP DNA should be recovered.
+
+:AQ3r(Troubleshooting)
+
+* Anchored Note, page 6
+See Troubleshooting.
+
+r(Troubleshooting)
+
+* Anchored Note, page 6
+36. Use the GenomePlex Complete WGA Kit to separately amplify 10 ng of IP and 10 ng of reference DNA according to the manufacturer’s protocol.
+
+:AP1
+
+* Anchored Note, page 6
+37. After the amplification reaction, purify the DNA samples using a QIAquick PCR Purification Kit according to the manufacturer’s instructions. Elute using 30 μL of buffer EB.
+
+:AP1r(x)
+
+* Anchored Note, page 6
+according to the manufacturer’s instructions
+
+r(x)
+
+* Anchored Note, page 6
+More than 3 μg (as measured by NanoDrop) of WGA-amplified DNA should be recovered.
+
+a
+
+* Anchored Note, page 6
+38. Measure the concentration of each sample with a NanoDrop. More than 3 μg (as measured by NanoDrop) of WGA-amplified DNA should be recovered.
+
+:AQ3ar(t)
+
+* Anchored Note, page 6
+At this point, the samples may be stored at -20°C, or dried for long-term storage.
+
+a
+
+* Anchored Note, page 6
+See Troubleshooting.
+
+r(t)
+
+* Anchored Note, page 6
+There are various methods for fluorescently labeling DNA samples using fluorophores. This section describes the direct labeling of samples by a Klenow (exo-) extension reaction using Cy-labeled random 9-mers as primers. Always protect Cy dyes and Cy-labeled DNA samples from excessive light exposure.
+
+:X1ax
+
+* Anchored Note, page 6
+Always protect Cy dyes and Cy-labeled DNA samples from excessive light exposure.
+
+x
+
+* Anchored Note, page 6
+39. Use the NimbleGen Dual-Color DNA Labeling Kit (or similar) to label the IP DNA with Cy5 and reference DNA with Cy3 according to the manufacturer’s instructions.
+
+:AP1air(x)
+
+* Anchored Note, page 6
+according to the manufacturer’s instructions.
+
+r(x)
+
+* Anchored Note, page 6
+The Klenow extension reaction in this step further amplifies the DNA samples. This amplification is dependent on several factors, including the Cy-conjugated random 9-mer primer concentration and the amount of Klenow used.
+
+i
+
+* Anchored Note, page 6
+We have found that hybridizations can be performed using less labeled DNA without significantly affecting the data quality; therefore, if desired, in this step both Klenow enzyme and primers can be conserved. However, scaling back on these reagents results in lower amounts of amplified DNA. We have found that a typical reaction to label 1 μg of DNA using primers at OD = 1.0 and 100 U of Klenow produces >20 μg of labeled DNA; using primers at OD = 0.1 and 100 U of Klenow produces ~5 μg of DNA; using primers at OD = 0.1 and 50 U of Klenow produces ~3 μg of DNA.
+
+a
+
+* Anchored Note, page 7
+according to the manufacturer’s protocol
+
+r(x)
+
+* Anchored Note, page 7
+40. Purify the labeled DNA using a MinElute PCR Purification Kit according to the manufacturer’s protocol. Elute with 10 μL of 10 mM EDTA.
+
+:AP1ar(x)
+
+* Anchored Note, page 7
+The volume used to dissolve the labeled DNA can be adjusted depending on the anticipated amount of DNA produced in the labeling reaction.
+
+a
+
+* Anchored Note, page 7
+41. Determine the DNA concentration of the Cy-labeled IP and reference samples using a NanoDrop.
+
+:AP1
+
+* Anchored Note, page 7
+42. In a new microcentrifuge tube, for each sample, combine equal amounts of Cy5-labeled IP DNA and Cy3-labeled reference DNA. Dry the combined DNA using a vacuum concentrator.
+
+:AP1ar(x)
+
+* Anchored Note, page 7
+We typically combine 1-2 μg of IP and reference DNA for hybridization onto NimbleGen yeast arrays; for larger genomes, more DNA should be hybridized.
+
+a
+
+* Anchored Note, page 7
+The amounts required for hybridization may vary.
+
+a
+
+* Anchored Note, page 7
+Follow the array manufacturer’s guidelines.
+
+r(x)
+
+* Anchored Note, page 7
+43. Proceed to the hybridization or store the samples at −20°C, protected from light.
+
+:CL(44) | AP1
+
+* Anchored Note, page 7
+or store the samples at −20°C, protected from light.
+
+AP1
+
+* Anchored Note, page 7
+This section describes the hybridization of DNA onto NimbleGen high-density oligonucleotide tiling microarrays representing the yeast genome. Adapted from the protocols supplied by NimbleGen, it uses NimbleGen reagents with standard hybridization chambers and equipment. For other array configurations or platforms, hybridization supplies and protocols included by the microarray manufacturer should be used. For customized microarrays, hybridization temperature and buffers may need to be optimized depending on the array design and slide-surface chemistry.
+
+:X1i
+
+* Anchored Note, page 7
+44. Dissolve the combined IP and reference DNA with 9.5 μL of H2O.
+
+:AP1
+
+* Anchored Note, page 7
+45. Prepare the hybridization chambers by coating the gaskets with a thin layer of vacuum grease. Clean the inside of each chamber with ethanol and, if desired, compressed air.
+
+:AP1
+
+* Anchored Note, page 7
+46. Using components from a NimbleGen Hybridization Kit, prepare the following hybridization mix for each sample:
+
+:AP1aim
+
+* Anchored Note, page 7
+for each sample
+
+m
+
+* Anchored Note, page 7
+For hybridizations requiring different volumes of sample, adjust the volumes above accordingly, maintaining the concentrations.
+
+a
+
+* Anchored Note, page 7
+We describe the hybridization using 22- × 22-mm LifterSlips with a capacity of ~40 μL.
+
+i
+
+* Anchored Note, page 7
+47. Denature a sample in a heat block for 5 min at 95°C, protected from light.
+
+:AP1ar(47-52)w
+
+* Anchored Note, page 7
+Alternatively, multiple samples can be denatured together and then placed on a heat block at 42°C until they are ready to be applied to each microarray.
+
+w
+
+* Anchored Note, page 7
+Steps 47-52
+
+r(47-52)
+
+* Anchored Note, page 7
+typically carried out one sample at a time.
+
+a
+
+* Anchored Note, page 7
+48. While the sample is denaturing, insert a microarray slide into the bottom portion of a hybridization chamber. Place the hybridization chamber and slide on an inverted heat block at 55°C to prewarm the slide before hybridization.
+
+:AP1
+
+* Anchored Note, page 7
+49. Use compressed air to remove any dust from a LifterSlip. Gently place the LifterSlip onto the prewarmed slide, chamber side toward the glass slide, completely covering the array features area.
+
+:AP1
+
+* Anchored Note, page 7
+50. Quickly centrifuge the denatured sample for a few seconds to collect material in the bottom of the tube. Apply the entire sample to the slide by pipetting slowly along an open edge of the LifterSlip while allowing capillary action to draw the sample under the LifterSlip.
+
+:AP1x
+
+* Anchored Note, page 7
+Avoid introducing air bubbles and disrupting the LifterSlip position.
+
+x
+
+* Anchored Note, page 7
+51. Add 15 μL of 3X SSC buffer to each of the two small wells in the bottom portion of the hybridization chamber.
+
+:AP1i
+
+* Anchored Note, page 7
+The 3X SSC will keep the chamber humidified during hybridization.
+
+i
+
+* Anchored Note, page 7
+52. Close the hybridization chamber and incubate in a water bath or hybridization oven in the dark at 42°C. Incubate for 12 to 20 h, typically overnight.
+
+:AP1
+
+* Anchored Note, page 8
+53. Wash and dry the slides using the protocol, solutions, slide racks, and wash chambers found in the NimbleGen Wash Buffer Kit and the NimbleGen Array Processing Accessories Kit. For other array platforms, perform washes as directed by the microarray supplier.
+
+:AP1ar(x)
+
+* Anchored Note, page 8
+protocol
+
+r(x)
+
+* Anchored Note, page 8
+For customized microarrays, wash buffers may need to be optimized, depending on the array design and slide- surface chemistry.
+
+a
+
+* Anchored Note, page 8
+54. Store dried slides in a slide box, protected from light, and preferably in an ozone-free environment. Scan slides as soon as possible.
+
+:AP1x
+
+* Anchored Note, page 8
+Scan slides as soon as possible.
+
+x
+
+* Anchored Note, page 8
+55. Scan slides according to the description in the NimbleGen Array’s User’s Guide. Save the 532- and 635-nm images as single image .tif files.
+
+:AP1r(t)r(x)x
+
+* Anchored Note, page 8
+Save the 532- and 635-nm images as single image .tif files.
+
+x
+
+* Anchored Note, page 8
+in the NimbleGen Array’s User’s Guide
+
+r(x)
+
+* Anchored Note, page 8
+See Troubleshooting.
+
+r(t)
+
+* Anchored Note, page 8
+56. Using NimbleScan software, open the scanned image files and create a pair report, as described in the User’s Guide. The pair report generates a GFF file type that can be analyzed further and plotted along chromosomal coordinates using NimbleScan software.
+
+:AV1r(x)
+
+* Anchored Note, page 8
+as described in the User’s Guide.
+
+r(x)
+
+* Anchored Note, page 8
+57. Arrays can be “stripped” and reused with the Nimblegen Array Reuse Kit. However, these arrays show decreases in their M = log(IP/Total) signals with each successive array use (AU). This can cause false positives when attempting to detect variations between experiments whose corresponding AUs differ. To minimize this potential bias, perform comparisons with microarrays subjected to equal numbers of AUs.
+
+:X1aiox
+
+* Anchored Note, page 8
+However, these arrays show decreases in their M = log(IP/Total) signals with each successive array use (AU).
+
+a
+
+* Anchored Note, page 8
+can be “stripped” and reused
+
+o
+
+* Anchored Note, page 8
+his can cause false positives when attempting to detect variations between experiments whose corresponding AUs differ.
+
+i
+
+* Anchored Note, page 8
+To minimize this potential bias, perform comparisons with microarrays subjected to equal numbers of AUs.
+
+x
+
+* Anchored Note, page 8
+58. Following array scanning and Cy3 and Cy5 signal detection, perform array normalization to remove the biases that are typically seen in microarray data.
+
+:AV1air(x)
+
+* Anchored Note, page 8
+The characteristics of BrdU-IP-chip experiments render traditional normalization procedures (for RNA-chip and ChIP-chip) suboptimal,
+
+i
+
+* Anchored Note, page 8
+we have designed and implemented normalization software specifically for these data sets (Knott et al. 2009b).
+
+r(x)
+
+* Anchored Note, page 8
+Also, we do not recommend traditional ChIP-chip enrichment detection methods for identifying BrdU-enriched genomic regions.
+
+a
+
+* Anchored Note, page 8
+These methods typically assume a bimodal M-distribution, which is not the case in BrdU-IP-chip data sets.
+
+i
+
+* Anchored Note, page 8
+we have developed an enrichment detection method specifically for these data sets (Knott et al. 2009b).
+
+r(x)
+

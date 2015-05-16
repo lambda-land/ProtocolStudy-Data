@@ -1,0 +1,335 @@
+* Anchored Note, page 2
+1. Sterilize Arabidopsis seeds by rinsing with 75% ethanol for 5 min, followed by a 1-min rinse in 95% ethanol.
+
+:AP1
+
+* Anchored Note, page 2
+2. Dry the seeds on autoclaved filter paper in a laminar flow hood.
+
+:AP1
+
+* Anchored Note, page 2
+3. Plate the sterilized seeds on 0.5X MS medium. Stratify in darkness for 2 d at 4°C.
+
+:AP1
+
+* Anchored Note, page 2
+4. Transfer the plates to a growth chamber. Grow for 7-10 d using an 8/16 h light/dark cycle (130 μmol/m2 sec light intensity), 21°C ± 1°C light temperature/18°C ± 1°C dark temperature and 70%- 80% humidity.
+
+:AP1
+
+* Anchored Note, page 2
+5. After 7-10 d, transplant the seedlings into pots filled with soil mix. Continue to grow under the conditions indicated in Step 4.
+
+:AP1r(4)
+
+* Anchored Note, page 2
+6. Harvest 5-10 fully expanded young leaves from 4-wk old Arabidopsis plants (Fig. 1).
+
+:AP1vw
+
+* Anchored Note, page 2
+Harvest 5-10
+
+w
+
+* Anchored Note, page 2
+Fig. 1)
+
+v
+
+* Anchored Note, page 2
+7. Using sharp-tip forceps, peel the abaxial epidermis from the leaves.
+
+:AP1ix
+
+* Anchored Note, page 2
+Using sharp-tip forceps,
+
+x
+
+* Anchored Note, page 2
+This decreases mesophyll contamination.
+
+i
+
+* Anchored Note, page 2
+8. Place the epidermal peels in a blender with 500 mL of cool distilled water. Blend for 30 sec.
+
+:AP1
+
+* Anchored Note, page 3
+9. Filter the mixture through a 100-μm nylon mesh. Using a spatula, transfer the peels from the mesh into 10 mL of enzyme solution 1.
+
+:AP1v
+
+* Anchored Note, page 3
+Peels with guard cells after blending are shown in Fig. 2A.
+
+v
+
+* Anchored Note, page 3
+10. Digest the peels in a shaking water bath at 120 rpm for 30 min at 28°C.
+
+:AP1v
+
+* Anchored Note, page 3
+Peels at this stage are shown in Fig. 2B).
+
+v
+
+* Anchored Note, page 3
+11. Add 10 mL of basic solution. Shake for an additional 5 min.
+
+:AP1i
+
+* Anchored Note, page 3
+This step reduces the osmolality difference between enzyme solutions 1 and 2.
+
+i
+
+* Anchored Note, page 3
+12. Collect the partially digested peels by filtering the solution through a 100-μm nylon mesh. Using a squirt bottle, wash the peels with basic solution. Transfer the peels to 10 mL of enzyme solution 2.
+
+:AP1
+
+* Anchored Note, page 3
+13. Digest the peels by shaking at 60 rpm for at least 30 min at 22°C.
+
+:AP1
+
+* Anchored Note, page 4
+i. After 30 min, remove an aliquot of peels at 5-min intervals.
+
+:AP1
+
+* Anchored Note, page 4
+ii. Using a microscope (100X and 400X total magnification), evaluate the degree of digestion.
+
+:AQ3v
+
+* Anchored Note, page 4
+Peels at different digestion stages are shown in Fig. 2C-E).
+
+v
+
+* Anchored Note, page 4
+iii. Stop the digestion when 10%-20% of the guard cells are spherical (Fig. 2D).
+
+:AP3v
+
+* Anchored Note, page 4
+14. Mix the peels by pipetting up and down with a 1-mL pipette.
+
+:AP1i
+
+* Anchored Note, page 4
+This releases the protoplasts from the peels.
+
+i
+
+* Anchored Note, page 4
+15. Filter the solution containing the protoplasts through a 30-μm nylon mesh to remove debris. Using a squirt bottle, wash the mesh with ~5 mL of basic solution. Collect both the filtrate and the wash solution into a centrifuge tube.
+
+:AP1
+
+* Anchored Note, page 4
+16. Centrifuge the solution containing the protoplasts at 800 rpm for 5 min to pellet the protoplasts. Decant the supernatant.
+
+:AP1
+
+* Anchored Note, page 4
+17. Gently resuspend the pellet in 15 mL of basic solution. Repeat Step 16.
+
+:AP1; CL(16)1
+
+* Anchored Note, page 4
+18. Gently resuspend the pellet in 200 μL of basic solution. Place on ice in the dark for at least 1 h prior to patch clamping.
+
+:AP1r(t)
+
+* Anchored Note, page 4
+See Troubleshooting.
+
+r(t)
+
+* Anchored Note, page 4
+Patch clamping should always be performed with pipettes prepared on the same day.
+
+:X1x
+
+* Anchored Note, page 4
+19. Pull each glass capillary tube into two pipettes using a two-step puller. Set the temperature for each step properly to make sure the tip of the pipette is sharp and thin, with a tip opening of <1 μm.
+
+:AP1
+
+* Anchored Note, page 4
+20. Smooth the sharp tip of the pipette by polishing the tip with a microforge. Stop heating the tip when the tip opening becomes very small.
+
+:AP1
+
+* Anchored Note, page 4
+21. Store the polished pipettes mounted on a clay strip in a covered dish to avoid contamination and clogging of the pipette tip.
+
+:AP1i
+
+* Anchored Note, page 4
+The seal resistance of the pipette should be 40-60 MΩ using the described patch clamping solutions.
+
+i
+
+* Anchored Note, page 4
+22. Fill the cell chamber with bath solution. Add 20 μL of the protoplast solution (from Step 18). Wait 5 min to allow the protoplasts to settle to the bottom of the chamber (Fig. 2F).
+
+:AP1r(18)v
+
+* Anchored Note, page 4
+from Step 18
+
+r(18)
+
+* Anchored Note, page 4
+Fig. 2F
+
+v
+
+* Anchored Note, page 4
+23. Place the tip of the ground electrode into the bath solution via a 3 M KCl agar bridge.
+
+:AP1
+
+* Anchored Note, page 4
+24. Turn on the amplifier and computer. Load pCLAMP software (Clampex) for whole cell data acquisition. Load or edit the proper parameters to set the voltage family to evaluate guard cell K+ channels:
+
+:AP1ivx
+
+* Anchored Note, page 4
+i. A typical voltage family for inward and outward K+ channel current recordings consists of negative and positive voltages (e.g., -200 mV to +80 mV with 20-mV increments).
+
+i
+
+* Anchored Note, page 4
+See the waveform example in Fig. 3.
+
+v
+
+* Anchored Note, page 4
+ii. Set the duration to no less than 4 sec for each voltage step to make sure the currents reach steady state, with a holding potential of -60 mV and an interpulse interval of 6 sec.
+
+x
+
+* Anchored Note, page 4
+25. Heat the tip of the plastic syringe using an alcohol burner. Pull the syringe into a very thin tube with a diameter <0.5 mm.
+
+:AP1
+
+* Anchored Note, page 4
+26. Using the syringe, fill a glass pipette with pipette solution. Remove air bubbles by flicking the pipette.
+
+:AP1i
+
+* Anchored Note, page 4
+Air bubbles can cause an open circuit, preventing recording of the current.
+
+i
+
+* Anchored Note, page 4
+27. Tighten the pipette into the holder, making sure that only 1-2 mm of the Ag/AgCl electrode wire is submerged in the pipette solution.
+
+:AP1x
+
+* Anchored Note, page 4
+making sure that only 1-2 mm of the Ag/AgCl electrode wire is submerged in the pipette solution
+
+x
+
+* Anchored Note, page 5
+28. Using the inverted microscope, select a round, bright, healthy protoplast with a clear membrane (as indicated by the arrow in Fig. 2F). Move it to the center of the field of view.
+
+:AV1v
+
+* Anchored Note, page 5
+as indicated by the arrow in Fig. 2F
+
+v
+
+* Anchored Note, page 5
+29. Use the coarse manipulator to move the glass pipette so that its tip is centered over the protoplast and above the surface of the bath solution.
+
+:AP1
+
+* Anchored Note, page 5
+30. Reduce the light intensity of the microscope so that it is easier to find the shadow of the pipette tip. While observing using a 10X objective, use the coarse manipulator to move the pipette down until the tip is above and very close to the selected protoplast.
+
+:AP1x
+
+* Anchored Note, page 5
+using a 10X objective
+
+x
+
+* Anchored Note, page 5
+To avoid clogging the pipette tip, maintain positive pressure by blowing into the tube that is connected to the electrode holder.
+
+x
+
+* Anchored Note, page 5
+31. While maintaining positive pressure, change to the 40X objective. Use the fine micromanipulator to move the pipette so that it gently touches the protoplast, very slightly deforming it.
+
+:AP1x
+
+* Anchored Note, page 5
+very slightly deforming it
+
+x
+
+* Anchored Note, page 5
+32. Apply gentle suction to the tube so that the tip of the glass pipette seals onto the protoplast.
+
+:AP1r(t)
+
+* Anchored Note, page 5
+See Troubleshooting.
+
+r(t)
+
+* Anchored Note, page 5
+33. Continue to apply suction. Set the pipette offset to zero. Monitor the increase in the seal resist- ance on the computer. Gradually apply a more negative holding potential (-10 mV for each 100 MΩ increase in seal resistance) to -60 mV.
+
+:AP1r(t)
+
+* Anchored Note, page 5
+See Troubleshooting
+
+r(t)
+
+* Anchored Note, page 5
+34. When a GΩ seal resistance is reached, give a stronger pulse of suction and/or a voltage zap from the patch clamp amplifier.
+
+:AP1ir(t)
+
+* Anchored Note, page 5
+This breaks the membrane and forms the whole-cell configuration.
+
+i
+
+* Anchored Note, page 5
+See Troubleshooting
+
+r(t)
+
+* Anchored Note, page 5
+35. If the seal resistance remains 1-2 GΩ or higher, apply test voltages to the cell. View whole-cell K+ currents and record for further analysis (Fig. 3).
+
+:AP1; AV3av
+
+* Anchored Note, page 5
+Fig. 3
+
+v
+
+* Anchored Note, page 5
+and 5 GΩ can also be used if leak (instantaneous) currents are not too large. For recording of single channel currents from membrane patches, seal resistances of at least 10 GΩ are required in order to achieve a suitable signal-to-noise ratio.
+
+a
+

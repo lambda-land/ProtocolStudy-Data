@@ -1,0 +1,195 @@
+* Anchored Note, page 2
+1. Anesthetize the fly on ice or with CO2.
+
+:AP1aw
+
+* Anchored Note, page 2
+The fly should be left for 20-30 min after mounting if CO2 is used, because occasionally it can affect recordings.
+
+a
+
+* Anchored Note, page 2
+This is not a problem when using ice; however, the fly must be secured in the wax more quickly because recovery from cooling can be quite rapid.
+
+a
+
+* Anchored Note, page 2
+2. Using forceps, transfer the anesthetized fly to the wax by its legs, and mount it into soft wax on a slide or tray with the ventral side down, pushing the legs into the wax to secure the fly.
+
+:AP1
+
+* Anchored Note, page 2
+3. Pull the proboscis outward and push into the wax so that the head lies slightly forward and down on the surface.
+
+:AP1ir(6)
+
+* Anchored Note, page 2
+This step is important because the head needs to be secure and not move when the stimulating electrodes are inserted
+
+i
+
+* Anchored Note, page 2
+Keeping the head slightly stretched in front of the thorax will also help prevent inadvertent stimulation of the ventral nerve cord.
+
+i
+
+* Anchored Note, page 2
+Step 6)
+
+r(6)
+
+* Anchored Note, page 2
+4. Pull the wings outward, away from the thorax, and secure. Ensure that the fly cannot move its thorax and that the areas of the DLM and TTM (Fig. 3, dotted areas) are visible and accessible.
+
+:AP1avx
+
+* Anchored Note, page 2
+Ensure that the fly cannot move its thorax and that the areas of the DLM and TTM
+
+x
+
+* Anchored Note, page 2
+Fig. 3, dotted areas
+
+v
+
+* Anchored Note, page 2
+If the fly is mounted incorrectly or not securely, it becomes very difficult to obtain recordings, so it is advisable to practice these steps several times before proceeding with the protocol.
+
+a
+
+* Anchored Note, page 2
+Successful recording from the GFS depends on being able to arrange the five micromanipulators so that the electrodes can be placed within several millimeters of each other. It is worth spending some time moving and adjusting these before a preparation is introduced so that minimal adjustment is required when recordings are needed.
+
+:AP1a
+
+* Anchored Note, page 2
+It is worth spending some time moving and adjusting these before a preparation is introduced so that minimal adjustment is required when recordings are needed.
+
+a
+
+* Anchored Note, page 2
+5. Place the ground electrode into the posterior end of the abdomen (Fig. 2C).
+
+:AP1v
+
+* Anchored Note, page 2
+Fig. 2C
+
+v
+
+* Anchored Note, page 2
+6. Place the stimulating electrodes through the eyes into the brain (Fig. 2C).
+
+:AP1iv
+
+* Anchored Note, page 2
+Fig. 2C
+
+v
+
+* Anchored Note, page 2
+The brain sits at the back of the head capsule, but electrodes pushed in too far may traverse the head capsule and enter the thorax where they may stimulate the ventral nerve cord directly.
+
+i
+
+* Anchored Note, page 2
+7. Give single pulses of 30-60 V for 0.03 msec and check for successful activation of the GFS by looking for movement of the wings and/or TTM muscle on stimulation.
+
+:AP1r(t)
+
+* Anchored Note, page 2
+See Troubleshooting.
+
+r(t)
+
+* Anchored Note, page 2
+8. Fill the glass electrodes for intracellular recordings with GFS saline or 3 M KCl. Place one of the filled glass electrodes into the left (or right) DLM muscle fiber 45a, which is immediately below the cuticle (Fig. 2C; Fig. 3A).
+
+:AP1r(t)v
+
+* Anchored Note, page 2
+Fig. 2C; Fig. 3A
+
+v
+
+* Anchored Note, page 2
+See Troubleshooting
+
+r(t)
+
+* Anchored Note, page 3
+9. Give a single stimulus as in Step 7 and modulate the stimulus strength by varying the voltage to determine the threshold for eliciting a response.
+
+:AP1air(7)r(t)v
+
+* Anchored Note, page 3
+Set the voltage 5-10 V above the determined threshold for the remainder of the experiment.
+
+a
+
+* Anchored Note, page 3
+he response of a good DLM recording is ~50-70 mV and has a latency of ~1.2-1.4 msec
+
+i
+
+* Anchored Note, page 3
+Fig. 2D
+
+v
+
+* Anchored Note, page 3
+See Troubleshooting
+
+r(t)
+
+* Anchored Note, page 3
+10. Place the second intracellular recording electrode in the right (or left) TTM muscle on the contralateral side with respect to the recording electrode for the DLM (Fig. 2C; Fig. 3B).
+
+:AP1air(t)v
+
+* Anchored Note, page 3
+Fig. 2C; Fig. 3B
+
+v
+
+* Anchored Note, page 3
+The TTM muscle fibers are much smaller than the DLM muscle fibers and hence it is more difficult to obtain and main- tain a good recording. The response of a good recording from the TTM is ~30-50 mV and has a latency of ~0.8 msec
+
+i
+
+* Anchored Note, page 3
+Fig. 2D)
+
+v
+
+* Anchored Note, page 3
+Protocols can be programmed in software such as pCLAMP to capture 10-msec sweeps to collect data.
+
+a
+
+* Anchored Note, page 3
+See Troubleshooting.
+
+r(t)
+
+* Anchored Note, page 3
+11. Once good recordings have been obtained from the TTM and DLM, give 10 single stimuli with an interval of ~5 sec between the stimuli and determine the average response latency for both GF outputs.
+
+:AP1a
+
+* Anchored Note, page 3
+For this step, a separate software protocol that captures 120-msec sweeps can be used to collect the data.
+
+a
+
+* Anchored Note, page 3
+12. Finally, determine the following frequency by giving 10 trains of 10 stimuli at 100 Hz, with an intermittence of ~2 sec between the trains. Calculate the percentage of the total responses. Perform the same assay for trains of stimuli given at 200 Hz and 300 Hz.
+
+:AP1; AQ2
+
+* Anchored Note, page 3
+13. Compare the TTM and DLM response latencies as well as the following frequencies at 100, 200, and 300 Hz between wild-type and mutant flies.
+
+:AI3
+

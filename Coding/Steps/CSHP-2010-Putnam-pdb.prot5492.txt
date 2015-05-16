@@ -1,0 +1,280 @@
+* Anchored Note, page 2
+at least two independent biological isolates per strain.
+
+x
+
+* Anchored Note, page 2
+1. Streak the yeast strains of interest onto YPD agar plates. Use at least two independent biological isolates per strain.
+
+:AP1aix
+
+* Anchored Note, page 2
+It is impor- tant to have well-separated single colonies.
+
+x
+
+* Anchored Note, page 2
+Colonies should be visible in 2-3 d if the strains have no growth defects and are grown on rich media.
+
+a
+
+* Anchored Note, page 2
+Strains with variable-sized colonies should be carefully investigated.
+
+a
+
+* Anchored Note, page 2
+Smaller colonies can indicate the spontaneous generation of respiratory-defective petites, whereas larger colonies can indicate the presence of spontaneous mutations that suppress growth defects caused by the desired geno- type.
+
+i
+
+* Anchored Note, page 2
+Ideally, similar-sized colonies that lack additional genetic changes should be analyzed.
+
+a
+
+* Anchored Note, page 2
+2. Depending on the expected GCR rate, choose an appropriate volume of YPD liquid medium for growing liquid cultures:
+
+:DS2aw
+
+* Anchored Note, page 2
+i. For strains with rates similar to wild type (~10–10 mutations per cell per generation), use 50-mL liquid cultures.
+
+w
+
+* Anchored Note, page 2
+ii. For moderately increased GCR rates (~10–8 mutations per cell per generation), use 10-mL liquid cultures.
+
+w
+
+* Anchored Note, page 2
+iii. For very high GCR rates (~10–6 mutations per cell per generation), use 1- to 5-mL liquid cultures.
+
+w
+
+* Anchored Note, page 2
+iv. For unknown rates, initially try 10-mL liquid cultures.
+
+aw
+
+* Anchored Note, page 2
+3. For each culture, use a sterile scalpel blade to cut out one colony from the Petri dish. Inoculate each liquid culture with a single colony/agar plug.
+
+:AP1x
+
+* Anchored Note, page 2
+Ensure that the entire colony is used in the inoculation and that each colony/agar plug is not contaminated with cells from other colonies.
+
+x
+
+* Anchored Note, page 2
+Grow at least seven cultures for each independent biological isolate; larger numbers of cultures allow more accurate determination of rates.
+
+x
+
+* Anchored Note, page 2
+4. Grow cultures at 30°C with vigorous shaking until they reach saturation.
+
+:AP1i
+
+* Anchored Note, page 2
+In rich media, saturation typically occurs after 24-36 h of growth for strains with wild-type growth rates. Sicker strains can take longer to reach saturation and can reach saturation at lower viable cell densities than wild-type strains; determination of experimental growth curves for these types of strains can be helpful.
+
+i
+
+* Anchored Note, page 2
+5. For each culture, label five sterile microcentrifuge tubes A-E. Add 90 μL of sterile water to each.
+
+:AP1
+
+* Anchored Note, page 2
+i. Transfer 10 μL of the culture to tube A and vortex.
+
+:AP1
+
+* Anchored Note, page 2
+ii. Transfer 10 μL of A to B and vortex.
+
+:AP1
+
+* Anchored Note, page 2
+iii. Transfer 10 μL of B to C and vortex.
+
+:AP1
+
+* Anchored Note, page 2
+iv. Transfer 10 μL of C to D and vortex.
+
+:AP1
+
+* Anchored Note, page 2
+v. Transfer 10 μL of D to E and vortex.
+
+:AP1
+
+* Anchored Note, page 2
+7. Spread all 100 μL of each tube E (i.e., the 10–5 dilution) on 9-cm YPD agar plates.
+
+:AP1e
+
+* Anchored Note, page 2
+This provides a final effective dilution of 10–6 viable cells per milliliter, relative to the concentration of the culture.
+
+e
+
+* Anchored Note, page 2
+8. Centrifuge the remainder of the saturated culture at 2000g for 10 min at room temperature. Carefully decant the supernatant.
+
+:AP1
+
+* Anchored Note, page 3
+9. Resuspend the pellet in 0.2 mL of sterile water per 10 mL of original culture.
+
+:AP1
+
+* Anchored Note, page 3
+10. Spread the resuspended culture onto 14.5-cm 5-FOA Can plates.
+
+:AP1a
+
+* Anchored Note, page 3
+For up to 10 mL of culture (~109 cells), one 14.5-cm plate can be used. For larger cultures, divide each culture evenly between multiple plates, plating no more than 109 cells/plate for each culture.
+
+a
+
+* Anchored Note, page 3
+11. Place the YPD and 5-FOA Can plates in the incubator at 30°C.
+
+:AP1a
+
+* Anchored Note, page 3
+Colonies with wild-type growth rates should take 3-5 d to appear on 5-FOA Can plates.
+
+a
+
+* Anchored Note, page 3
+12. Count the number of colonies on the YPD and 5-FOA Can plates.
+
+:AP1ir(t)
+
+* Anchored Note, page 3
+In rich media, wild-type cultures at saturation have ~108 cells/mL, yielding ~100 colonies/YPD plate.
+
+i
+
+* Anchored Note, page 3
+See Troubleshooting.
+
+r(t)
+
+* Anchored Note, page 3
+13. To calculate the number of viable cells per milliliter (D) for each culture, multiply the number of colonies on the YPD plate by the total dilution factor (in this case, 106; see Steps 6 and 7).
+
+:AQ1r(6-7)
+
+* Anchored Note, page 3
+see Steps 6 and 7
+
+r(6-7)
+
+* Anchored Note, page 3
+14. For each culture, calculate the number of viable cells in the culture (N) using the formula N = D × V, where V is the volume of the culture (in milliliters), and D is the viable cells per milliliter (from Step 13).
+
+:AQ1r(13)
+
+* Anchored Note, page 3
+from Step 13
+
+r(13)
+
+* Anchored Note, page 3
+15. For each culture, estimate the most likely number of mutational events (m) using the observed number of colonies on the 5-FOA Can plates (r) and the equation m(1.24 + ln[m]) – r = 0.
+
+:AQ1ir(x)
+
+* Anchored Note, page 3
+This equation was originally derived by Lea and Coulson (1949). Values of r as a function of m can readily be tabulated in spreadsheets (Table 1, or m can be calculated from r by iterative methods (e.g., bisection, Newton- Raphson).
+
+ir(x)
+
+* Anchored Note, page 3
+A Visual Basic macro for calculating m from r is available as Supplemental Material (Suppl_RtoM_Conversion_Macro.doc).
+
+i
+
+* Anchored Note, page 3
+16. For each culture, calculate P, the most likely rate (in events per cell per generation) using the for- mula P = m/N, where N is the number of cells in the culture (see Step 14) and m is the most likely number of events (from Step 15).
+
+:AQ1r(14)r(15)
+
+* Anchored Note, page 3
+see Step 14
+
+r(14)
+
+* Anchored Note, page 3
+from Step 15
+
+r(15)
+
+* Anchored Note, page 3
+17. For each biological isolate, order all the most likely rates (P, from Step 16) from smallest to largest, including all zero rates.
+
+:AV1r(16)
+
+* Anchored Note, page 3
+from Step 16
+
+r(16)
+
+* Anchored Note, page 3
+18. Determine the median rate of the cultures, R.
+
+:AQ3i
+
+* Anchored Note, page 3
+The median is the value of the middle element in the ordered list (or the average of the two middle values if there are an even number of elements in the list).
+
+i
+
+* Anchored Note, page 3
+19. If R = 0, calculate an upper limit for the rate (R) by replacing all cultures with r = 0 with r = 1 and determining the new median of these rates. Report the resulting rate as being less than R. For example, if R = 0 and R = 1.75 × 10–9, the reported rate should be <1.75 × 10–9.
+
+:AQc
+
+* Anchored Note, page 3
+20. Determine the 95% confidence intervals for the median (see, e.g., http://www.math.unb.ca/ ~knight/utility/MedInt95.htm). For six to 283 cultures, calculate the lower (L) and upper (U) 95% confidence interval limits using the equations L = floor[(M+1) / 2 – 0.9789 M ] and U = (M + 1) – L, where M is the number of cultures.
+
+:AV1; AQ1; AV1r(t)
+
+* Anchored Note, page 3
+For six to 283 cultures, calculate the lower (L) and upper (U) 95% confidence interval limits using the equations L = floor[(M+1) / 2 – 0.9789 M ] and U = (M + 1) – L, where M is the number of cultures.
+
+AQ1
+
+* Anchored Note, page 3
+Briefly, the lower and upper 95% confidence interval limits correspond to the L-th and U-th posi- tions in the ordered list of individual rates. For example, if the number of cultures (M) 14, L = floor[15 / 2 – 0.9789 14] = 3; U = (14 + 1) – 3 = 12. Thus, the 95% confidence interval is defined by the third and 12th lowest mutation rates.
+
+AV1r(t)
+
+* Anchored Note, page 3
+See Troubleshooting.
+
+r(t)
+
+* Anchored Note, page 3
+21. If the median rates for the different biological isolates are within the 95% confidence intervals, merge all rates from the different biological isolates. Determine the median rate and the 95% con- fidence intervals for the combined list of rates (i.e., repeat Steps 17-20 for the entire set of rates from all biological isolates of a given genotype).
+
+:AV1o; CL(17-20)
+
+* Anchored Note, page 3
+If the median rates for the different biological isolates are within the 95% confidence
+
+o
+
+* Anchored Note, page 3
+repeat Steps 17-20 for the entire set of rates from all biological isolates of a given genotype
+
+CL1(17-20)
+

@@ -1,0 +1,688 @@
+* Anchored Note, page 3
+It can be performed a day in advance of chromatin extraction (or at any point if frozen chromatin aliquots are to be used).
+
+a
+
+* Anchored Note, page 3
+This portion of the protocol requires 30 min followed by an overnight incubation. It can be performed a day in advance of chromatin extraction (or at any point if frozen chromatin aliquots are to be used).
+
+:X1ax
+
+* Anchored Note, page 3
+requires 30 min followed by an overnight incubation
+
+x
+
+* Anchored Note, page 3
+1. Resuspend magnetic Protein G (or Protein A) beads on a rotator for 5 min at roomt emperature.
+
+:AP1
+
+* Anchored Note, page 3
+2. For each IP to be performed, aliquot 50 μL of beads into a microcentrifuge tube.
+
+:AP1am
+
+* Anchored Note, page 3
+For each IP to be performed
+
+m
+
+* Anchored Note, page 3
+If several IPs will be performed using the same antibody, combine up to eight reactions worth of beads in a single 2-mL tube.
+
+a
+
+* Anchored Note, page 3
+3. Wash the beads with 1mL of bead binding buffer by resuspending the beads, placing the tubes on the magnetic stand for 1 min, and removing the bead binding buffer. Repeat.
+
+:AP1a; CL(3)
+
+* Anchored Note, page 3
+Repeat.
+
+CL(3)
+
+* Anchored Note, page 3
+If combining multiple aliquots of beads in a single tube, increase number of washes to five.
+
+a
+
+* Anchored Note, page 3
+4. Resuspend the beads in 200 μL of bead binding buffer per IP.
+
+:AP1am
+
+* Anchored Note, page 3
+per IP
+
+m
+
+* Anchored Note, page 3
+If performing eight IPs, resuspend the beads in 1.6 mL of bead binding buffer in a 2-mL tube.
+
+a
+
+* Anchored Note, page 3
+5. Add up to 10 μg of the desired antibody per IP.
+
+:AP1am
+
+* Anchored Note, page 3
+per IP.
+
+m
+
+* Anchored Note, page 3
+The amount of antibody will vary considerably and will need to be empirically tested. Scale accordingly as above for multiple aliquots of beads.
+
+a
+
+* Anchored Note, page 3
+6. Incubate the beads and antibody on the rotator overnight at 4 ̊C.
+
+:AP1
+
+* Anchored Note, page 3
+7. Wash the beads twice with 1 mL of bead-binding buffer and then twice with 1 mL of ChIP-Seq dilution buffer. Perform each wash by placing the tubes on the magnetic stand for 1 min and then removing the supernatant.
+
+:AP1a
+
+* Anchored Note, page 3
+Increase number of washes to five bead-binding buffer washes and five ChIP-Seq dilution buffer washes if multiple reactions were combined above.
+
+a
+
+* Anchored Note, page 3
+8. Resuspend the beads in 50 μL of ChIP-Seq dilution buffer per IP to be performed.
+
+:AP1m
+
+* Anchored Note, page 3
+per IP
+
+m
+
+* Anchored Note, page 3
+9. Store the beads at 4 ̊C until the chromatin is prepared.
+
+:AP1
+
+* Anchored Note, page 3
+This procedure takes 1 h, not including any time necessary to harvest or dissect tissue.
+
+:X1x
+
+* Anchored Note, page 3
+takes 1 h, not including any time necessary to harvest or dissect tissue.
+
+x
+
+* Anchored Note, page 3
+10. Transfer fresh or frozen tissue to a clean 1.5-mL tube containing 250 μL of ice-cold PBS.
+
+:AP1
+
+* Anchored Note, page 3
+11. Briefly homogenize the tissue by hand to yield chunks 0.5 mm3 or smaller. Use a disposable plastic pestle or a handheld Polytron homogenizer fitted with 3.5-mm tip.
+
+:AP1a
+
+* Anchored Note, page 3
+Use a disposable plastic pestle or a handheld Polytron homogenizer fitted with 3.5-mm tip.
+
+a
+
+* Anchored Note, page 4
+12. Add ice-cold PBS to a final volume of 1 mL.
+
+:AP1
+
+* Anchored Note, page 4
+13. Cross-link the tissue by adding 27 μL of 37% formaldehyde (1% final) to each tube and imme- diately invert the tube several times.
+
+:AP1
+
+* Anchored Note, page 4
+14. Incubate the tube on the rotator at room temperature for 15 min.
+
+:AP1
+
+* Anchored Note, page 4
+15. Quench the cross-linking by adding 67 μL of 2.5 M glycine (150 mM final) and incubate the tube on the rotator at room temperature for an additional 10 min.
+
+:AP2
+
+* Anchored Note, page 4
+16. Harvest the tissue by centrifugation at 2000g for 10 min at 4 ̊C.
+
+:AP1
+
+* Anchored Note, page 4
+17. Remove the supernatant and add 1 mL of ice-cold PBS. Flick the tube with your finger several times to dislodge the pellet.
+
+:AP1
+
+* Anchored Note, page 4
+18. Harvest the tissue by centrifugation at 2000g for 10 min at 4 ̊C and discard the supernatant. Flash freeze the tissue pellet in liquid nitrogen and store at −80 ̊C.
+
+:AP1; CB(19)o
+
+* Anchored Note, page 4
+Alternatively, proceed to Step 19 without freezing.
+
+CB(19)o
+
+* Anchored Note, page 4
+This procedure requires 5 h.
+
+:X1x
+
+* Anchored Note, page 4
+requires 5 h.
+
+x
+
+* Anchored Note, page 4
+19. Resuspend the frozen cross-linked tissue pellet in six volumes of ice-cold cell lysis buffer for ChIP-Seq. Use the markings on the 1.5-mL tube to provide an estimate of the pellet volume. If the pellet is very small, resuspend it in 300 μL of cell lysis buffer.
+
+:AP1aci
+
+* Anchored Note, page 4
+Use the markings on the 1.5-mL tube to provide an estimate of the pellet volume.
+
+a
+
+* Anchored Note, page 4
+Cell pellets at this stage will frequently adhere to the insides of pipette tips. It may be necessary to resuspend the pellet by flicking the tube several times instead of by pipetting.
+
+i
+
+* Anchored Note, page 4
+If the tissue remains in large chunks, homogenize it in a prechilled Dounce homogenizer with a loose pestle (pestle A) five to 10 times.
+
+c
+
+* Anchored Note, page 4
+20. Incubate the tube on ice for 20 min.
+
+:AP1i
+
+* Anchored Note, page 4
+This incubation period allows for swelling of cells to allow for mechanical lysis while keeping nuclei intact.
+
+i
+
+* Anchored Note, page 4
+21. Transfer the tissue suspension to a prechilled Dounce homogenizer and homogenize with 30–40 strokes with the tight pestle (pestle B).
+
+:AP1
+
+* Anchored Note, page 4
+22. Transfer the homogenate to a fresh nonstick 1.5-mL tube, rinse the Dounce homogenizer with 500 μL of cell lysis buffer, and combine.
+
+:AP1
+
+* Anchored Note, page 4
+23. Harvest the nuclei by centrifugation at 2000g for 5 min at 4 ̊C.
+
+:AP1i
+
+* Anchored Note, page 4
+The pellet will be not be as tight against the tube as the original cell pellet and will be mostly white.
+
+i
+
+* Anchored Note, page 4
+24. Remove the supernatant and resuspend the nuclei in five volumes of ice-cold ChIP-Seq nuclear lysis buffer (based on the volume of the original cell pellet in Step 19).
+
+:AP1ir(19)
+
+* Anchored Note, page 4
+in Step 19
+
+r(19)
+
+* Anchored Note, page 4
+The ChIP-Seq nuclear lysis buffer contains 0.2% SDS to aid in the lysis of nuclei. Some tissues such as brain samples require SDS concentrations of up to 0.5%; this will need to be empirically determined. High concentrations of SDS can inhibit antibody-binding downstream and will require further dilution or dialysis detailed below before using in IPs.
+
+i
+
+* Anchored Note, page 4
+25. Incubate the tube on ice for 20 min.
+
+:AP1
+
+* Anchored Note, page 4
+26. Take a 5-μL aliquot from each sample and dilute it with 15 μL of TE for an analytical gel.
+
+:AP1ai
+
+* Anchored Note, page 4
+Store the aliquots on ice until required.
+
+a
+
+* Anchored Note, page 4
+This sample is to confirm that the chromatin was intact before isolation.
+
+i
+
+* Anchored Note, page 4
+27. Place the tube in the sonicator bath set at 2 ̊C.
+
+:AP1ax
+
+* Anchored Note, page 4
+In our hands, sonicating a volume of 300 μL per tube with the Misonix 431A cup horn has performed very consistently, so we advise dividing larger samples into multiple tubes for sonication.
+
+a
+
+* Anchored Note, page 4
+Place at least two and up to eight tubes in the tube holder in the sonicator.
+
+x
+
+* Anchored Note, page 4
+28. Adjust the water level so that the tubes just touch the surface of the cup horn.
+
+:AP1
+
+* Anchored Note, page 4
+29. Sonicate the samples at amplitude 20 with 10-sec pulses and 10-sec rest for a total sonication time of 30 min.
+
+:AP1
+
+* Anchored Note, page 4
+30. Remove the samples from the sonicator and store on ice.
+
+:AP1
+
+* Anchored Note, page 5
+31. Take a 5-μL aliquot and dilute it with 15 μL of TE for an analytical gel.
+
+:AP1
+
+* Anchored Note, page 5
+32. Treat all reserved aliquots with 10 μg of RNase A for 15 min at 37 ̊C.
+
+:AP1m
+
+* Anchored Note, page 5
+all reserved aliquots
+
+m
+
+* Anchored Note, page 5
+33. Treat all reserved aliquots with 20 μg of proteinase K for 30 min at 65 ̊C.
+
+:AP1m
+
+* Anchored Note, page 5
+all reserved aliquots
+
+m
+
+* Anchored Note, page 5
+34. Reverse the cross-links for 5 min at 95 ̊C and allow samples to cool slowly to room temperature.
+
+:AP1x
+
+* Anchored Note, page 5
+These steps are required to ensure proper migration of the DNA on the agarose gel; otherwise, smearing or migration at much higher molecular masses than expected will occur.
+
+x
+
+* Anchored Note, page 5
+35. Add loading dye to each sample, and separate samples on a 1% agarose gel in 1× TAE running buffer.
+
+:AP1
+
+* Anchored Note, page 5
+36. Visualize DNA samples on the agarose gel.
+
+:AP1ar(t)v
+
+* Anchored Note, page 5
+Visualize
+
+v
+
+* Anchored Note, page 5
+heared chromatin should range in size from 200 to 500 bp.
+
+a
+
+* Anchored Note, page 5
+See Troubleshooting.
+
+r(t)
+
+* Anchored Note, page 5
+37. Centrifuge the samples from Step 30 at 16,000g for 10 min at 4 ̊C to remove insoluble material.
+
+:AP1r(30)
+
+* Anchored Note, page 5
+from Step 30
+
+r(30)
+
+* Anchored Note, page 5
+38. Transfer the soluble sheared chromatin to fresh nonstick 1.5-mL tube. Take a final 5-μL aliquot and dilute it with 15 μL of TE for estimation of DNA concentration.
+
+:AP1a
+
+* Anchored Note, page 5
+Chromatin can be frozen in liquid nitrogen and stored at −80 ̊C until needed.
+
+a
+
+* Anchored Note, page 5
+39. Treat the aliquot with RNase A, proteinase K, and cross-link reversal as above (Steps 32–34).
+
+:CL(32-34)
+
+* Anchored Note, page 5
+40. Purify the chromatin aliquot with the QIAquick PCR Purification Kit, and measure the DNA concentration with PicoGreen and a NanoDrop 3300 Fluorospectrometer. Prepare a 1× Pico- Green stock and follow the manufacturer’s instructions for setting up a standard curve on the NanoDrop instrument.
+
+:AP1r(x)
+
+* Anchored Note, page 5
+follow the manufacturer’s instructions
+
+r(x)
+
+* Anchored Note, page 5
+This procedure requires 10 min followed by an overnight incubation.
+
+:X1x
+
+* Anchored Note, page 5
+requires 10 min followed by an overnight incubation.
+
+x
+
+* Anchored Note, page 5
+41. Dilute30–50μgofchromatinfromStep38withChIP-Seqdilutionbufferinafreshnonsticktube to reduce the SDS concentration <0.1% and achieve a final volume of 450 μL.
+
+:AP1ar(38)
+
+* Anchored Note, page 5
+from Step 38
+
+r(38)
+
+* Anchored Note, page 5
+The amount of chromatin to be used will be highly antibody- and target-dependent and must be determined empirically, with 1–50 μg as a general range. Histones are highly abundant and widespread across the genome, whereas transcription factors are much less abundant and have specific binding sites.
+
+a
+
+* Anchored Note, page 5
+42. Reserve 5%–10% of diluted chromatin as an input sample and store at 4 ̊C.
+
+:AP1i
+
+* Anchored Note, page 5
+Input must be reserved to assess enrichment via qPCR and to provide a necessary control for comparing sequence data to identify true binding sites or regions of enrichment.
+
+i
+
+* Anchored Note, page 5
+43. Add 50 μL of the prepared antibody beads from Step 9 to each tube of diluted chromatin.
+
+:AP1mr(9)
+
+* Anchored Note, page 5
+from Step 9
+
+* Anchored Note, page 5
+to each tube of diluted chromatin.
+
+m
+
+* Anchored Note, page 5
+44. Incubate tube on the rotator overnight at 4 ̊C.
+
+:AP1
+
+* Anchored Note, page 5
+This procedure requires 2 h followed by an overnight incubation. Perform all washes and incubations in a cold room.
+
+:X1x
+
+* Anchored Note, page 5
+requires 2 h followed by an overnight incubation.
+
+x
+
+* Anchored Note, page 5
+Perform all washes and incubations in a cold room.
+
+x
+
+* Anchored Note, page 5
+45. Remove the tube containing chromatin and the antibody beads from the rotator, place it on the magnet, and let it stand for 1 min.
+
+:AP1
+
+* Anchored Note, page 5
+46. Remove the supernatant and transfer it to a fresh tube if required for additional IPs or troubleshooting.
+
+:AP1o
+
+* Anchored Note, page 5
+if required
+
+o
+
+* Anchored Note, page 5
+47. Wash the beads from each IP with 1 mL of ChIP-Seq wash buffer by pipetting the beads up and down or inverting the tube several times to mix.
+
+:AP1m
+
+* Anchored Note, page 5
+from each IP
+
+m
+
+* Anchored Note, page 5
+48. Place the tube on the rotator and incubate for 3 min.
+
+:AP1
+
+* Anchored Note, page 5
+49. Place the tube on the magnet to precipitate the beads and remove supernatant.
+
+:AP1
+
+* Anchored Note, page 5
+50. Repeat Steps 47 through 49 for a total of eight washes.
+
+:CL(47-49)
+
+* Anchored Note, page 5
+51. Perform one wash with 1 mL of TE. Remove the supernatant.
+
+:AP1
+
+* Anchored Note, page 6
+52. Resuspend the beads in 85 μL of ChIP-Seq elution buffer.
+
+:AP1
+
+* Anchored Note, page 6
+53. Elute the chromatin at 65 ̊C with agitation on the thermomixer for 10 min.
+
+:AP1a
+
+* Anchored Note, page 6
+The beads will settle if not agitated frequently. If a thermomixer is not available, mix the beads by flicking the tubes with your finger every 2 min.
+
+a
+
+* Anchored Note, page 6
+54. Place the tube on the magnet and transfer the eluate to a fresh nonstick tube.
+
+:AP1
+
+* Anchored Note, page 6
+55. Repeat elution with a second volume of 85 μL of ChIP-Seq elution buffer and combine eluates.
+
+:AP1
+
+* Anchored Note, page 6
+56. Incubate the combined eluates at 65 ̊C overnight to reverse the cross-links.
+
+:AP1
+
+* Anchored Note, page 6
+57. For each input control (see Step 42), add ChIP-Seq elution buffer to a final volume of 170μL and incubate overnight at 65 ̊C.
+
+:AP2mr(42)
+
+* Anchored Note, page 6
+Foreachinputcontrol
+
+m
+
+* Anchored Note, page 6
+seeStep42
+
+r(42)
+
+* Anchored Note, page 6
+This procedure requires 4 h.
+
+:X1x
+
+* Anchored Note, page 6
+requires 4 h
+
+x
+
+* Anchored Note, page 6
+58. Add 10 μg of RNase A to each tube of input and IP chromatin and incubate for 1 h at 37 ̊C.
+
+:AP1m
+
+* Anchored Note, page 6
+to each tube of input and IP chromatin
+
+m
+
+* Anchored Note, page 6
+59. Add 200 μg proteinase K diluted in 120 μL TE to each tube and incubate for 2 h at 65 ̊C.
+
+:AP1
+
+* Anchored Note, page 6
+60. Transfer each reaction to a 2-mL nonstick tube and add five volumes of PBI from the QIAquick PCR Purification Kit. Add 10 μL of 3 M sodium acetate to adjust the pH and generate a bright yellow color.
+
+:AP1aw
+
+* Anchored Note, page 6
+Phenol:chloroform extraction and ethanol precipitation of DNA can be substituted here if preferred.
+
+x
+
+* Anchored Note, page 6
+However, depending on the amount of chromatin obtained, a significant volume of sample may be required for subsequent high-throughput sequencing library generation. Phenol carryover may inhibit initial end repair steps and result in low-quality libraries.
+
+a
+
+* Anchored Note, page 6
+FollowtheQIAquickPCRPurificationKitinstructionsandelutetheDNAwith50μLofEBintoa fresh nonstick 1.5-mL tube.
+
+:AP1ar(x)
+
+* Anchored Note, page 6
+QIAquickPCRPurificationKitinstructions
+
+r(x)
+
+* Anchored Note, page 6
+EB can be prewarmed to 50 ̊C before elution to maximize recovery.
+
+a
+
+* Anchored Note, page 6
+62. Quantify the DNA recovered by IP and in the input sample with PicoGreen and a Fluorospectometer.
+
+:AP1
+
+* Anchored Note, page 6
+63. Dilute a portion of the ChIP and input samples with dH2O to the same concentration in nonstick tubes (50–500 pg/μL).
+
+:AP2
+
+* Anchored Note, page 6
+64.4 Analyze target regions by qPCR using the following reaction:
+
+:AQ1
+
+* Anchored Note, page 6
+i. Melt the template for 10 min at 95 ̊C.
+
+:AP1
+
+* Anchored Note, page 6
+ii. Amplify the target by performing 40 cycles of 15 sec at 95 ̊C and 1 min at 60 ̊C, measuring the fluorescence after each cycle.
+
+:AP1; AQ1
+
+* Anchored Note, page 6
+iii. Examine the melting curve to ensure that a single product is made in each reaction.
+
+:AP1r(x)
+
+* Anchored Note, page 6
+A good reference for performing qPCR is Bustin et al. (2009).
+
+r(x)
+
+* Anchored Note, page 6
+Measure enrichment by comparing Ct values between input and ChIP reactions.
+
+:AQ1ae
+
+* Anchored Note, page 6
+Depending on the type of factor being immunoprecipitated, fold enrichments versus input can vary consider- ably.
+
+a
+
+* Anchored Note, page 6
+For transcription factors and other sequence specific DNA-binding proteins, enrichments would be expected to be quite higher, up to 60-fold.
+
+e
+
+* Anchored Note, page 6
+For histone modifications, four- to 16-fold enrichments are acceptable.
+
+e
+
+* Anchored Note, page 7
+67. Dilute 10ng of ChIP or input DNA with dH2O to a final volume of 30μL in a fresh nonstick tube for high-throughput sequencing library preparation.
+
+:AP2x
+
+* Anchored Note, page 7
+Both ChIP and input samples must be sequenced to identify real binding peaks or enriched regions from more abundant open chromatin in the input sample.
+
+x
+
+* Anchored Note, page 7
+68. Follow the manufacturer’s instructions for preparing libraries with a kit.
+
+:AP1ar(x)
+
+* Anchored Note, page 7
+Follow the manufacturer’s instructions
+
+r(x)
+
+* Anchored Note, page 7
+We routinely use kits from NEB (e.g., E6240) for sequencing on Illumina instruments. Many library prep kits for different sequencing instruments are now commercially available.
+
+a
+

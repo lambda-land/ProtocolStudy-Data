@@ -1,0 +1,30 @@
+* Anchored Note, page 1
+<R><!>5-FOA Can agar plate media
+
+-PRh(Appendix)
+
+* Anchored Note, page 1
+<R><!>5-FOA Can agar plate media
+
+-PAh(Appendix)
+
+* Anchored Note, page 1
+<R>YPD media
+
+-PRh(Appendix)
+
+* Anchored Note, page 3
+Determine the 95% confidence intervals for the median (see, e.g., http://www.math.unb.ca/ ~knight/utility/MedInt95.htm).
+
+-PBh(http://www.math.unb.ca/~knight/utility/MedInt95.htm)
+
+* Anchored Note, page 5
+Several modified versions of the assay have since been developed, including those with a CAN1/URA3 cassette placed at a number of different chromosomal locations (RDKY6677, RDKY6678) (Putnam et al. 2009)
+
+-PCh(Putnam et al 2009)
+
+* Anchored Note, page 5
+as well as other variant GCR assays using the loss of URA3 and HIS3 markers on chromosome III (Myung et al. 2001b) or loss of CAN1, URA3, and ADE2 on chromosome XV (Hackett et al. 2001).
+
+-PCh(Hackett et al 2001)
+

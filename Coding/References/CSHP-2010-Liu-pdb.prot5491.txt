@@ -1,0 +1,50 @@
+* Anchored Note, page 1
+<!>Denaturation solution (0.2 N NaOH)
+
+-PAh(Appendix)
+
+* Anchored Note, page 1
+<!>Isopropanol
+
+-PAh(Appendix)
+
+* Anchored Note, page 2
+<R>RQPS annealing buffer
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<R>RQPS binding buffer
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<R>TE buffer for RQPS
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<R>Tissue lysis buffer
+
+-PRh(Appendix)
+
+* Anchored Note, page 5
+Purify the final PCR product with a PCR purification kit (e.g.,QIAquick PCR Purification Kit) according to the manufacturer’s instructions.
+
+-EB
+
+* Anchored Note, page 5
+Clone the purified PCR product into a TA vector according to the manufacturer’s instructions.
+
+-EB
+
+* Anchored Note, page 6
+use the following method described by Laird et al. (1991).
+
+-PXh(Laird et al 1991)
+
+* Anchored Note, page 9
+the power of such a screening method is further enhanced when it is combined with the simple pyro- screening enrichment protocol, another pyrosequencing-based innovation we have developed (Liu et al. 2009).
+
+-PSh(Liu et al 2009)
+

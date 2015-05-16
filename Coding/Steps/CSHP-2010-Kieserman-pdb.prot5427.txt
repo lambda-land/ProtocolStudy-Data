@@ -1,0 +1,285 @@
+* Anchored Note, page 3
+Expression of cell-membrane-targeted fluorescent proteins (e.g., memGFP) provides an excellent means for examining cell morphology in living tissues.
+
+i
+
+* Anchored Note, page 3
+i. Inject 60-500 pg of mRNA for visualization at gastrula stages.
+
+:AP1i
+
+* Anchored Note, page 3
+Because overexpression can lead to ectopic or abnormal protein localization, care should be taken to inject the lowest dose of mRNA that allows visualization of the construct. A careful dose-curve experiment should be performed to determine the proper expression level empirically before proceeding. Injections of 15-75 pg of mRNA are typical, but concentrations as low as 5 pg or as high as 500 pg might be needed.
+
+ax
+
+* Anchored Note, page 3
+ii. Inject the mRNA of interest.
+
+:AP1ar(3)x
+
+* Anchored Note, page 3
+When imaging (see Step 3), use a high-NA objective.
+
+a
+
+* Anchored Note, page 3
+see Step 3
+
+r(3)
+
+* Anchored Note, page 4
+iii. Inject 4-cell embryos with an mRNA encoding a fusion protein of interest.
+
+:AP1ior(x)v
+
+* Anchored Note, page 4
+Alternatively, mosaic expression can also be achieved by injection of plasmid DNA
+
+o
+
+* Anchored Note, page 4
+(Vize et al. 1991)
+
+r(x)
+
+* Anchored Note, page 4
+Because plasmid DNA is not transcribed until after the mid-blastula transition, this approach avoids early expression of the marker gene, which might be desirable. Moreover, expression levels will vary from cell to cell using this approach
+
+a
+
+* Anchored Note, page 4
+Fig. 5C
+
+v
+
+* Anchored Note, page 4
+iv. Inject again at a later cleavage stage to manipulate gene function in only a subset of cells expressing the reporter. In this later injection, include both the morpholino-oligonucleotide or mRNAs to manipulate gene function and also a complementary lineage tracer to mark the manipulated cells.
+
+:AP1aivx
+
+* Anchored Note, page 4
+In this later injection, include both the morpholino-oligonucleotide or mRNAs to manipulate gene function and also a complementary lineage tracer to mark the manipulated cells.
+
+x
+
+* Anchored Note, page 4
+Large clones of manipulated cells can be made with second injections at the eight-cell stage
+
+a
+
+* Anchored Note, page 4
+Fig. 6A
+
+v
+
+* Anchored Note, page 4
+Smaller clones of manipulated cells can be made with second injections at the 16-cell to 32-cell stages
+
+a
+
+* Anchored Note, page 4
+Fig. 6B
+
+v
+
+* Anchored Note, page 4
+Plasmid DNA can also be injected following mRNA injection, allowing mosaic expression of one marker in a uniform background of a complementary marker
+
+i
+
+* Anchored Note, page 4
+Fig. 5
+
+v
+
+* Anchored Note, page 5
+These methods for mounting and imaging are also effective for fixed embryos following immunostaining or in situ hybridization, provided that clearing is not required. For imaging cleared embryos, see Preparation of Fixed Xenopus Embryos for Confocal Imaging (Wallingford 2010b).
+
+ir(x)
+
+* Anchored Note, page 5
+See Figure 7A for an illustration of immobilibzation at these stages.
+
+v
+
+* Anchored Note, page 5
+i. Pour a layer of 2% agarose into the imaging chamber.
+
+:AP1ir(x)v
+
+* Anchored Note, page 5
+ii. Using a small comb, make embryo-sized wells in the agarose.
+
+:AP1
+
+* Anchored Note, page 5
+iii. Devitellinize embryos. Place them into the wells such that the surface of interest can be imaged (e.g., the neural plate during neural tube closure [Lee et al. 2007; Kieserman et al. 2008]; the animal cap of blastula stages in whole mounts [Woolner et al. 2008]).
+
+:AP1r(x)x
+
+* Anchored Note, page 5
+e.g., the neural plate during neural tube closure [Lee et al. 2007; Kieserman et al. 2008]
+
+r(x)
+
+* Anchored Note, page 5
+Take care to position the embryo as close as possible to the cover glass bottom to accommodate the working distance of the objective. Also, the less agarose between sample and objective, the better. This method is effective for imaging up to 6 h.
+
+x
+
+* Anchored Note, page 5
+the animal cap of blastula stages in whole mounts [Woolner et al. 2008]
+
+r(x)
+
+* Anchored Note, page 5
+The epidermis of tailbud and tadpole stage Xenopus embryos is an excellent in vivo model for studying epithelial biology (Hayes et al. 2007; Kieserman et al. 2008; Park et al. 2008). Imaging this tissue also uses the specialized chamber, but involves a different mounting approach (Fig. 7B). This approach is also effective for long-term time-lapse analysis (>12 h).
+
+air(x)v
+
+* Anchored Note, page 5
+iv. Place the embryos on the cover glass of an imaging chamber in a small drop of 1/3X MMR.
+
+:AP1air(x)v
+
+* Anchored Note, page 5
+v. Working quickly, remove the MMR entirely. Replace with a drop of lukewarm 0.8% low- melt agarose. Use a hair loop to quickly position the embryo as desired.
+
+:AP1x
+
+* Anchored Note, page 5
+Working quickly
+
+x
+
+* Anchored Note, page 6
+vi. After the agarose hardens, fill the chamber with 1/3X MMR to prevent desiccation.
+
+:AP1i
+
+* Anchored Note, page 6
+The sample is now ready for imaging.
+
+i
+
+* Anchored Note, page 6
+When setting up the imaging parameters, a critical consideration is the balance between photobleaching and the brightness of the sample. To err on the side of caution with regard to photobleaching, decrease the laser power and then compensate by increasing the detector gain or increase the brightness post-acquisition; care must be taken with post-acquisition processing (see Step 6). At high magnification, one can reliably image to a depth of only about one cell diameter. Higher laser power can add depth, but is clearly phototoxic. In some cases (usually at lower magnifications), bright signals underneath unlabeled cells can be imaged clearly. For example, the crawling myeloid cells in Figure 2 are labeled and imaged through two to three layers of unlabeled epidermal cells. Imaging deeper tissues can almost always be achieved by imaging the cells in organotypic culture (see Discussion).
+
+ar(6)vx
+
+* Anchored Note, page 6
+i. Collect stacks of slices over time (Fig. 8).
+
+:AV3ar(6)r(x)vx
+
+* Anchored Note, page 6
+The size of stacks, the amount of overlap between the slices within stacks (z-resolution), and the collection times (time-resolution) must be optimized empirically for your specimen, fluorophore, and application
+
+x
+
+* Anchored Note, page 6
+see, e.g., Kieserman et al. 2008, Supplemental Table 2
+
+r(x)
+
+* Anchored Note, page 6
+ii. Image with 40X, 63X, or 100X objectives.
+
+:AV1w
+
+* Anchored Note, page 7
+iii. Image with 5X-20X objectives.
+
+:AV1aw
+
+* Anchored Note, page 7
+Imaging at 40X is also possible, although the lower magnifications are preferred.
+
+a
+
+* Anchored Note, page 7
+4. Collect images as a stack of individual tiff files for a time-lapse movie.
+
+:AV1
+
+* Anchored Note, page 7
+5. Check the movie every 15-30 min during acquisition. Correct focus drift or embryo movement as needed.
+
+:W3a
+
+* Anchored Note, page 7
+For long-term imaging of tadpole stages, add a solution of 0.15% Tricaine to the medium to prevent twitching of the embryo.
+
+a
+
+* Anchored Note, page 7
+6. With careful imaging, little or no post-acquisition processing is needed. If necessary, however, perform image processing to improve the image for the computer screen and printed page:
+
+a
+
+* Anchored Note, page 7
+Many journals now request that all original, unprocessed images be deposited with the journal. The original files MUST therefore be saved. ALWAYS create a renamed copy of images before any processing is performed (e.g., by adding “_PROCx” to the original file, where x is a number; different iterations of the processing thus get consecutively higher numbers) and perform enhancements on the renamed copy. Always apply filters and enhancements to the entire image. NEVER apply enhancements or filters to selected regions of an image. Like imaging, post-processing is most effective if trial and error is used.
+
+x
+
+* Anchored Note, page 7
+i. Contrast can be enhanced using Photoshop’s “Levels” function (Image Adjustments Levels).
+
+:AV1aix
+
+* Anchored Note, page 7
+This function is more useful than the Brightness/Contrast function.
+
+i
+
+* Anchored Note, page 7
+ii. Image clarity can be improved using Photoshop’s “Unsharp Mask” function (Filter Sharpen Unsharp Mask).
+
+:AV1
+
+* Anchored Note, page 7
+iii. Noise can be reduced using the Median (Filter Noise Median) or Dust & Scratches (Filter Noise Dust & Scratches) filter.
+
+:AV1
+
+* Anchored Note, page 7
+7. Use Photoshop to resize (Image Image Size) and compress (File Save As) individual tiff files.
+
+:AV1ar(9)w
+
+* Anchored Note, page 7
+This can be done for all the images using the File Automate Batch function.
+
+a
+
+* Anchored Note, page 7
+lternatively, the movie can be resized after assembly (see Step 9). Tiny movies are useful for e-mailing to collaborators, but the largest, highest quality movies that are practical should be submitted with a paper for review.
+
+w
+
+* Anchored Note, page 7
+see Step 9
+
+r(9)
+
+* Anchored Note, page 7
+8. After adjustments are made, assemble the modified, individual tiff files into a movie using QuickTime Pro (File Open Image Sequence).
+
+:AV1
+
+* Anchored Note, page 8
+9. (Optional) Resize and/or compress the movies after assembly:
+
+o
+
+* Anchored Note, page 8
+i. To change the size/quality of a movie, use the File Export Options function in QuickTime Pro.
+
+:AV1o
+
+* Anchored Note, page 8
+ii. Use the Settings and Size functions in the Options window.
+
+:AV1o
+

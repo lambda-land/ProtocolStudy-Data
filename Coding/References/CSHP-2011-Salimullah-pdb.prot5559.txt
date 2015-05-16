@@ -1,0 +1,111 @@
+* Anchored Note, page 96
+Instead of the cap-trapper method (Carninci et al. 1996, 1997)
+
+-PCh(Carnici et al 1996,1997)
+
+
+* Anchored Note, page 96
+method based on the reverse transcription of the cap of the messenger RNA (mRNA) to enrich for 5 ends (Chenchik et al. 1998)
+
+-PXh(Chenchik et al 1998)
+
+* Anchored Note, page 96
+as well as a semisuppressive polymerase chain reaction (PCR) approach (Plessy et al. 2010)
+
+-PXh(Plessy et al 2010)
+
+* Anchored Note, page 96
+has been comprehensively revised (Table 1) and simpli- fied from the original (Plessy et al. 2010)
+
+-PXh(Plessy et al 2010)
+
+* Anchored Note, page 96
+For samples where ~50 μg of RNA is available, the original CAGE method (Kodzius et al. 2006) might be preferable
+
+-PCh(Kodzius et al 2006)
+
+* Anchored Note, page 97
+CAGE libraries can be used for different types of analyses (Carninci 2010), e.g., promoter discov- ery (particularly when the available transcript annotation for a tissue or a species is rudimentary), dif- ferential expression analysis (Valen et al. 2009)
+
+-PSh(Valen et al 2009)
+
+* Anchored Note, page 97
+inference of transcription-factor binding sites (Vitezic et al. 2010), or gene networks (Suzuki et al. 2009).
+
+-PSh(Suzuki et al 2009)
+
+* Anchored Note, page 97
+Libraries prepared with the nanoCAGE protocol can be paired-end sequenced as CAGEscan libraries (Plessy et al. 2010)
+
+-PSh(Plessy et al 2010)
+
+* Anchored Note, page 97
+<!>Acetic acid
+
+-PAh(Appendix)
+
+* Anchored Note, page 97
+<!>DTT (Dithiothreitol; 0.1 M)
+
+-PAh(Appendix)
+
+* Anchored Note, page 97
+<R>EDTA (0.5 M, pH 8.0)
+
+-PRh(Appendix)
+
+* Anchored Note, page 97
+<R><!>Ethidium bromide (10 mg/mL)
+
+-PRh(Appendix)
+
+* Anchored Note, page 97
+<R><!>Ethidium bromide (10 mg/mL)
+
+-PRh(Appendix)
+
+* Anchored Note, page 98
+<R>Sorbitol/trehalose stock solution
+
+-PRh(Appendix)
+
+* Anchored Note, page 99
+<!>UV (ultraviolet) light source
+
+-PAh(Appendix)
+
+* Anchored Note, page 102
+Use an Agencourt RNAClean XP kit according to the manufacturer’s instructions;
+
+-MBh(Agencourt RNAClean XP kit Mfr. Instr)
+
+* Anchored Note, page 103
+Perform quantitative real-time PCR using a StepOnePlus system according to the manufacturer’s instructions, with the following conditions:
+
+-MBmh(StepOnePlus system mfr. instr)
+
+* Anchored Note, page 104
+Use an Agencourt AMPure XP kit according to the manufacturer’s instructions;
+
+-MBh(Agencourt AMPure XP kit Mfr. Instr)
+
+* Anchored Note, page 105
+Determine the concentration of the purified cDNAs in triplicate using a NanoDrop spectropho- tometer according to the manufacturer’s instructions.
+
+-MBh(NanoDrop Spectrophotometer Mfr. Instr)
+
+* Anchored Note, page 105
+Use an Agencourt AMPure XP kit according to the manufacturer’s instructions;
+
+-MBh(Agencourt AMPure XP kit Mfr. Instr)
+
+* Anchored Note, page 106
+Determine the concentration of the purified libraries in triplicate using a NanoDrop spectropho- tometer according to the manufacturer’s instructions
+
+-MBh(NanoDrop spectrophotometer Mfr. Instr)
+
+* Anchored Note, page 106
+Analyze 1 μL each of the diluted samples using a High Sensitivity DNA Reagent Kit according to the manufacturer’s instructions.
+
+-MBh(High Sensitivity DNA Reagent Kit Mfr. Instr)
+

@@ -1,0 +1,170 @@
+* Anchored Note, page 2
+1. Fill the wells of dissection dishes with 200-400 μL of cold Schneider’s insect medium.
+
+:AP1w
+
+* Anchored Note, page 2
+2. Prepare to dissect the larvae by rolling them onto their dorsal side so that the denticle belts are facing upward.
+
+:AP1
+
+* Anchored Note, page 2
+3. Using a pair of forceps, gently grasp the larva just posterior of the midpoint. With a second pair of forceps, grasp the anterior end of the larva at the base of the mouth hooks.
+
+:AP1
+
+* Anchored Note, page 2
+4. Carefully tear the cuticle behind the mouth hooks using a side-to-side motion while slowly drawing the mouthparts out away from the body. The brain will remain attached to the head and be clearly visible among the gut and salivary glands. Remove any excess tissue, but leave the brain attached to the mouth hooks.
+
+:AP1i
+
+* Anchored Note, page 2
+The brain will remain attached to the head and be clearly visible among the gut and salivary glands.
+
+i
+
+* Anchored Note, page 2
+Leaving the brains connected to the mouth hooks will help the brains sink to the bottom of the tube during washing steps below. Moreover, the mouth hooks are dark in color, which makes it easier to see the brains during experimental manipulations.
+
+i
+
+* Anchored Note, page 2
+5. After dissection, place the brains in a 0.5-mL microcentrifuge tube containing cold Schneider’s insect medium.
+
+:AP1x
+
+* Anchored Note, page 2
+Do not let the tissue sit in Schneider’s insect medium for >20 min.
+
+x
+
+* Anchored Note, page 2
+6. Remove the Schneider’s insect medium from the samples.
+
+:AP1
+
+* Anchored Note, page 2
+7. Add 500 μL of fix solution and incubate with rocking for 23 min at room temperature.
+
+:AP1
+
+* Anchored Note, page 3
+8. Quickly wash the brains twice in ~500 μL of PBSTX at room temperature. Wash again in PBSTX twice for 20 min each at room temperature.
+
+:AP1a
+
+* Anchored Note, page 3
+Once fixed, samples can be held in extended washes to synchronize them before proceeding with further processing.
+
+a
+
+* Anchored Note, page 3
+9. Incubate the samples in ~500 μL of block solution (D) for at least 30 min at room temperature.
+
+:AP1
+
+* Anchored Note, page 3
+10. Incubate in primary antibody diluted in PBSBTX for 4 h at room temperature or overnight at 4°C.
+
+:AP1i
+
+* Anchored Note, page 3
+Conditions are dependent on the specific antibody being used. For example, Dpn staining is better when incubated for 3-4 h at room temperature rather than overnight at 4°C.
+
+i
+
+* Anchored Note, page 3
+11. Quickly wash the brains twice in PBSBTX at room temperature. Wash again in PBSBTX twice for 30 min each at room temperature.
+
+:AP1
+
+* Anchored Note, page 3
+12. Incubate the samples in secondary antibody for 1.5 h at room temperature or overnight at 4°C. Protect the samples from light after this point.
+
+:AP1ix
+
+* Anchored Note, page 3
+Protect the samples from light after this point.
+
+x
+
+* Anchored Note, page 3
+Secondary antibodies are typically diluted in PBSBTX.
+
+i
+
+* Anchored Note, page 3
+13. Quickly wash the brains twice in PBSTX at room temperature. Wash again in PBSTX twice for 30 min each at room temperature.
+
+:AP1
+
+* Anchored Note, page 3
+14. Equilibrate the brains in ProLong Gold at room temperature.
+
+:AP1a
+
+* Anchored Note, page 3
+Samples can be stored in the dark at room temperature.
+
+a
+
+* Anchored Note, page 3
+15. Adhere two 22- × 22-mm coverslips to a microscope slide using a small amount of 70% glycerol, leaving an ~5-mm space between them.
+
+:AP1ir(19)
+
+* Anchored Note, page 3
+These coverslips act as spacers to prevent the brains from being deformed by the 24- × 40-mm coverslip
+
+i
+
+* Anchored Note, page 3
+in Step 19.
+
+r(19)
+
+* Anchored Note, page 3
+16. Transfer the brains to the slide using a pipette with the tip cut off.
+
+:AP1
+
+* Anchored Note, page 3
+17. Using forceps, remove all excess tissue including the optic discs from each brain. Be sure to leave the ventral nerve cord intact, because it will aid in proper orientation of the brain on the slide.
+
+:AP1r(t)x
+
+* Anchored Note, page 3
+Be sure to leave the ventral nerve cord intact, because it will aid in proper orientation of the brain on the slide.
+
+x
+
+* Anchored Note, page 3
+See Troubleshooting.
+
+r(t)
+
+* Anchored Note, page 4
+18. Orient the brains ventral side down.
+
+:AP1i
+
+* Anchored Note, page 4
+If the ventral cord is intact, the brain will sit in the appropriate upright position. Without the ventral cord, it is difficult to keep the brain in the proper position, and it will tend to end up resting on its anterior or posterior surface.
+
+i
+
+* Anchored Note, page 4
+19. Place a 24- × 40-mm coverslip over the samples and backfill the space between the slide and the coverslip by pipetting a small amount of mounting medium along the edge of the coverslip.
+
+:AP1ir(t)
+
+* Anchored Note, page 4
+Backfilling will reduce the formation of air bubbles trapped in the slide.
+
+i
+
+* Anchored Note, page 4
+See Troubleshooting.
+
+r(t)
+

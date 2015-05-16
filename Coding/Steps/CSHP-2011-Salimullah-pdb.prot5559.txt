@@ -1,0 +1,625 @@
+* Anchored Note, page 99
+Before investigating valuable samples, beginning investigators should practice making control libraries with some avail- able total RNA to develop their abilities to check cDNA synthesis by real-time PCR, to visualize semisuppressive PCR smears on gels, and to interpret Bioanalyzer profiles of prepared libraries.
+
+:X1a
+
+* Anchored Note, page 99
+This process produces first-strand cDNAs from total RNA by random priming; the 5 ends are captured through template switching. Perform all procedures in RNase-free conditions on a workbench dedicated only to RNA work.
+
+:X1ix
+
+* Anchored Note, page 99
+This process produces first-strand cDNAs from total RNA by random priming; the 5 ends are captured through template switching.
+
+i
+
+* Anchored Note, page 99
+Perform all procedures in RNase-free conditions on a workbench dedicated only to RNA work.
+
+x
+
+* Anchored Note, page 99
+1. Mix 8 μL of sorbitol/trehalose stock solution, 1 μL of 100 μM reverse transcription primer, and 1 μL of 1 mM template-switching DNA/RNA oligonucleotide.
+
+:AP1ix
+
+* Anchored Note, page 99
+Sorbitol/trehalose solutions are viscous
+
+i
+
+* Anchored Note, page 99
+mix very carefully by pipetting at least 10 times.
+
+x
+
+* Anchored Note, page 99
+2. Aliquot 1 μL each of the primer solution from Step 1 into separate 0.2-mL siliconized PCR tubes for each sample and for a negative control.
+
+:AP1r(1)
+
+* Anchored Note, page 99
+from Step 1
+
+r(1)
+
+* Anchored Note, page 99
+3. Add1μLoftotalRNA(i.e.,50ng)intothesampletubes.Add1μLofnuclease-freewaterintothe control tube. Mix the solutions several times for complete homogenization.
+
+:AP1ai
+
+* Anchored Note, page 99
+If the total RNA is in a larger volume, reduce to 2 μL by centrifugal evaporation at room temperature (to avoid RNA degradation).
+
+a
+
+* Anchored Note, page 99
+The presence of sorbitol/trehalose will slow evaporation as the concentration increases, reducing the risk of accidentally drying the RNA.
+
+i
+
+* Anchored Note, page 99
+4. Incubate the solutions at 65°C for 10 min in a thermocycler.
+
+:AP1
+
+* Anchored Note, page 102
+5. Prepare 8 μL of the reverse transcription reaction mixture per reaction:
+
+:AP1im
+
+* Anchored Note, page 102
+per reaction:
+
+m
+
+* Anchored Note, page 102
+Reverse transcription reactions in the presence of betaine produce better nanoCAGE library outputs (Table 1).
+
+i
+
+* Anchored Note, page 102
+6. Pause the PCR machine at 22°C. Snap-cool the samples (from Step 4) in an ice-water bath for 2 min.
+
+:AP1ir(4)x
+
+* Anchored Note, page 102
+from Step 4
+
+r(4)
+
+* Anchored Note, page 102
+RNAs must not refold,
+
+x
+
+* Anchored Note, page 102
+cooling occurs faster in an ice-water bath than on ice.
+
+i
+
+* Anchored Note, page 102
+7. Return the samples to 22°C in the thermocycler.
+
+:AP1
+
+* Anchored Note, page 102
+8. Add 8 μL of the reverse transcription reaction mixture (from Step 5) to the samples.
+
+:AP1r(5)
+
+* Anchored Note, page 102
+from Step 5
+
+r(5)
+
+* Anchored Note, page 102
+9. Incubate for 10 min at 22°C, 30 min at 40°C, and 15 min at 75°C in the thermocycler.
+
+:AP1
+
+* Anchored Note, page 102
+10. Immediately after finishing the reaction, snap-cool in an ice-water bath for 2 min.
+
+:AP1x
+
+* Anchored Note, page 102
+Checking the reverse transcription is not recommended at this step, because this will reduce the amount of cDNAs for PCR amplification and therefore increase the number of cycles needed.
+
+x
+
+* Anchored Note, page 102
+This removes smaller artifacts and primer dimers from the cDNAs that can make it difficult to determine the number of PCR cycles required for semisuppressive PCR.
+
+i
+
+* Anchored Note, page 102
+Again, checking the purification at this step is not recommended.
+
+x
+
+* Anchored Note, page 102
+i. Use an Agencourt RNAClean XP kit according to the manufacturer’s instructions; mix the cDNA and beads with pipettes.
+
+:AP1ir(x)x
+
+* Anchored Note, page 102
+according to the manufacturer’s instructions
+
+r(x)
+
+* Anchored Note, page 102
+ii. Wash with 100 μL of 70% ethanol.
+
+:AP1ix
+
+* Anchored Note, page 102
+Before eluting, remove as much ethanol as possible.
+
+x
+
+* Anchored Note, page 102
+Do not let the beads dry, because this can reduce recovery.
+
+x
+
+* Anchored Note, page 102
+iii. Elute with 40 μL of nuclease-free water.
+
+:AP1ix
+
+* Anchored Note, page 102
+Quantitative real-time PCR is performed on a small scale to determine the number of cycles required for large-scale syn- thesis. This is necessary to keep the number of PCR cycles as low as possible (to reduce bias) and to suppress the syn- thesis of smaller artifacts.
+
+:X1i
+
+* Anchored Note, page 103
+12. For each sample, prepare 8.5 μL of real-time PCR mixture:
+
+:AP1mx
+
+* Anchored Note, page 103
+For each sample
+
+m
+
+* Anchored Note, page 103
+Perform real-time PCR in triplicate for the samples and control.
+
+x
+
+* Anchored Note, page 103
+13. Prepare one μltraAmp PCR plate. Add 8.5 μL of real-time PCR mixture per well.
+
+:AP1m
+
+* Anchored Note, page 103
+per well
+
+m
+
+* Anchored Note, page 103
+14. Add 1.5 μL of purified cDNA or negative control (from Step 11.iii) to each well.
+
+:AP1mr(11.iii)
+
+* Anchored Note, page 103
+from Step 11.iii
+
+r(11.iii)
+
+* Anchored Note, page 103
+to each well
+
+m
+
+* Anchored Note, page 103
+15. Seal the plate with adhesive PCR seal. Ensure a tight seal with a sealing applicator.
+
+:AP1; AP1o
+
+* Anchored Note, page 103
+Centrifuge briefly if any solution has splashed above the mixture.
+
+AP1o
+
+* Anchored Note, page 103
+if any solution has splashed above the mixture.
+
+o
+
+* Anchored Note, page 103
+16. Perform quantitative real-time PCR using a StepOnePlus system according to the manufacturer’s instructions, with the following conditions:
+
+:AP1r(x)
+
+* Anchored Note, page 103
+according to the manufacturer’s instructions
+
+r(x)
+
+* Anchored Note, page 103
+i. Determine the “Cycle threshold: (CT)” values for each sample and control reaction after real-time PCR (Fig. 3).
+
+:AI1r(t)
+
+* Anchored Note, page 103
+See Troubleshooting.
+
+r(t)
+
+* Anchored Note, page 103
+ii. Calculate the average CT values for each sample and for the negative control.
+
+:AI2e
+
+* Anchored Note, page 103
+The average CT value for purified cDNA usually is ~16-20, depending on the source of RNA.
+
+e
+
+* Anchored Note, page 103
+iii. Add 4 to the average CT value.
+
+:AI1e
+
+* Anchored Note, page 103
+The optimum cycle number should be lower than 25 for the samples and very low or no signal for the negative control.
+
+e
+
+* Anchored Note, page 104
+This procedure synthesizes the nanoCAGE cDNA libraries.
+
+:X1i
+
+* Anchored Note, page 104
+18. Prepare 85 μL of semisuppressive PCR mixture per reaction:
+
+:AP1ir(x)x
+
+* Anchored Note, page 104
+Amplify purified samples in duplicate;
+
+x
+
+* Anchored Note, page 104
+The competition between primer annealing and self-annealing is the key mechanism of PCR suppression (Chenchik et al. 1998).
+
+r(x)
+
+* Anchored Note, page 104
+The concentration of the primers is thus lower than usual to strengthen the suppressive effect.
+
+i
+
+* Anchored Note, page 104
+19. Add 85 μL of semisuppressive PCR mixture to each PCR tube.
+
+:AP1
+
+* Anchored Note, page 104
+20. Add 15 μL of purified cDNA or negative control (from Step 11.iii) to each PCR tube.
+
+:AP1mr(11.iii)
+
+* Anchored Note, page 104
+from Step 11.iii
+
+r(11.iii)
+
+* Anchored Note, page 104
+to each PCR tube
+
+m
+
+* Anchored Note, page 104
+21. Perform semisuppressive PCR using the following conditions:
+
+:AP1aer(17.iii)
+
+* Anchored Note, page 104
+in Step 17.iii
+
+r(17.iii)
+
+* Anchored Note, page 104
+is usually ~20-24 cycles
+
+e
+
+* Anchored Note, page 104
+PCR tubes can be left overnight in the PCR machine.
+
+a
+
+* Anchored Note, page 104
+Perform purification and PCR at different locations and use different equipment to avoid cross-contamination.
+
+:X1x
+
+* Anchored Note, page 104
+i. For each sample, pool the PCR solutions from the duplicate tubes.
+
+:AP1r(23.i)x
+
+* Anchored Note, page 104
+Do not purify the negative control. It will be required for confirmation that the primer dimers and short PCR artifacts were eliminated from the amplified cDNAs
+
+x
+
+* Anchored Note, page 104
+see Step 23.i
+
+r(23.i)
+
+* Anchored Note, page 104
+ii. Use an Agencourt AMPure XP kit according to the manufacturer’s instructions; mix the cDNA and beads with pipettes.
+
+:AP1r(x)
+
+* Anchored Note, page 104
+according to the manufacturer’s instructions
+
+r(x)
+
+* Anchored Note, page 104
+iii. Wash with 600 μL of 70% ethanol.
+
+:AP1x
+
+* Anchored Note, page 104
+Before eluting, remove as much ethanol as possible. Do not let the beads dry, because this can reduce recovery.
+
+x
+
+* Anchored Note, page 104
+iv. Elute with 30 μL of nuclease-free water.
+
+:AP1
+
+* Anchored Note, page 104
+i. Mix 2 μL of the purified nanoCAGE cDNAs with 3 μL of nuclease-free water and 1 μL of 6X loading dye. Mix 5 μL of nonpurified control (see Step 22.i.) with 1 μL of 6X loading dye.
+
+:AP1r(22.i)
+
+* Anchored Note, page 104
+see Step 22.i.
+
+r(22.i)
+
+* Anchored Note, page 104
+ii. Load the mixtures on a 1% agarose gel. Load 4 μL of a DNA marker.
+
+:AP1
+
+* Anchored Note, page 104
+iii. Electrophorese until the markers separate in the range of from 100 bp to 2 kb (e.g., for agarose minigels, 15-30 min).
+
+:AP1
+
+* Anchored Note, page 105
+iv. Visualize the gel under UV light (see, e.g., Fig. 4).
+
+:AI1ir(t)v
+
+* Anchored Note, page 105
+Confirm their elimination by comparing the purified cDNAs with the nonpurified negative control.
+
+v
+
+* Anchored Note, page 105
+Primer dimers or artifacts should not be present in the purified cDNAs.
+
+i
+
+* Anchored Note, page 105
+See Troubleshooting.
+
+r(t)
+
+* Anchored Note, page 105
+24. Determine the concentration of the purified cDNAs in triplicate using a NanoDrop spectropho- tometer according to the manufacturer’s instructions. Calculate the average value.
+
+:AP1r(x); AQ2er(Discussion)r(t)
+
+* Anchored Note, page 105
+Calculate the average value.
+
+AQ2
+
+* Anchored Note, page 105
+The concentration of the purified semisuppressive cDNA libraries should be >20 ng/μL to avoid artificial redun- dancy
+
+e
+
+* Anchored Note, page 105
+see Discussion
+
+r(Discussion)
+
+* Anchored Note, page 105
+See Troubleshooting.
+
+r(t)
+
+* Anchored Note, page 105
+25. Dilute the samples with nuclease-free water to 10 ng/μL.
+
+:AP2
+
+* Anchored Note, page 105
+This procedure adds adapter sequences to the nanoCAGE libraries for binding to the genome analyzer’s flow cell and for amplification by bridge PCR.
+
+:X1i
+
+* Anchored Note, page 105
+26. Prepare 92 μL of PCR mixture per reaction:
+
+:AP1ix
+
+* Anchored Note, page 105
+Prepare reactions in triplicate for each sample. Also prepare a control reaction without added template.
+
+x
+
+* Anchored Note, page 105
+The concentration of PCR primers is lower than usual because of the small number of cycles, which results in a large leftover.
+
+i
+
+* Anchored Note, page 105
+27. Add 92 μL PCR reaction mixture to each tube.
+
+:AP1
+
+* Anchored Note, page 105
+28. Add8μL(i.e.,80ng)ofpurifiedDNA(fromStep25)toeachsampletube.Add8μLnuclease-free water to the control.
+
+:AP1r(25)
+
+* Anchored Note, page 105
+fromStep25
+
+r(25)
+
+* Anchored Note, page 105
+29. Perform PCR using the following conditions:
+
+:AP1
+
+* Anchored Note, page 105
+i. For each sample, pool the PCR solutions from the triplicate tubes.
+
+:AP1x
+
+* Anchored Note, page 105
+Do not purify the control.
+
+x
+
+* Anchored Note, page 105
+ii. Use an Agencourt AMPure XP kit according to the manufacturer’s instructions; mix the cDNA and beads with pipettes.
+
+:AP1r(x)
+
+* Anchored Note, page 105
+according to the manufacturer’s instructions;
+
+r(x)
+
+* Anchored Note, page 106
+iii. Wash with 900 μL of 70% ethanol.
+
+:AP1x
+
+* Anchored Note, page 106
+Before eluting, remove as much ethanol as possible. Do not let the beads dry, because this can reduce recovery.
+
+x
+
+* Anchored Note, page 106
+iv. Elute with 30 μL of 0.1% Tween 20 in nuclease-free water.
+
+:AP1
+
+* Anchored Note, page 106
+31. Determine the concentration of the purified libraries in triplicate using a NanoDrop spectropho- tometer according to the manufacturer’s instructions. Calculate the average value.
+
+:AP1r(x); AQ2e
+
+* Anchored Note, page 106
+Calculate the average value.
+
+AQ2
+
+* Anchored Note, page 106
+The concentration of the purified library PCR products is usually >20 ng/μL (typically, ~20-30 ng/μL).
+
+e
+
+* Anchored Note, page 106
+It is important to check the removal of PCR primer dimers/artifacts, as well as to know the profile of the amplified libraries (e.g., size distribution, molar concentration) to calculate the amount of molecules to apply in the sequencing reaction.
+
+:X1x
+
+* Anchored Note, page 106
+32. Dilute 1 μL of each purified library to 5 ng/μL with 0.1% Tween 20.
+
+:AP2
+
+* Anchored Note, page 106
+33. Analyze 1 μL each of the diluted samples using a High Sensitivity DNA Reagent Kit according to the manufacturer’s instructions.
+
+:AP1r(t)r(x)x
+
+* Anchored Note, page 106
+according to the manufacturer’s instructions.
+
+r(x)
+
+* Anchored Note, page 106
+Analyze the libraries in triplicate.
+
+x
+
+* Anchored Note, page 106
+See Troubleshooting.
+
+r(t)
+
+* Anchored Note, page 106
+This protocol assumes that only cDNAs in the 200-700-bp range are efficiently sequenced in the Gene AnalyzerIIx sequencer. There should be no peak shorter than 150 bp visible on the Bioanalyzer data.
+
+x
+
+* Anchored Note, page 106
+i. Open the library DNA analysis file (.xad).
+
+:AV1x
+
+* Anchored Note, page 106
+ii. Double-click on the electropherogram data of the sample to be analyzed.
+
+:AV1
+
+* Anchored Note, page 106
+iii. Click on the “Region table” icon under the page. Scroll into the table.
+
+:AV1
+
+* Anchored Note, page 106
+iv. Right-click the mouse button. Select “Modify region.”
+
+:AV1
+
+* Anchored Note, page 106
+v. Input 200 and 700 in the boxes “From[bp]” and “To[bp]”, respectively.
+
+:AV1
+
+* Anchored Note, page 106
+vi. Click the “OK” button to determine the molarity.
+
+:AV1
+
+* Anchored Note, page 107
+vii. Calculate the average concentration of the triplicate assays.
+
+:AQ2
+
+* Anchored Note, page 107
+viii. Multiply this concentration with the dilution factor (from Step 32) to obtain the original library concentration.
+
+:AQ1r(32)
+
+* Anchored Note, page 107
+35. Sequence the nanoCAGE libraries at a final concentration of 15 pM using an Illumina Genome AnalyzerIIx platform for single or paired-end reads.
+
+:AV1i
+
+* Anchored Note, page 107
+One lane on this sequencer generally yields more than 15 million reads. Although not tested, a higher number of readings is possible with other systems (e.g., HiSeq2000 [Illumina]).
+
+i
+

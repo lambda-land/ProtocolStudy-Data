@@ -1,0 +1,492 @@
+* Anchored Note, page 3
+1. On the day of the experiment, obtain a leukapheresis pack from a blood bank. Dilute 109 leuko- cytes with 1X PBS (1:1). Pipette 15 mL of LSM into a 50-mL conical tube. Carefully layer the lym- phocyte suspension over the LSM.
+
+:AP1x
+
+* Anchored Note, page 3
+A clear boundary between the two phases is critical for the removal of erythrocyte contamination.
+
+x
+
+* Anchored Note, page 3
+2. Centrifuge at 2000 rpm for 25 min at 20°C. After centrifugation, the order of layers from top to bottom is plasma/platelets, lymphocytes, Ficoll-Hypaque, and granulocytes/erythrocytes.
+
+:AP1i
+
+* Anchored Note, page 3
+the order of layers from top to bottom is plasma/platelets, lymphocytes, Ficoll-Hypaque, and granulocytes/erythrocytes.
+
+i
+
+* Anchored Note, page 3
+3. Aspirate off the top layer and leave the lymphocyte interphase intact. Transfer the cells in the inter- phase to a 250-mL conical tube. Wash with 1X PBS and centrifuge at 800 rpm for 12 min at 20° C-23°C to remove the residual platelets. Remove supernatant, resuspend cells in 1X PBS, and repeat the wash once to remove remaining platelets.
+
+:AP1
+
+* Anchored Note, page 3
+4. Resuspend in 20-30 mL of 1X PBS and then count the cells. Aliquot 0.5 × 106 cells for fluorescence- activated cell sorting (FACS) analysis.
+
+:AP1w
+
+* Anchored Note, page 3
+20-30 mL
+
+w
+
+* Anchored Note, page 3
+Use the CD4+ T Cell Isolation Kit II (human) (Miltenyi Biotec). Alternatively, Dynabeads Untouched Human CD4 T Cells Kit can be used for Steps 5-21.
+
+:AP1r(5-21)r(x)w
+
+* Anchored Note, page 3
+Alternatively, Dynabeads Untouched Human CD4 T Cells Kit can be used
+
+w
+
+* Anchored Note, page 3
+for Steps 5-21.
+
+r(5-21)
+
+* Anchored Note, page 3
+Keep the cells cold.
+
+:AP1x
+
+* Anchored Note, page 3
+5. Aliquot 108 cells from Step 4.
+
+:AP1er(4)
+
+* Anchored Note, page 3
+from Step 4.
+
+r(4)
+
+* Anchored Note, page 3
+The final yield of purified CD4+ T cells is ~20%.
+
+e
+
+* Anchored Note, page 3
+6. Centrifuge the cell suspension at 300g for 10 min.
+
+:AP1
+
+* Anchored Note, page 3
+7. Resuspend the cell pellets in 40 μL of T cell isolation buffer per 107 cells.
+
+:AP1
+
+* Anchored Note, page 3
+8. Add 10 μL of biotin-antibody cocktail (from T cell isolation kit) per 107 cells.
+
+:AP1i
+
+* Anchored Note, page 3
+The biotin-antibody cocktail contains monoclonal antibodies against CD14, CD16, CD19, CD36, CD56, CD123, and glycophorin A.
+
+i
+
+* Anchored Note, page 3
+9. Mix well and incubate for 10 min at 4°C-8°C or on ice.
+
+:AP1
+
+* Anchored Note, page 3
+10. Add 30 μL of T cell isolation buffer per 107 cells.
+
+:AP1
+
+* Anchored Note, page 3
+11. Add 20 μL of anti-biotin microbeads (from T cell isolation kit) per 107 cells.
+
+:AP1
+
+* Anchored Note, page 3
+12. Mix well and incubate for 15 min at 4°C-8°C.
+
+:AP1
+
+* Anchored Note, page 3
+13. Wash cells with T cell isolation buffer by adding 10X-20X the final labeling volume. Centrifuge at 300g for 10 min. Pipette off supernatant completely.
+
+:AP1w
+
+* Anchored Note, page 3
+14. Resuspend the cells completely into appropriate volume of T cell isolation buffer. Use 3 mL for 250-300 million cells.
+
+:AP1x
+
+* Anchored Note, page 3
+completely
+
+x
+
+-- placed in italics to indicate emphasis even
+
+* Anchored Note, page 3
+15. Proceed to magnetic separation using an LS column (Step 16).
+
+:CB(16)
+
+* Anchored Note, page 4
+16. Place LS column in the magnetic field of a suitable MACS separator.
+
+:AP1
+
+* Anchored Note, page 4
+17. Prepare the column by rinsing with 3 mL of T cell isolation buffer. The buffer will run through the column quickly.
+
+:AP1i, CB(12)
+
+* Anchored Note, page 4
+This step can be performed during antibody incubation (Step 12).
+
+CB(12)
+
+* Anchored Note, page 4
+18. Apply cell suspension onto the column: load ~250-300 million cells per column. Allow the cells to pass through and collect effluent. This fraction contains unlabeled cells and represents the enriched CD4+ T cell fraction.
+
+:AP1i
+
+* Anchored Note, page 4
+This fraction contains unlabeled cells and represents the enriched CD4+ T cell fraction.
+
+i
+
+* Anchored Note, page 4
+19. Wash the column three times with 3 mL of T cell isolation buffer. For each wash, add buffer once the column reservoir is empty. Collect the entire effluent in the same tube (from Step 18).
+
+:AP1ar(18)
+
+* Anchored Note, page 4
+For each wash, add buffer once the column reservoir is empty.
+
+a
+
+* Anchored Note, page 4
+Collect the entire effluent in the same tube (from Step 18).
+
+r(18)
+
+* Anchored Note, page 4
+20. Count cells and check CD4+ T cell purity. Recovery is typically ~20%.
+
+:AQ1, AI1ei
+
+* Anchored Note, page 4
+Recovery is typically ~20%.
+
+e
+
+* Anchored Note, page 4
+Purified CD4+ T cells with ~ 95%-98% purity are used for native chromatin preparation.
+
+i
+
+* Anchored Note, page 4
+21. Centrifuge at 300g for 10 min.
+
+:AP1
+
+* Anchored Note, page 4
+This step is only for analyzing histone modifications. To analyze target sites of proteins that may not be as stably or directly bound to chromatin as histones, the chromatin should be cross-linked using formaldehyde and sonicated to 200- to 300-bp length.
+
+:X1i
+
+* Anchored Note, page 4
+22. Resuspend 20-22 × 106 purified human CD4+ T cells from Step 21 in 1 mL MNase digestion buffer kept at room temperature and add protease inhibitor cocktail to 1X final concentration.
+
+:AP1r(21)
+
+* Anchored Note, page 4
+from Step 21
+
+r(21)
+
+* Anchored Note, page 4
+23. Add 0.3 U of MNase and incubate for 5 min at 37°C.
+
+:AP1, AI4
+
+* Anchored Note, page 4
+Determine the amount of MNase to use for each cell type experimentally.
+
+AI4
+
+* Anchored Note, page 4
+24. Stop the reaction by adding MNase stop buffer to a final concentration of 10 mM Tris (pH 7.6), 10 mM EDTA.
+
+:AP1
+
+* Anchored Note, page 4
+25. Sonicate three times for 20 sec each in ice water.
+
+:AP1
+
+* Anchored Note, page 4
+26. Dialyze against 400 mL of RIPA buffer for 2 h at 4°C.
+
+:AP1
+
+* Anchored Note, page 4
+27. Centrifuge for 10 min at 4°C. Transfer supernatant to a new tube, add glycerol to a final concen- tration of 5%, and store at −80°C.
+
+:AP1
+
+* Anchored Note, page 4
+28. To check the size of the isolated chromatin, transfer 20 μL of supernatant to a new tube. Add 4 μg of RNase A and incubate for 5 min at room temperature. Add 3 μL of 10% SDS and 5 μL of 20 mg/mL proteinase K. Incubate at 65°C for 2 h and purify the DNA by phenol:chloroform extraction and ethanol precipitation. Analyze on a 2% agarose gel.
+
+:AP1a
+
+* Anchored Note, page 4
+The above digestion procedure will primarily yield mononucleosomes. To obtain other fragment lengths, vary the MNase amounts and digestion time.
+
+a
+
+* Anchored Note, page 4
+29. Continue to the ChIP experiment (Step 30).
+
+:CB(30)
+
+* Anchored Note, page 4
+Do NOT block beads with any nonspecific DNA or RNA.
+
+:X1x
+
+* Anchored Note, page 4
+30. Place 40 μL of Dynabeads Protein A into each of two microcentrifuge tubes. Wash each with 600 μL of 1X PBS. Place the tubes in a magnetic stand and aspirate off the PBS. Add 100 μL of 1X PBS to each tube. Add 4 μg of antibody to one tube and 4 μg of preimmune serum to the other. Rotate for 4-6 h at 4°C.
+
+:AP1
+
+* Anchored Note, page 4
+31. Using the magnetic stand, aspirate the supernatants and wash the beads in each tube twice with 0.2 mL of 1X PBS to remove free IgGs (5 min each wash).
+
+:AP1
+
+* Anchored Note, page 4
+32. Remove the supernatant from the beads. Add 500 μL of chromatin extract (from 107 cells) to the beads in each tube. Rotate at 4°C overnight.
+
+:AP1
+
+* Anchored Note, page 4
+33. Wash the beads (10 min each wash):
+
+:AP1w
+
+* Anchored Note, page 5
+i. Twice with 1 mL of RIPA buffer
+
+:AP1
+
+* Anchored Note, page 5
+ii. Twice with 1 mL of RIPA buffer + 0.3 M NaCl
+
+:AP1
+
+* Anchored Note, page 5
+iii. Twice with 1 mL of LiCl buffer
+
+:AP1
+
+* Anchored Note, page 5
+iv. Once with 1 mL of 1X TE + 0.2% Triton X-100
+
+:AP1
+
+* Anchored Note, page 5
+v. Oncewith1mLof1XTE
+
+:AP1
+
+* Anchored Note, page 5
+For less stringent washing, reduce the concentration of NaCl added to the RIPA buffer and/or perform only a single wash at each step (Steps 33.i-33.v).
+
+w
+
+* Anchored Note, page 5
+34. Resuspendthebeadsin100μLof1XTEpertube.Add3μLof10%SDSand5μLof20mg/mL proteinase K to each tube. Incubate overnight at 65°C.
+
+:AP1
+
+* Anchored Note, page 5
+i. Vortex briefly and transfer the supernatants to new tubes using a magnetic stand.
+
+:AP1
+
+* Anchored Note, page 5
+ii. Wash the beads with 100 μL of 1X TE and 0.5 M NaCl. Combine each wash solution with the corresponding supernatant.
+
+:AP1
+
+* Anchored Note, page 5
+iii. Extract each tube once with 200 μL of phenol:chloroform.
+
+:AP1
+
+* Anchored Note, page 5
+iv. Add 2 μL of 20 mg/mL glycogen, 20 μL of 3 M NaOAc (pH 5.3), and 500 μL of ethanol to each tube to precipitate the DNA.
+
+:AP1
+
+* Anchored Note, page 5
+36. Wash each pellet once with 70% ethanol.
+
+:AP1
+
+* Anchored Note, page 5
+37. Resuspend each pellet in 50 μL of 1X TE. Use 2 μL of diluted (1:5) DNA for real-time PCR confirmation.
+
+:AP1x
+
+* Anchored Note, page 5
+Use 2 μL of diluted (1:5) DNA for real-time PCR confirmation.
+
+x
+
+* Anchored Note, page 5
+38. Before moving to the next step, perform real-time PCR to ensure that ChIP has worked well.
+
+:AQ1e
+
+* Anchored Note, page 5
+Enrichment of the region of interest should be significantly higher in the ChIP sample obtained using antibodies than in the sample prepared using preimmune serum.
+
+e
+
+* Anchored Note, page 5
+39. Repair DNA ends to generate blunt-ended DNA using the DNA End-Repair Kit (Epicentre). Combine:
+
+:AP1
+
+* Anchored Note, page 5
+40. Use MinElute PCR Purification Kit or phenol:chloroform extraction to purify DNA. Elute or resus- pend DNA in 30 μL of 1X TE, pH 7.4.
+
+:AP1
+
+* Anchored Note, page 6
+41. Add “A” to 3′ ends.
+
+:AP1w
+
+* Anchored Note, page 6
+i. Combine:
+
+:AP1
+
+* Anchored Note, page 6
+ii. Purify using MinElute PCR Purification Kit or phenol:chloroform extraction.
+
+:AP1
+
+* Anchored Note, page 6
+iii. Elute with or resuspend in 10 μL of 1X TE, pH 7.4.
+
+:AP1
+
+* Anchored Note, page 6
+Alternatively, Klenow fragment exo- can be used for adding “A” bases.
+
+w
+
+* Anchored Note, page 6
+42. Perform linker ligation. Combine:
+
+:AP1
+
+* Anchored Note, page 6
+43. Purify DNA using MinElute PCR Purification Kit. Elute with 20-25 μL of buffer EB.
+
+:AP1
+
+* Anchored Note, page 6
+44. Perform size selection:
+
+:AP1
+
+* Anchored Note, page 6
+i. Load 20 μL of linker-ligated DNA onto a 2% E-Gel and perform electrophoresis.
+
+:AP1
+
+* Anchored Note, page 6
+ii. Cut the gel around the 200-400 bp region.
+
+:AP1ix
+
+* Anchored Note, page 6
+DNA is not visible on the gel at this step
+
+i
+
+* Anchored Note, page 6
+Load only one sample per gel to avoid contamination.
+
+x
+
+* Anchored Note, page 6
+iii. Extract the DNA using MinElute Gel Extraction Kit. Elute with ~11.5 μL of buffer EB.
+
+:AP1
+
+* Anchored Note, page 6
+45. Amplify the DNA using Illumina PCR primers PE 1.0 and PE 2.0 and 2X Phusion HF Master Mix.
+
+:AP1
+
+* Anchored Note, page 6
+i. Combine:
+
+:AP1
+
+* Anchored Note, page 6
+ii. Denature at 98°C for 30 sec, followed by 18 amplification cycles (98°C, 10 sec; 65°C, 30 sec; 72°C, 30 sec.)
+
+:AP1
+
+* Anchored Note, page 6
+iii. Check 2.5 μL of product on a 2% agarose gel. If the band is not clearly visible, perform three more cycles and check again.
+
+:AP1v
+
+* Anchored Note, page 6
+If the band is not clearly visible
+
+v
+
+* Anchored Note, page 6
+i. Load the amplified DNA on a 2% agarose gel and perform electrophoresis.
+
+:AP1
+
+* Anchored Note, page 6
+ii. Excise the band at the 200-400 bp region.
+
+:AP1
+
+* Anchored Note, page 6
+iii. Purify the DNA using a MinElute Gel Extraction Kit and elute in 20 μL of buffer EB.
+
+:AP1
+
+* Anchored Note, page 6
+iii. Purify the DNA using a MinElute Gel Extraction Kit and elute in 20 μL of buffer EB.
+
+:AP1
+
+* Anchored Note, page 7
+iv. Measure the DNA concentration using a spectrometer.
+
+:AQ1ir(x)
+
+* Anchored Note, page 7
+The DNA can be used for cluster generation using Illumina flow cells and sequencing-by-synthesis on an Illumina Genome Analyzer,
+
+i
+
+* Anchored Note, page 7
+following manufacturer’s instructions.
+
+r(x)
+

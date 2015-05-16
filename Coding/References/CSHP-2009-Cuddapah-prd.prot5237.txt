@@ -1,0 +1,85 @@
+* Anchored Note, page 1
+These platforms can be used for a variety of studies, including ChIP-Seq (Barski et al. 2007; Johnson et al. 2007; Mikkelsen et al. 2007; Robertson et al. 2007)
+
+-PSh(ChIP-Seq (Barski et al. 2007; Johnson et al. 2007; Mikkelsen et al. 2007; Robertson et al. 2007))
+
+* Anchored Note, page 1
+nucleosome position profiling (Schones et al. 2008)
+
+-PSh(Schones et al 2008)
+
+* Anchored Note, page 1
+transcriptome profiling (RNA-Seq) (Mortazavi et al. 2008; Nagalakshmi et al. 2008)
+
+-PSh(Mortazavi et al 2008 and Nagalakshmi et al 2008)
+
+* Anchored Note, page 1
+DNA methylation studies (Cokus et al. 2008)
+
+-PSh(Cokus et al 2008)
+
+* Anchored Note, page 1
+SNP genotyping
+
+-LS
+
+* Anchored Note, page 1
+Use of this protocol to analyze histone modification patterns is described in Barski et al. (2007) and Wang et al. (2008).
+
+-PSh(Barki et al 2007 and Wang et al 2008).
+
+* Anchored Note, page 2
+<R>LiCl buffer for ChIP
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<R>MNase digestion buffer for ChIP
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<R>MNase stop buffer for ChIP
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<!>Phenol:chloroform (1:1)
+
+-PAh(Appendix)
+
+* Anchored Note, page 2
+<R>Phosphate-buffered saline (PBS) (1X)
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<R>Protease inhibitor cocktail for ChIP (1000X)
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<!>Proteinase K (20 mg/mL) (Roche Diagnostics)
+
+-PAh(Appendix)
+
+* Anchored Note, page 2
+<R>RIPA buffer for ChIP
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<!>SDS (sodium dodecyl sulfate) (10%)
+
+-PAh(Appendix)
+
+* Anchored Note, page 2
+<!>Triton X-100
+
+-PAh(Appendix)
+
+* Anchored Note, page 7
+The DNA can be used for cluster generation using Illumina flow cells and sequencing-by-synthesis on an Illumina Genome Analyzer, following manufacturer’s instructions.
+
+-MBh(Illumina Genome Analyzer Mfr. Instr)
+

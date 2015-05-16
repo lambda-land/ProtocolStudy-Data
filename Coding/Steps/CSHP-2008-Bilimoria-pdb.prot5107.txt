@@ -1,0 +1,240 @@
+* Anchored Note, page 2
+1. Prepare poly-L-ornithine-coated plates and solutions.
+
+:AP1
+
+* Anchored Note, page 2
+2. Euthanize P6 Long-Evans rats using a CO2 chamber.
+
+:AP1a
+
+* Anchored Note, page 2
+To prevent having more than a few minutes lag time between the euthanasia and removal of the cerebella, con- sider doing this step in two parts.
+
+a
+
+* Anchored Note, page 2
+3. Decapitate pups. To isolate the cerebella, begin by grasping a pup head at the nose and insert small surgical scissors into the foramen magnum (the aperture at the base of the skull through which the medulla and spinal cord extend). Proceed laterally, then anteriorly through the ear, and curve toward the midline. After reaching the midline from one side, reinsert scissors into the fora- men magnum, and repeat the cutting procedure on the other side.
+
+:AP1ai
+
+* Anchored Note, page 2
+the aperture at the base of the skull through which the medulla and spinal cord extend
+
+i
+
+* Anchored Note, page 2
+The two incisions should meet at the midline.
+
+a
+
+* Anchored Note, page 2
+4. Using forceps, carefully lift the skull upward, and flip it back until the hindbrain is exposed (Fig. 1A). Make sure that, as the skull is lifted, the brain remains in the base of the skull.
+
+:AP1vx
+
+* Anchored Note, page 2
+Fig. 1A
+
+v
+
+* Anchored Note, page 2
+Make sure that, as the skull is lifted, the brain remains in the base of the skull.
+
+x
+
+* Anchored Note, page 2
+5. If necessary, cut away any bone or other tissues that are obstructing the sides of the cerebellum. Extract the cerebellum with forceps (Fig. 1B), and place it into a dish containing at least 5 mL of HHGN dissection solution.
+
+:AP1r(t)v
+
+* Anchored Note, page 2
+Fig. 1B
+
+v
+
+* Anchored Note, page 2
+See Troubleshooting.
+
+r(t)
+
+* Anchored Note, page 2
+6. After isolation of the cerebella, use the dissection scope and fine forceps to remove the meninges, as well as any large blood vessels or extraneous brain regions that are stuck to the cerebella.
+
+:AP1ax
+
+* Anchored Note, page 2
+This step should be performed at a steady pace, with a plate of ice underneath the plate of cerebella.
+
+x
+
+* Anchored Note, page 2
+The meninges tend to come off most easily if you start by pulling away residual choroid plexus from the ventral side, where the fourth ventricle was located.
+
+a
+
+* Anchored Note, page 2
+If you are working with two litters, an additional step of trituration is helpful; see Step 11.iv.
+
+ar(11.iv)
+
+* Anchored Note, page 3
+7. Working in the tissue culture hood, decant the dish of cerebella into a 50-mL Falcon tube. Use a pipette to remove most of the HHGN solution, and then add at least 5 mL of fresh HHGN solu- tion. Repeat this for a total of three washes.
+
+:AP1ar(11.iv)
+
+* Anchored Note, page 3
+8. After removing the last HHGN wash, add 5 mL of trypsin-DNase solution, being sure to first mix the solution by pipetting up and down. Place the tube in a 37°C water bath for 10 min. Gently swirl the cerebella every 5 min.
+
+:AP1x
+
+* Anchored Note, page 3
+being sure to first mix the solution by pipetting up and down
+
+x
+
+* Anchored Note, page 3
+9. Wash three times with HHGN solution as in Step 7.
+
+:AP1r(7)
+
+* Anchored Note, page 3
+as in Step 7
+
+r(7)
+
+* Anchored Note, page 3
+10. Prepare an aliquot of DNase for trituration by adding 250 μL of DNase to 5 mL of BME in a sepa- rate Falcon tube. Mix by pipetting.
+
+:AP1ar(11.iv)x
+
+* Anchored Note, page 3
+Mix by pipetting
+
+x
+
+* Anchored Note, page 3
+If you are working with two litters, you will need ~2 mL more of the DNase solution for additional trituration
+
+a
+
+* Anchored Note, page 3
+Step 11.iv)
+
+r(11.iv)
+
+* Anchored Note, page 3
+11. Remove the last HHGN wash, and add the diluted DNase solution from Step 10 to the cerebella. Dissociate by pipetting up and down with a 5-mL pipette as follows:
+
+:AP1r(10)x
+
+* Anchored Note, page 3
+Avoiding bubbles is critical at this step.
+
+x
+
+* Anchored Note, page 3
+i. For approximately the first 15 rounds of pipetting, do not press the pipette tip against the very bottom of the tube; rather, allow the cerebella to fall apart into smaller chunks.
+
+:AP1r(t)x
+
+* Anchored Note, page 3
+do not press the pipette tip against the very bottom of the tube; rather, allow the cerebella to fall apart into smaller chunks
+
+x
+
+* Anchored Note, page 3
+See Troubleshooting.
+
+r(t)
+
+* Anchored Note, page 3
+ii. Continue to pipette up and down, but begin gently pressing the pipette tip against the bottom of the tube.
+
+:AP1i
+
+* Anchored Note, page 3
+After approximately 10 more rounds of pipetting, you will find that the pieces of tissue are not becoming any smaller.
+
+i
+
+* Anchored Note, page 3
+iii. Press the pipette tip more firmly against the bottom of the tube, and continue the tritura- tion until clumps of tissue are no longer visible.
+
+:AP1
+
+* Anchored Note, page 3
+iv. To perform an additional trituration, transfer the cell suspension to ice for 5 min, allowing any remaining undetected clumps to sink to the bottom. Transfer the top half of the cell solu- tion to a separate Falcon tube, and triturate the bottom again using fresh DNase solution.
+
+:AP1
+
+* Anchored Note, page 3
+12. Centrifuge cells at ~200g for 5 min at 4°C.
+
+:AP1r(t)
+
+* Anchored Note, page 3
+See Troubleshooting.
+
+r(t)
+
+* Anchored Note, page 3
+13. Use a pipette to remove the supernatant. Add 5 mL of culture medium for granule neurons, and pipette up and down until a homogeneous mixture is obtained. Add 10 mL more of culture medium incrementally, pipetting up and down after dispensing every 2-3 mL to ensure that the mixture remains homogeneous.
+
+:AP2
+
+* Anchored Note, page 3
+14. Place the cell suspension on ice, and count a small aliquot using a hemacytometer:
+
+:AP1; AQ1
+
+* Anchored Note, page 4
+i. Make a 1:10 dilution of cells by adding 100 μL of the cell suspension to 650 μL of culture medium and 250 μL of trypan blue.
+
+:AP1
+
+* Anchored Note, page 4
+ii. Count healthy, spherical cells with a halo. Do not count cells that take up the trypan blue.
+
+:AQ1er(t)x
+
+* Anchored Note, page 4
+Do not count cells that take up the trypan blue.
+
+x
+
+* Anchored Note, page 4
+The expected yield is 10-15 million cells per cerebellum.
+
+e
+
+* Anchored Note, page 4
+See Troubleshooting.
+
+r(t)
+
+* Anchored Note, page 4
+15. Plate cells at the desired density. For morphological assays in 24-well plates with coverslips, use 17- 20 million cells per plate. For biochemical experiments in six-well plates, use 30 million cells per plate. Scale up for larger plates.
+
+:AP1a
+
+* Anchored Note, page 4
+For morphological assays in 24-well plates with coverslips, use 17- 20 million cells per plate.
+
+a
+
+* Anchored Note, page 4
+For biochemical experiments in six-well plates, use 30 million cells per plate. Scale up for larger plates.
+
+a
+
+* Anchored Note, page 4
+16. Maintain cells by adding AraC solution ~24 h after plating cells to a final concentration of 10 μM. On day in vitro 3 (DIV3), add 1 M glucose to a final concentration of 25 mM.
+
+:AP1r(t)
+
+* Anchored Note, page 4
+See Troubleshooting
+
+r(t)
+

@@ -1,0 +1,50 @@
+* Anchored Note, page 2
+1. Using microloaders, fill the chosen pipettes with 5-10 μL of the appropriate dye-containing solution.
+
+:AP1x
+
+* Anchored Note, page 2
+Do not use syringe needles to load the pipettes because these may release heavy metals.
+
+x
+
+* Anchored Note, page 2
+2. Use standard techniques to lower the pipette into the recording chamber containing the chosen slice. Apply positive pressure to prevent dust floating on the surface from entering the pipette.
+
+:AP1x
+
+* Anchored Note, page 2
+Apply positive pressure to prevent dust floating on the surface from entering the pipette
+
+x
+
+* Anchored Note, page 2
+3. Once the pipette tip is in the standard external saline, set the positive pressure to a level that prevents the ejection of too much dye (see Fig. 1A).
+
+:AP1v
+
+* Anchored Note, page 2
+see Fig. 1A
+
+v
+
+* Anchored Note, page 2
+4. Apply a brief pulse of stronger pressure immediately before seal formation to clean the surface of the cell.
+
+:AP1
+
+* Anchored Note, page 3
+5. Perform seal formation and establish the whole-cell configuration as per standard electrophysio- logical recordings
+
+:AP1ir(t)
+
+* Anchored Note, page 3
+mmediately after the patch is ruptured, the dye will start to diffuse into the cell. The time required to reach a certain cytosolic dye concentration will depend on the mobility of the dye molecule, the dye concentration in the pipette, the series resistance (Rs) of the pipette, and the cell geometry.
+
+i
+
+* Anchored Note, page 3
+See Troubleshooting.
+
+r(t)
+

@@ -1,0 +1,135 @@
+* Anchored Note, page 2
+i. Set heat at 12.5-13.0 and set the solenoid at 4 on the needle puller.
+
+:AP1w
+
+* Anchored Note, page 2
+ii. Follow the manufacturer’s instructions for pulling the needles.
+
+:AP1r(x)
+
+* Anchored Note, page 2
+iii. Store freshly-pulled needles horizontally, embedded lightly on a flattened narrow strip of modeling clay placed on the bottom of a 150-mm covered plastic Petri dish.
+
+:AP1
+
+* Anchored Note, page 2
+2. Use a pipette (e.g., Eppendorf P10) fitted with a microtip (e.g., Eppendorf Microloader tips) to back-load the injection needles with 0.5-1.0 μL of dsRNA mixed with filtered food dye.
+
+:AP1w
+
+* Anchored Note, page 2
+3. Set the Transjector to automatic injection.
+
+:AP1
+
+* Anchored Note, page 2
+4. Set the injection pressure (Po) to 450.
+
+:AP1
+
+* Anchored Note, page 2
+5. Set the compensation pressure (Pc) to 570.
+
+:AP1
+
+* Anchored Note, page 2
+6. Set the time of injections to 0.1 sec.
+
+:AP1r(x)
+
+* Anchored Note, page 2
+If using a different model injector, calibrate the injector according to the manufacturer’s instructions.
+
+r(x)
+
+* Anchored Note, page 2
+Based on the volume loaded into the needle (0.5-1.0 μL), each embryo receives up to 100-200 pL of dsRNA. A typical load- ing, if the needle remains unbroken and unblocked, is good for the injection of approximately 1000 embryos or more.
+
+:X1i
+
+* Anchored Note, page 2
+Inject the embryos in the posterior end, slightly off-center, because the posterior tip of the chorion is very hard and needles often break in this position. Keep the injection room at 18°C to slow development.
+
+:X1ax
+
+* Anchored Note, page 2
+i. Move the slide slowly toward the needle tip while simultaneously depressing the “clean” button on the Transjector.
+
+:AP1
+
+* Anchored Note, page 3
+ii. The moment that the slide lightly taps the tip and the tip breaks, a small amount of the dye will leak from the needle tip. Release the “clean” button.
+
+:AP1ex
+
+* Anchored Note, page 3
+Dye flow should stop when the “clean” button is no longer depressed.
+
+e
+
+* Anchored Note, page 3
+If the tip is too large after breakage, the needle will continue to drip dye when the “clean” button is not depressed. Such tips will destroy the embryos during injection.
+
+x
+
+* Anchored Note, page 3
+8. Bring the needle tip and the posterior tip of the embryo into the same focal plane. Make sure that the needle is positioned off-center with respect to the posterior tip of the embryo (see Fig. 1).
+
+:AP1ax
+
+* Anchored Note, page 3
+Make sure that the needle is positioned off-center with respect to the posterior tip of the embryo (see Fig. 1).
+
+x
+
+* Anchored Note, page 3
+For best results, inject the embryos with the needle at an angle slightly greater than 45° relative to the embryo surface in the posterior quarter of the embryo.
+
+a
+
+* Anchored Note, page 3
+9. Insert the needle just far enough to penetrate the vitelline membrane.
+
+:AP1x
+
+* Anchored Note, page 3
+just far enough to penetrate the vitelline membrane
+
+x
+
+* Anchored Note, page 3
+10. Inject the RNA into the embryo. A small amount of food dye will appear as a small dot in the posterior end of the embryo. It takes ~1-5 sec to inject each embryo.
+
+:AP1x
+
+* Anchored Note, page 3
+It takes ~1-5 sec to inject each embryo.
+
+x
+
+* Anchored Note, page 3
+11. After all the embryos on a slide have been injected, place the slide in a covered moist chamber at 18oC-22oC until embryogenesis is complete (~48 h) or until the desired stage of development is reached.
+
+:AP1
+
+* Anchored Note, page 3
+12. Wash the embryos off the slide into a nylon-mesh collection basket.
+
+:AP1
+
+* Anchored Note, page 3
+13. Transfer the embryos to a microcentrifuge tube.
+
+:AP1
+
+* Anchored Note, page 3
+14. Fix the embryos and stain them using standard protocols; see Ashburner (1989a,b).
+
+:AP1r(x)
+
+* Anchored Note, page 3
+standard protocols; see Ashburner (1989a,b)
+
+r(x)
+

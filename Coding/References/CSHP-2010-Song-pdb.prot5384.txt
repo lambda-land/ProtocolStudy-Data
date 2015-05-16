@@ -1,0 +1,95 @@
+* Anchored Note, page 1
+This DNase-seq protocol was derived from methodologies originally described by Boyle et al. (2008).
+
+-PXh(Boyle et al 2008)
+
+* Anchored Note, page 1
+<R>B&W buffer (2X)
+
+-PRh(Appendix)
+
+* Anchored Note, page 1
+<!>Chloroform (J.T. Baker)
+
+-PAh(Appendix)
+
+* Anchored Note, page 2
+<R>DNA polymerase buffer
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<R>EDTA (50 mM, pH 8.0)
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<!>Ethidium bromide (10 mg/mL)
+
+-PAh(Appendix)
+
+* Anchored Note, page 2
+<!>IGEPAL CA-630 (Sigma)
+
+-PAh(Appendix)
+
+* Anchored Note, page 2
+<R>LIDS buffer
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<!>NaOH (0.15 M)
+
+-PAh(Appendix)
+
+* Anchored Note, page 2
+<R>NEB buffer 2 for washes (1X)
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<!>Phenol (Invitrogen)
+
+-PAh(Appendix)
+
+* Anchored Note, page 2
+<!>Phenol:chloroform:isoamyl alcohol (25:24:1; Invitrogen)
+
+-PAh(Appendix)
+
+* Anchored Note, page 2
+<R>RSB buffer (prechilled)
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<!>S-Adenosylmethionine (SAM) (500 μM; New England Biolabs)
+
+-PAh(Appendix)
+
+* Anchored Note, page 2
+<R>TBE buffer (0.5X) Where 1X TBE is called for, double the concentrations in the 0.5X TBE.
+
+-PRmh(Appendix)
+
+* Anchored Note, page 2
+<R>TE buffer (1X, pH 8.0)
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<R>Tris-Cl (10 mM, pH 8.0)
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<!>Trypan blue (GIBCO/Invitrogen)
+
+-PAh(Appendix)
+
+* Anchored Note, page 11
+Follow-up studies, such as chromatin immunoprecipitation and/or functional assays, are needed to determine the precise function and activity associated with each regulatory region.
+
+-LS
+

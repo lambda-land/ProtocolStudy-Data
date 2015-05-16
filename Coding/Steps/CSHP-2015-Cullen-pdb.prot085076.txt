@@ -1,0 +1,150 @@
+* Anchored Note, page 2
+to each of the plates listed below.
+
+m
+
+* Anchored Note, page 2
+1. Using a sterile toothpick, transfer cells of the yeast strain of interest to each of the plates listed below. Gently touch the toothpick containing cells to the center of each plate. On a separate set of plates, transfer cells of mutant strain defective for mat formation (a negative control; e.g., flo11Δ).
+
+:AP1imr(x)x
+
+* Anchored Note, page 2
+Gently touch the toothpick containing cells to the center of each plate.
+
+x
+
+* Anchored Note, page 2
+0.3% agar is optimal to observe colony spreading. On these plates, colonies can show a radial spoke pattern.
+
+i
+
+* Anchored Note, page 2
+2% agar is optimal to observe mat architecture. It also allows assessment of invasive growth by the plate- washing assay
+
+i
+
+* Anchored Note, page 2
+see The Plate-Washing Assay: A Simple Test for Filamentous Growth in Budding Yeast [Cullen 2015]
+
+r(x)
+
+* Anchored Note, page 2
+4% agar is optimal to observe colony ruffling and z-axis growth (see Fig. 1). The high surface rigidity reduces expansion in the plane of the xy-axis and promotes formation of dense architecturally complex mats that grow upward in the plane of the z-axis.
+
+i
+
+* Anchored Note, page 2
+This plate maximizes complex colony morphology.
+
+i
+
+* Anchored Note, page 2
+2. Maintain the plates in a 30 ̊C incubator in a location where vibrations are minimized. Examine mat expansion visually starting at 24 h and continuing over the course of several weeks.
+
+:AP1ax
+
+* Anchored Note, page 2
+where vibrations are minimized
+
+x
+
+* Anchored Note, page 2
+Mats can be defined by their FLO11-dependent colony architecture and degree of expansion in the x-, y-, and z-axes by visual inspection (e.g., see Fig. 1).
+
+a
+
+* Anchored Note, page 2
+analyzing the photos with ImageJ software (http://imagej.nih.gov; Schneider et al. 2012).
+
+AV3
+
+* Anchored Note, page 2
+i. Measure the mat areas by photographing the plates and analyzing the photos with ImageJ software (http://imagej.nih.gov; Schneider et al. 2012).
+
+:AP1; AV3
+
+* Anchored Note, page 2
+ii. Examine the ruffled morphology characteristic of mats by photography with a digital camera at 1× to 5× magnification.
+
+:AV3
+
+* Anchored Note, page 2
+Reynolds et al. 2008
+
+r(x)
+
+* Anchored Note, page 3
+i. Place plastic wrap over the agar plate, and gently pull the plastic wrap off the plate.
+
+:AP1ir(x)x
+
+* Anchored Note, page 3
+gently pull the plastic wrap off the plate
+
+x
+
+* Anchored Note, page 3
+When performing this action, the mat may or may not be removed from the agar. This distinguishes cells that adhere to the plastic from cells that adhere to the agar.
+
+i
+
+* Anchored Note, page 3
+ii. Photograph both the plate and the wrap.
+
+:AP1r(x)
+
+* Anchored Note, page 3
+iii. (Optional) Remove cells for additional analysis.
+
+:AP1or(x)
+
+* Anchored Note, page 3
+Optional
+
+o
+
+* Anchored Note, page 3
+i. Atvarioustimesaftermatformationhasoccurred,removecellsusingatoothpick.Resuspend in 500 μL of H2O.
+
+:AP1x
+
+* Anchored Note, page 3
+Always compare the cells of interest with flo11Δ cells (a negative control).
+
+x
+
+* Anchored Note, page 3
+ii. Adjust the optical density of the cells to A600 = 2.0.
+
+:AV1
+
+* Anchored Note, page 3
+iii. Add 100 μL of the cell suspension to a 96-well polystyrene or polypropylene plate.
+
+:AP1w
+
+* Anchored Note, page 3
+96-well polystyrene or polypropylene plate
+
+w
+
+* Anchored Note, page 3
+iv. Incubate the cells for 4 h at 25 ̊C to allow the cells to settle to the bottom of the wells.
+
+:AP1
+
+* Anchored Note, page 3
+v. Add 100 μL of 1% crystal violet to each well. Incubate for 20 min at 25 ̊C.
+
+:AP1
+
+* Anchored Note, page 3
+vi. Wash wells five times with water and photograph adherent cells with a digital camera or by microscopy at 10×.
+
+:AP1
+
+* Anchored Note, page 3
+Wild-type cells will adhere to the plastic surface and will be violet in color. In contrast, flo11Δ cells will not adhere, leaving a transparent plastic surface that is relatively free of cells.
+
+i
+

@@ -1,0 +1,300 @@
+* Anchored Note, page 2
+1. Collect the embryos in PBS or tissue culture medium.
+
+:AP1a
+
+* Anchored Note, page 2
+If the embryos are at the prestreak to early somite stages, it is advisable to add some serum (~5%) to reduce stickiness (this will cause a protein precipitate in the fixative, but do not be concerned).
+
+a
+
+* Anchored Note, page 2
+2. Dissect away the extraembryonic membranes to facilitate penetration of the antibodies.
+
+:AP1i
+
+* Anchored Note, page 2
+to facilitate penetration of the antibodies.
+
+i
+
+* Anchored Note, page 2
+i. For early somite-stage mouse embryos (up to ~eight somites), use the tips of fine forceps to flatten the embryo by pushing the edges of the visceral yolk sac into the surface of a plastic Petri dish.
+
+:AP1io
+
+* Anchored Note, page 2
+For early somite-stage mouse embryos
+
+o
+
+* Anchored Note, page 2
+By “pinning out” the embryos in this way, they can be fixed flat and will remain extended after being detached from the dish. The extended shape allows better viewing of the somites and neural tube after staining.
+
+i
+
+* Anchored Note, page 2
+ii. For older embryos (9.5-10.5 d), it is sometimes best to cut them in half sagitally before or after fixation.
+
+:AP1aio
+
+* Anchored Note, page 2
+For older embryos
+
+o
+
+* Anchored Note, page 2
+it is sometimes best to
+
+a
+
+* Anchored Note, page 2
+This makes it easier to visualize and photograph staining of bilaterally symmetrical structures such as the cranial nerves, which otherwise appear as “double images.”
+
+i
+
+* Anchored Note, page 2
+3. Fix the embryos in freshly prepared methanol/DMSO (4:1) at 4°C overnight.
+
+:AP1ir(x)
+
+* Anchored Note, page 2
+DMSO permeabilizes the tissues
+
+i
+
+* Anchored Note, page 2
+See CSH Protocols article Handling Mouse Blastocysts for Fixation.
+
+r(x)
+
+* Anchored Note, page 2
+4. Transfer the embryos into freshly prepared methanol/DMSO/H2O2 (4:1:1) at room temperature for 5-10 h.
+
+:AP1i
+
+* Anchored Note, page 2
+This blocks endogenous peroxidase activity (e.g., in red blood cells).
+
+i
+
+* Anchored Note, page 2
+5. Store the embryos (individually or in small groups) in 100% methanol at -20°C.
+
+:AP1a
+
+* Anchored Note, page 2
+individually or in small groups
+
+a
+
+* Anchored Note, page 2
+The embryos may be stored for at least several months and probably longer.
+
+a
+
+* Anchored Note, page 3
+i. Add 1 mL of 50% methanol and incubate for 30 min with rocking. Remove the solution with a Pasteur pipette or micropipette.
+
+:AP1
+
+* Anchored Note, page 3
+ii. Add 1 mL of PBS and incubate for 30 min with rocking. Remove the PBS.
+
+:AP1c
+
+* Anchored Note, page 3
+If embryos stick to the sides, siliconize the tubes.
+
+c
+
+* Anchored Note, page 3
+iii. Add 1 mL of PBSMT and incubate for 1 h with rocking (do this twice, removing the solu- tion after each wash).
+
+:AP1ix
+
+* Anchored Note, page 3
+Rocking is important to facilitate penetration of the antibody: Ensure that the solution is mixing well.
+
+i
+
+* Anchored Note, page 3
+However, the embryos are fragile once they are fixed, so do not rock them too hard.
+
+x
+
+* Anchored Note, page 3
+7. Add 1 mL of primary antibody diluted in PBSMT. Incubate the embryos overnight at 4°C with rocking.
+
+:AP1ai
+
+* Anchored Note, page 3
+If the antibody is stable, this and all subsequent procedures can be performed at room temperature.
+
+i
+
+* Anchored Note, page 3
+The correct dilution must be determined empirically, but 1:200 is a typical dilution.
+
+a
+
+* Anchored Note, page 3
+i. Wash once in 1 mL for 1 h at 4°C. Transfer the embryos to a 15-mL tube.
+
+:AP1
+
+* Anchored Note, page 3
+ii. Wash once with 10 mL for 1 h at 4°C.
+
+:AP1
+
+* Anchored Note, page 3
+iii. Wash three times in 10 mL for 1 h at room temperature.
+
+:AP1
+
+* Anchored Note, page 3
+9. Transfer the embryos to microcentrifuge tubes. Add 1 mL of secondary antibody diluted 1:500 in PBSMT, and incubate them overnight at 4°C with rocking.
+
+:AP1
+
+* Anchored Note, page 3
+10. Wash the embryos again as in Step 8.
+
+:AP1r(8)
+
+* Anchored Note, page 3
+11. Rinse the embryos in 5 mL of PBTX, and then transfer them to microcentrifuge tubes. Wash them in 1 mL of PBTX with rocking for 20 min.
+
+:AP1
+
+* Anchored Note, page 3
+12. Incubate the embryos in microcentrifuge tubes with 1 mL of DAB-NiCl2 at room temperature for 30 min.
+
+:AP1i
+
+* Anchored Note, page 3
+This allows full penetration of the substrate into the embryo.
+
+i
+
+* Anchored Note, page 3
+13. Add H2O2 to a final concentration of 0.03% and rock until the color intensity in the embryos looks good (i.e., specific regions of staining are obvious and before background staining comes up; usu- ally 2-10 min).
+
+:AP2a
+
+* Anchored Note, page 3
+If necessary, check color in the dissecting microscope. If the color reaction occurs too quickly, use a lower con- centration of H2O2.
+
+a
+
+* Anchored Note, page 3
+14. Post-fix the embryos in 4% paraformaldehyde.
+
+:AP1i
+
+* Anchored Note, page 3
+Without post-fixation, the color of the stained embryos will fade under strong light, particularly under light used for photography.
+
+i
+
+* Anchored Note, page 3
+i. Quickly rinse in 1 mL of PBTX.
+
+:AP1
+
+* Anchored Note, page 3
+ii. Washin1mLofPBTXfor30min.
+
+:AP1
+
+* Anchored Note, page 3
+iii. Wash in 1 mL of 50% methanol for 30 min.
+
+:AP1
+
+* Anchored Note, page 3
+iv. Wash in 1 mL of 80% methanol for 30 min.
+
+:AP1
+
+* Anchored Note, page 3
+v. Wash in 1 mL of 100% methanol for 30 min.
+
+:AP1a, CB(17)1
+
+* Anchored Note, page 3
+If necessary, whole-mount embryos can be sectioned.
+
+a
+
+* Anchored Note, page 3
+If this is the case, proceed to Step 17.
+
+CB(17)1
+
+* Anchored Note, page 3
+16. Remove the methanol, add 500 μL of BABB, and rock for 10 min. Make observations of the stained embryos in a glass Petri dish (do not use polystyrene dishes). For photography, place embryos in a depression slide with a coverslip on top. Use a tungsten color film without filters or a daylight color film with a blue filter.
+
+:AP1avx
+
+* Anchored Note, page 3
+Make observations of the stained embryos in a glass Petri dish (do not use polystyrene dishes)
+
+v
+
+* Anchored Note, page 3
+For photography, place embryos in a depression slide with a coverslip on top.
+
+a
+
+* Anchored Note, page 3
+do not use polystyrene dishes
+
+x
+
+* Anchored Note, page 3
+Use a tungsten color film without filters or a daylight color film with a blue filter.
+
+x
+
+* Anchored Note, page 4
+Although embryos can be stored in BABB in a dark place, it is advisable to obtain a photographic record as soon as possible.
+
+a
+
+* Anchored Note, page 4
+i. Wash twice in 100% ethanol for 1 h each.
+
+:AP1
+
+* Anchored Note, page 4
+ii. Wash twice in xylene for 1 h.
+
+:AP1
+
+* Anchored Note, page 4
+iii. Wash once in xylene:wax (1:1) for 1 h.
+
+:AP1
+
+* Anchored Note, page 4
+iv. Wash twice in wax for 1 h each.
+
+:AP1, CL(17.iv)1
+
+* Anchored Note, page 4
+v. Embed, section, and mount the embryos (for details, see CSH Protocols articles Embedding Mouse Embryos and Tissues in Wax and Sectioning Mouse Embryos). For counterstain- ing, use a light (30-45 sec) stain with eosin B.
+
+:AP1ar(x)
+
+* Anchored Note, page 4
+for details, see CSH Protocols articles Embedding Mouse Embryos and Tissues in Wax and Sectioning Mouse Embryos
+
+r(x)
+
+* Anchored Note, page 4
+For counterstain- ing, use a light (30-45 sec) stain with eosin B.
+
+a
+

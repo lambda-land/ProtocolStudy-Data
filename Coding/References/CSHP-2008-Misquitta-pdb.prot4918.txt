@@ -1,0 +1,51 @@
+* Anchored Note, page 1
+This protocol was adapted from “Targeted Disruption of Gene Function in Drosophila by RNA Interference,” Chapter 19
+
+-PXh(“Targeted Disruption of Gene Function in Drosophila by RNA Interference,” Chapter 19)
+
+* Anchored Note, page 1
+The double-stranded RNA needed for RNAi is prepared as in Preparation of Double-Stranded RNA for Drosophila RNA Interference (RNAi).
+
+-PRh(Preparation of Double-Stranded RNA for Drosophila RNA Interference (RNAi).)
+
+* Anchored Note, page 1
+see Collection of Drosophila Embryos for RNA Interference (RNAi)
+
+-PRh(Preparation of Double-Stranded RNA for Drosophila RNA Interference (RNAi).)
+
+* Anchored Note, page 1
+Drosophila RNA Interference (RNAi) Using a Gal-4 Inducible Transgene Vector (Misquitta et al. 2008)
+
+-PSh(Misquitta et al 2008)
+
+* Anchored Note, page 1
+basic methods for injection of embryos and the analysis of gene expres- sion in Drosophila embryos. If not, details for these procedures can be found elsewhere; see Ashburner (1989a,b);
+
+-PIh(Ashburner 1989a,b)
+
+* Anchored Note, page 1
+for microinjection procedures, see Kiehart et al. (2000).
+
+-PIh(Kiehart et al 2000)
+
+* Anchored Note, page 2
+Collection basket (nylon mesh; see Collection of Drosophila Embryos for RNA Interference (RNAi) for details of construction)
+
+-PRh(Collection of Drosophila Embryos for RNA Interference
+(RNAi))
+
+* Anchored Note, page 2
+Follow the manufacturer’s instructions for pulling the needles.
+
+-MBh(Fredreck Haer and Co. Glass Capillaries Mfr. Instr)
+
+* Anchored Note, page 2
+If using a different model injector, calibrate the injector according to the manufacturer’s instructions.
+
+-EB
+
+* Anchored Note, page 3
+Fix the embryos and stain them using standard protocols; see Ashburner (1989a,b).
+
+-PBh(Ashburner 1989a,b)
+

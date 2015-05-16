@@ -1,0 +1,30 @@
+* Anchored Note, page 1
+This protocol assumes familiarity with the standard procedures of whole-cell patch-clamp recordings (see, e.g., Marty and Neher 1995)
+
+-PIh(Marty and Neher 1995)
+
+* Anchored Note, page 1
+A protocol for Preparation of Rodent Hippocampal Slice Cultures (Fuller and Dailey 2007) is available.
+
+-PRh(Fuller and Dailey 2007)
+
+* Anchored Note, page 1
+<R>Pipette solution for current-clamp recordings
+
+-PRh(Appendix)
+
+* Anchored Note, page 1
+<R>Pipette solution for voltage-clamp recordings can be used as an alternative (see Step 1).
+
+-PRh(Appendix)
+
+* Anchored Note, page 1
+<R>Standard external saline
+
+-PRh(Appendix)
+
+* Anchored Note, page 3
+Perform seal formation and establish the whole-cell configuration as per standard electrophysio- logical recordings
+
+-LB
+

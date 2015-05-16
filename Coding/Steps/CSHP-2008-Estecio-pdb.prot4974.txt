@@ -1,0 +1,370 @@
+* Anchored Note, page 2
+<R>LowC dNTP mix (10X)
+
+-PRh(appendices)
+
+* Anchored Note, page 2
+<R>MCA reaction buffer (10X)
+
+-PRh(appendices)
+
+* Anchored Note, page 2
+<R>MCAM wash solution 1
+
+-PRh(appendices)
+
+* Anchored Note, page 2
+<R>SSC (20X) is diluted 100-fold in H2O to prepare this wash solution, which is 0.2X SSC.
+
+-PRh(appendices)
+
+* Anchored Note, page 2
+<R>Prehybridization solution for MCAM
+
+-PRh(appendices)
+
+* Anchored Note, page 2
+<R>React2 buffer (10X)
+
+-PRh(appendices)
+
+* Anchored Note, page 2
+<R>TE buffer (pH 8.0)
+
+-PRh(appendices)
+
+* Anchored Note, page 3
+This method was adapted from an original protocol by Toyota et al. (1999). An online version is also available at http://www.mdanderson.org/departments/methylation/.
+
+:X1ir(x)
+
+* Anchored Note, page 3
+An online version is also available at http://www.mdanderson.org/departments/methylation/.
+
+r(x)
+
+* Anchored Note, page 3
+1. Digest 5 μg of genomic DNA using 100 units of SmaI for 16 h at 25°C.
+
+:AP1
+
+* Anchored Note, page 3
+2. Add 20 units of XmaI and incubate the reaction for 6 h at 37°C.
+
+:AP1
+
+* Anchored Note, page 3
+3. Bring the reaction volume to 500 μL with H2O and add one volume of 1.5:1 phenol:chloroform (pH 9.0). Vortex the mixture for 1 min, centrifuge for 10 min at 13,000 rpm, and transfer the supernatant to a 1.7-mL microcentrifuge tube.
+
+:AP2;AP1
+
+* Anchored Note, page 3
+add one volume of 1.5:1 phenol:chloroform (pH 9.0). Vortex the mixture for 1 min, centrifuge for 10 min at 13,000 rpm, and transfer the supernatant to a 1.7-mL microcentrifuge tube.
+
+AP1
+
+* Anchored Note, page 3
+Bring the reaction volume to 500 μL with H2O
+
+AP2
+
+* Anchored Note, page 4
+4. Precipitate the DNA by adding 1/10th volume of 3 M sodium acetate and two volumes of 100% ethanol.
+
+:AP1
+
+* Anchored Note, page 4
+5. Incubate the sample at −70°C for 1 h, and centrifuge for 30 min at 13,000 rpm. Pour out the ethanol and air dry the DNA pellet.
+
+:AP1
+
+* Anchored Note, page 4
+6. Resuspend the DNA in 20 μL of TE and determine the DNA concentration using a spectropho- tometer.
+
+:AP1;AQ1
+
+* Anchored Note, page 4
+determine the DNA concentration
+
+AQ1
+
+* Anchored Note, page 4
+i. Dilute the RXMA (or RMCA) primers to 100 μM.
+
+:AP2
+
+* Anchored Note, page 4
+ii. Combine 50 μL of RXMA24 with 50 μL of RXMA12 (or RMCA24 and RMCA12).
+
+:AP1
+
+* Anchored Note, page 4
+8. Incubate the adaptor mix for 3 min at 65°C, and cool it to room temperature over 60 min. This mixture can be stored for up to 6 mo at -20°C.
+
+:AP1ew
+
+* Anchored Note, page 4
+cool it to room temperature
+
+e
+
+* Anchored Note, page 4
+This mixture can be stored for up to 6 mo at -20°C.
+
+w
+
+* Anchored Note, page 4
+i. Combine the following reagents: 500 ng 10 μL 3 μL 400 units to 30 μL Digested DNA (Step 6) Adaptor mixture (Step 8) 10X ligase buffer T4 DNA ligase H2O
+
+:AP1
+
+* Anchored Note, page 4
+ii. Incubate the ligation reaction for 16 h at 16°C.
+
+:AP1
+
+* Anchored Note, page 4
+10. Prepare the MCA reactions using the following reagents: 10 μL 100 pmol 15 units 1.2 μL 5 μL 3 μL to 97 μL 10X MCA reaction buffer RXMA24 (or RMCA24) primer Taq DNA polymerase dNTP mix (25 mM) DMSO (RMCA primers only) Ligation mixture (Step 9.ii) H2O DMSO is not needed with RXMA primers. Typically, four MCA reactions per tested sample are necessary to generate enough PCR product for labeling.
+
+:AP1ma,AP3
+
+* Anchored Note, page 4
+DMSO is not needed with RXMA primers.
+
+AP3
+
+* Anchored Note, page 4
+Typically, four MCA reactions per tested sample are necessary to generate enough PCR product for labeling.
+
+ma
+
+* Anchored Note, page 4
+11. Incubate the reaction for 5 min at 72°C, and perform PCR as follows: Number of cycles 20 Temperature Time 95°C 72°C (for RXMA) or 77°C (for RMCA) 1 min 3 min 1
+
+:AP1
+
+* Anchored Note, page 4
+12. Analyze 10 μL of the PCR products on a 1.5% agarose gel to check the quality of the amplification. A relatively strong smear, ranging from 300 bp to 2 kb, should be visible for RXMA primers. Expect a smear rang- ing from 200 bp to 1 kb when using RMCA primers.
+
+:AQ2;AI3ev
+
+* Anchored Note, page 4
+Analyze 10 μL of the PCR products on a 1.5% agarose gel
+
+AQ3
+
+* Anchored Note, page 4
+check the quality of the amplification
+
+AI3
+
+* Anchored Note, page 4
+A relatively strong smear, ranging from 300 bp to 2 kb, should be visible for RXMA primers. Expect a smear rang- ing from 200 bp to 1 kb when using RMCA primers.
+
+e
+
+* Anchored Note, page 4
+This hybridization protocol is optimized for the Human CpG-island 12K Array (HCGI12K) from University Health Network (www.microarrays.ca).
+
+:X3x
+
+* Anchored Note, page 4
+13. Combine PCR products of replicate samples and purify them using the QIAquick PCR Purification kit according to the manufacturer’s recommendation. Elute the samples in 30 μL of 1X TE buffer.
+
+:S2r(x);AP1
+
+* Anchored Note, page 4
+Combine PCR products of replicate samples and purify them using the QIAquick PCR Purification kit according to the manufacturer’s recommendation.
+
+-MBdh(QIAquick PCR Purification Kit Instructions)
+
+* Anchored Note, page 4
+14. Quantify the DNA yield using a spectrophotometer.
+
+:AQ2
+
+* Anchored Note, page 5
+i. Assemble each labeling reaction as follows (35-μL total volume): 25 μL (5 μg) MCA product (Step 11) in H2O 10 μL (7.5 μg/μL) Random octomer primer (8N)
+
+:AP1mr(11)
+
+* Anchored Note, page 5
+ii. Denature the nucleic acids by incubating at 100°C for 5 min, and then immediately trans- fer the tubes to ice.
+
+:AP1m
+
+* Anchored Note, page 5
+iii. Add the following reagents to the nucleic acids (to a 50-μL total volume): 5 μL 5 μL 3 μL 2 μL 10X React2 buffer 10X LowC dNTP mix Cy3-dCTP (or Cy5-dCTP) Klenow fragment (stock 40 units/μL)
+
+:AP1ma
+
+* Anchored Note, page 5
+Typically, Cy5-dCTP mix is used for tumor DNA and Cy3-dCTP is used for normal (reference) DNA.
+
+a
+
+* Anchored Note, page 5
+iv. Incubate the reactions for 2 h at 37°C.
+
+:AP1m
+
+* Anchored Note, page 5
+16. Increase the reaction volume to 100 μL with H2O, and purify each sample using a PCR purification kit (QIAquick) as follows:
+
+:AP2
+
+* Anchored Note, page 5
+i. Add 500 μL of PBI buffer to the column in the PCR purification kit, let it stand for 5 min, centrifuge the column for 1 min at 13,000 rpm, and discard the flow-through.
+
+:AP1m
+
+* Anchored Note, page 5
+ii. Wash the column with 700 μL of PE buffer, centrifuge for 1 min at 13,000 rpm, discard the flow-through, and centrifuge once again at 13,000 rpm for 1 min.
+
+:AP1m
+
+* Anchored Note, page 5
+iii. Place the column in a clean 1.7-mL microcentrifuge tube, and elute twice with 50 μL of H2O, waiting 2 min between centrifugations.
+
+:AP1m
+
+* Anchored Note, page 5
+17. Read the samples in a spectrophotometer at the following wavelengths (use the full volume of labeled sample): Cy3= 550 nm; Cy5= 650 nm.
+
+:AQ1x
+
+* Anchored Note, page 5
+use the full volume of labeled sample
+
+x
+
+* Anchored Note, page 5
+18. Calculate the concentration of incorporated dyes as follows: Cy3 = A550/0.15 = pmol/μL of Cy3 dye incorporated Cy5 = A650/0.25 = pmol/μL of Cy5 dye incorporated Optimal amounts for hybridization are between 250 pmol (minimum) and 400 pmol (maximum) of incor- porated dyes.
+
+:AI1e
+
+* Anchored Note, page 5
+Optimal amounts for hybridization are between 250 pmol (minimum) and 400 pmol (maximum) of incor- porated dyes.
+
+e
+
+* Anchored Note, page 5
+19. Prehybridize the slides for 45 min at 42°C in prehybridization solution for MCAM.
+
+:AP1
+
+* Anchored Note, page 5
+20. Combine equal picomole amounts of labeled tumor and normal amplicons and bring to 500 μL with H2O. Reduce the volume to a 15-μL concentrate using a centrifugal filter unit (Microcon YM-30) as follows:
+
+:AP2
+
+* Anchored Note, page 5
+i. Centrifuge the column for 12 min at 14,000g.
+
+:AP1
+
+* Anchored Note, page 5
+ii. Invert the column in a new microcentrifuge tube and centrifuge it for 3 min at 5000 rpm to collect the sample.
+
+:AP1
+
+* Anchored Note, page 5
+iii. Transfer the sample to a new microcentrifuge tube and bring the volume to 15 μL with H2O, if necessary. This step typically takes 12 min at 14,000g.
+
+:AP2e
+
+* Anchored Note, page 5
+This step typically takes 12 min at 14,000g.
+
+e
+
+* Anchored Note, page 5
+21. Heat a large beaker of H2O to boiling on a hot plate.
+
+:AP2
+
+* Anchored Note, page 5
+22. Rinse microarray slides in room temperature H2O.
+
+:AP1
+
+* Anchored Note, page 5
+23. Place the slides in boiling H2O for 1 min and in 4°C ethanol for another 1 min.
+
+:AP1
+
+* Anchored Note, page 5
+24. Immediately centrifuge the microarrays for 6 min at 600 rpm in a benchtop centrifuge.
+
+:AP1
+
+* Anchored Note, page 5
+25. Add 10 μL of human Cot1 DNA (total 10 μg) and 25 μL of 2X SDS hybridization solution to the sample from Step 20. Mix gently.
+
+:AP1r(20)
+
+* Anchored Note, page 6
+26. Denature the DNA (from Step 25) for 2 min at 95°C, and hold the tubes in a 60°C water bath.
+
+:AP1r(25)
+
+* Anchored Note, page 6
+27. Place the microarray slides in a hybridization chamber. Add 50 μL of MCAM wash solution 2 under- neath each side of the slide.
+
+:AP1
+
+* Anchored Note, page 6
+28. Transfer the labeled DNA onto the array area and place a coverslip over the array.
+
+:AP1
+
+* Anchored Note, page 6
+29. Close the hybridization chamber tightly and incubate it in the dark for 16 h in a 60°C water bath. The hybridization chamber should be submerged in water, but direct contact with the bottom of the water bath should be avoided.
+
+:AP1x
+
+* Anchored Note, page 6
+The hybridization chamber should be submerged in water, but direct contact with the bottom of the water bath should be avoided.
+
+x
+
+* Anchored Note, page 6
+30. Warm two 500-mL bottles of MCAM wash solution 1 and 1 500-mL bottle of MCAM wash solu- tion 2 to 60°C.
+
+:AP1
+
+* Anchored Note, page 6
+31. Place the slides, with coverslips facing down, in a slide-staining dish containing MCAM wash solu- tion 1 at 60°C. Keep the slides at a 45° angle to the bottom of the dish to allow the coverslips to detach from the microarrays.
+
+:AP1x
+
+* Anchored Note, page 6
+Keep the slides at a 45° angle to the bottom of the dish
+
+x
+
+* Anchored Note, page 6
+32. Place a slide rack in a slide-staining dish filled with prewarmed MCAM wash solution 1. Transfer the slides into the dish and place it on a rocker platform set to 100 rpm for 10 min.
+
+:AP1
+
+* Anchored Note, page 6
+33. Transfer the slides to a new dish filled with prewarmed MCAM wash solution 2 and place it on a rocker platform set to 100 rpm for 10 min.
+
+:AP1
+
+* Anchored Note, page 6
+34. Rinse the slides by submerging the slide rack 10-20 times in H2O.
+
+:AP1
+
+* Anchored Note, page 6
+35. Immediately centrifuge the slides for 6 min at 600 rpm in a benchtop centrifuge.
+
+:AP1
+
+* Anchored Note, page 6
+36. Scan the slides.
+
+:AP1,AV1
+

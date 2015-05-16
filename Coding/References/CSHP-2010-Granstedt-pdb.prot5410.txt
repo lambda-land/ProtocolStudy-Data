@@ -1,0 +1,25 @@
+* Anchored Note, page 2
+<!>Isoflurane
+
+-PAh(Appendix)
+
+* Anchored Note, page 2
+<R>Mammalian Ringer’s solution (prewarmed)
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<!>Mice   If another species is used, surgical conditions and drug dosages should be optimized for that species.
+
+-PAmh(Appendix)
+
+* Anchored Note, page 2
+<!>PRV369 inoculum (1010 plaque-forming units [pfu]/mL)
+
+-PAh(Appendix)
+
+* Anchored Note, page 2
+The procedure must be performed under Biosafety Level 2 conditions.
+
+-PAh(Biosafety Level 2 conditions)
+

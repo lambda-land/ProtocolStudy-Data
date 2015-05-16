@@ -1,0 +1,170 @@
+* Anchored Note, page 1
+<R>Blocking DNA (50X)
+
+-PRh(Appendix)
+
+* Anchored Note, page 1
+<R>BrdU (100X)
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<R>EDTA (10 mM)
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<R>Elution buffer for genomic DNA
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<R>Immunoprecipitation (IP) buffer for genomic DNA, prechilled on ice
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<R>Lysis buffer for genomic DNA
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<R>PBS for genomic DNA (10X)
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<!>Phenol:chloroform:isoamyl alcohol (25:24:1; PCI) Store at 4°C.
+
+-PAh(Appendix)
+
+* Anchored Note, page 2
+<!>Sodium azide can be added as a preservative to the slurry at 0.01% (w/v). This protocol works well with magnetic protein G beads (Dynabeads Protein G; Invitrogen)
+
+-PAmh(Appendix)
+
+* Anchored Note, page 2
+<!>RNase A (DNase-free, 20 mg/mL; Sigma) Store at -20°C.
+
+-PAh(Appendix)
+
+* Anchored Note, page 2
+The analysis described in this procedure must be conducted on yeast cells that have been engineered to assimilate BrdU from the growth medium and incorporate it into DNA. This can be accomplished in yeast by overexpressing herpes simplex virus thymidine kinase to phosphorylate nucleosides (Lengronne et al. 2001)
+
+-PRh(Lengronne et al 2001)
+
+* Anchored Note, page 2
+and is made more efficient with the combined expression of an equilibrative nucleoside transporter to facilitate efficient uptake of extracellular nucleosides (or their analogs) (Vernis et al. 2003; Viggiani and Aparicio 2006).
+
+-PAh(Vernis et al 2003; Viggiani and Aparicio 2006)
+
+* Anchored Note, page 2
+<!>Sodium azide
+
+-PAh(Appendix)
+
+* Anchored Note, page 2
+<R>SSC (3X), prechilled to 4oC
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<R>TE (pH 7.6)
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<R>Tris-buffered saline (TBS) for yeast, prechilled on ice
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<R>Yeast extract-peptone-dextrose growth medium (YEPD) or other medium
+
+-PRh(Appendix)
+
+* Anchored Note, page 2
+<!>Dry ice/ethanol bath (optional; see Step 7)
+
+-PAh(Appendix)
+
+* Anchored Note, page 2
+<!>Alternatively, liquid nitrogen can be used to freeze the cells.
+
+-PAh(Appendix)
+
+* Anchored Note, page 5
+Purify the samples using a QIAquick PCR Purification Kit according to the manufacturer’s instructions.
+
+-MBh(QIAquick PCR Purification kit mfr instr)
+
+* Anchored Note, page 6
+Purify the eluate using a MinElute PCR Purification Kit according to the manufacturer’s protocol with the following modifications: i. Perform two washes with PE Buffer. ii. Elute with 11 μL of 0.2X EB prewarmed to ~50°C
+
+-MBmh(MinElute PCR Purification Kit Mfr. Instr.)
+
+* Anchored Note, page 6
+Use the GenomePlex Complete WGA Kit to separately amplify 10 ng of IP and 10 ng of reference DNA according to the manufacturer’s protocol.
+
+-MBh(GenomePlex Complete WGA Kit Mfr. Protocol)
+
+* Anchored Note, page 6
+After the amplification reaction, purify the DNA samples using a QIAquick PCR Purification Kit according to the manufacturer’s instructions.
+
+-MBh(QIAquick PCR Purification Kit Mfr. Instr)
+
+* Anchored Note, page 6
+Use the NimbleGen Dual-Color DNA Labeling Kit (or similar) to label the IP DNA with Cy5 andreference DNA with Cy3 according to the manufacturer’s instructions.The Klenow extension reaction in this step further amplifies the DNA samples. This amplification is dependent on several factors, including the Cy-conjugated random 9-mer primer concentration and the amount of Klenow used. We have found that hybridizations can be performed using less labeled DNA
+
+-MBmh(NimbleGen Dual-Color DNA Labeling Kit Mfr. Instr)
+
+* Anchored Note, page 7
+Purify the labeled DNA using a MinElute PCR Purification Kit according to the manufacturer’s protocol. Elute with 10 μL of 10 mM EDTA. The volume used to dissolve the labeled DNA can be adjusted depending on the anticipated amount of DNA produced in the labeling reaction.
+
+-MBmh(MinElute PCR Purification Kit Mfr. Instr)
+
+* Anchored Note, page 7
+Follow the array manufacturer’s guidelines.
+
+-EB  [Note: this feels like this is an alternative course rather than "branch here and come back".  We don't have a code for that, but maybe it counts as B]
+
+* Anchored Note, page 7
+Adapted from the protocols supplied by NimbleGen,
+
+-MX
+
+* Anchored Note, page 7
+For other array configurations or platforms, hybridization supplies and protocols included by the microarray manufacturer should be used.
+
+-EB
+
+* Anchored Note, page 8
+Wash and dry the slides using the protocol, solutions, slide racks, and wash chambers found in the NimbleGen Wash Buffer Kit and the NimbleGen Array Processing Accessories Kit.
+
+-MBh(NimbleGen Wash Buffer Kit and NimbleGen Array Processing Accessories Kit Mfr. Protocol)
+
+* Anchored Note, page 8
+For other array platforms, perform washes as directed by the microarray supplier.
+
+-EB
+
+* Anchored Note, page 8
+Scan slides according to the description in the NimbleGen Array’s User’s Guide.
+
+-MBh(NimbleGen Array's User's Guide)
+
+* Anchored Note, page 8
+open the scanned image files and create a pair report, as described in the User’s Guide.
+
+-MBh(NimbleGen Array's User's Guide)
+
+* Anchored Note, page 9
+immobilizing immunoprecipitated DNA onto nylon membranes (e.g., using a slot-blotter) and probing the membranes with anti-BrdU antibody (Viggiani and Aparicio 2006).
+
+-PSh(Viggiani and Aparicio 2006)
+
+* Anchored Note, page 9
+If necessary, reamplify the samples according to the WGA kit protocol to achieve a higher DNA yield.
+
+-MSh(WGA kit protocol)
+
