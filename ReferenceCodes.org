@@ -1,0 +1,55 @@
+* Syntax
+
+N ::= -TKa*
+   \vert  N, N (multiple codes)
+   \vert  N; N (sequential codes)
+   \vert  N\vert N (alternative codes)
+
+* Types of document referred to
+
+| Code | Description                                 |
+|------+---------------------------------------------|
+| M    | manufacturer instructions                   |
+| P    | academic protocol or paper                  |
+| L    | institutional lab protocol or policy        |
+| E    | equipment instructions                      |
+
+* Integration strategy
+
+| Code | Description                                               |
+|------+-----------------------------------------------------------|
+| A    | concurrent: use reference in parallel                     |
+| B    | splice: use reference, then continue                      |
+| R    | before: use reference before starting                     |
+| S    | merge: combine reference with protocol in unspecified way |
+
+* Non-integration Role
+
+| Code | Description                                             |
+|------+---------------------------------------------------------|
+| X    | derivation: protocol was created by modifying reference |
+| C    | comparison: protocol contains similarity to reference   |
+| I    | background: additional informaion                       |
+
+* Features
+
+| Code | Description                                    |
+|------+------------------------------------------------|
+| m    | modifications: use reference with modification |
+| h(%) | link: location of/link to external source      |
+
+
+* Coding notes
+
+1) In some protocols, <R> recipes are listed at the end of the document; in others they're not in our PDF but
+in an appendix.  I've treated them all as though they're external, for consistency.  I don't think it's
+relevant to our research questions that CSHP has changed the layout of their issue in this way; the user still
+has to do the same function of combining recipes with the protocol
+
+2) When Discussion kind of sections talk about other academic references in relation to this protocol,
+it's not always clear whether the refs are other protocols you can compare or combine with this one, or
+just academic discussions of the issues involved.  I've tried to guess based on the text, but these decisions
+may not be very reliable.
+
+3) The I code may reiterate some steps in the protocol in more detail; so it might just
+be counted as an "A" code, but we don't have it in front of us to check.

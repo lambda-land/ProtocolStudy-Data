@@ -1,0 +1,44 @@
+* Syntax
+
+C ::= :KPF*
+   \vert C , C (multiple codes)
+   \vert C ; C (sequential codes)
+   \vert C \vert C (alternative codes)
+
+* Kind of action
+
+| Code  | Description                               |
+|-------+-------------------------------------------|
+| AP    | physical: manipulate physical objects     |
+| AV    | virtual: manipulate virtual objects       |
+| AI    | cognitive: evaluate or analyze            |
+| AQ    | measurement: take a measurement           |
+| X     | non-human: no required human action       |
+| DS    | selection: make a selection decision      |
+| W     | monitoring: watch or monitor              |
+| CB(#) | branching: perform parallel actions       |
+| CL(#) | looping: repeat a process or step         |
+
+* Precision of action
+
+| Code | Description                                    |
+|------+------------------------------------------------|
+|    1 | instruction: straightforward instruction       |
+|    2 | goal-directed: describes goal, not action      |
+|    3 | task-directed: describes task, not goal/action |
+|    4 | open-ended: requires creativity or inginuity   |
+
+* Features
+
+| Code | Description                                   |
+|------+-----------------------------------------------|
+| a    | advice: suggested method or process           |
+| x    | constraint: avoid this method or process      |
+| e    | expected outcome: expected result or outcome  |
+| o    | optionality: optional process                 |
+| w    | wiggle room: alternative method or process    |
+| c    | contingencies: in-line troubleshooting        |
+| i    | information: background information           |
+| r()  | reference: outside source ([x, t, #])         |
+| m    | mapping: map instruction over a set           |
+| v    | visual pattern match: human visual processing |
