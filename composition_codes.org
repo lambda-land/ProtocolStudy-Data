@@ -1,0 +1,55 @@
+* Syntax
+
+N ::= -TKa*
+   \vert  N, N (multiple codes)
+   \vert  N; N (sequential codes)
+   \vert  N\vert N (alternative codes)
+
+* Types of things being composed
+
+| Code | Description                                 |
+|------+---------------------------------------------|
+| M    | external Manufacturer instruction set       |
+| P    | external Protocol reference                 |
+| L    | internal/implicit Lab protocol reference    |
+| E    | internal/implicit Equipment instruction set |
+
+* Kinds of composition
+
+| Code | Description                                                                    |
+|------+--------------------------------------------------------------------------------|
+| A    | pArallel step (do this while\dots)                                                 |
+| B    | Branching step (do this then come back to the next step\dots)                      |
+| R    | pRe-processing step (do this before\dots)                                          |
+| S    | Sequencing (Branching, but specified externally, not in the branched-from step |
+
+* External protocol references that are not composition
+
+| Code | Description                                                     |
+|------+-----------------------------------------------------------------|
+| X    | Derivation: this protocol was created by modifying some other   |
+| C    | Comparison: this protocol is same/different from some other     |
+| I    | Information: Protocol listed as background information for user |
+
+* additional composition information
+
+| Code | Description                                                |
+|------+------------------------------------------------------------|
+| m    | apply the composition with modifications                   |
+| h(%) | file name for composed item                                |
+
+
+* Coding notes
+
+1) In some protocols, <R> recipes are listed at the end of the document; in others they're not in our PDF but
+in an appendix.  I've treated them all as though they're external, for consistency.  I don't think it's
+relevant to our research questions that CSHP has changed the layout of their issue in this way; the user still
+has to do the same function of combining recipes with the protocol
+
+2) When Discussion kind of sections talk about other academic references in relation to this protocol,
+it's not always clear whether the refs are other protocols you can compare or combine with this one, or
+just academic discussions of the issues involved.  I've tried to guess based on the text, but these decisions
+may not be very reliable.
+
+3) The I code may reiterate some steps in the protocol in more detail; so it might just
+be counted as an "A" code, but we don't have it in front of us to check.
